@@ -838,66 +838,241 @@ Kevyen mini-UAV:n tavoin järjestelmä kärsii rajallisesta kantamasta ja hyöty
 #### Kalustokuva
 ![cobra-1600](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/cobra-1600/cobra-1600-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Kevyt sappari- ja EOD-robotti, jota käytetään epäilyttävien kohteiden etätarkastukseen, räjähteiden ensidiagnostiikkaan ja vaarallisten esineiden siirtämiseen. Avoimissa lähteissä se esiintyy ennen kaikkea pioneerijoukkojen tiedustelu- ja raivausrobotin roolissa.
+
+#### Suorituskyvyt
+- **Kamera- ja sensoripohjainen etätiedustelu (Кобра-1600 / Кобра-1600)**. Järjestelmä tukee visuaalista tiedustelua ja kohteiden ensitarkastusta ilman, että sapparin tarvitsee mennä välittömään vaaravyöhykkeeseen.
+- **Manipulointi ja vaarallisten esineiden käsittely**. Lähteiden mukaan robotti voi käyttää erikoislisälaitteita ja siirtää neutraloituja räjähteitä erillisiin säiliöihin; tarkat kantama- ja kuorma-arvot jäävät avoimissa lähteissä niukoiksi.
+
+#### Huomioitava analyysiin
+Järjestelmä on enemmän pioneerijoukkojen riskin vähentämiseen tarkoitettu EOD-työkalu kuin taistelurobotti. Avoin lähdeaineisto on rajallista, joten suoritusarviot kannattaa pitää varovaisina.
+
+#### Operatiiviset rajoitteet
+Kevyen luokan EOD-robotin vaikutus riippuu voimakkaasti yhteydestä operaattoriin ja maasto-olosuhteista. Avoimista lähteistä ei löydy kattavaa kuvaa suojatasosta, autonomiasta tai taistelunkestävyydestä.
+
+#### Lähteet
+- CNA, *Artificial Intelligence and Autonomy in Russia* (Kobra-1600-luokitus ja rooli): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
+- Army Guide, *Cobra-1600 EOD UGV for the first time entered service* : https://www.army-guide.com/eng/article/article_3240.html
+- ICRC, *Autonomous Weapon Systems* (maininta Cobra-1600-järjestelmästä): https://icrcndresourcecentre.org/wp-content/uploads/2017/11/4283_002_Autonomus-Weapon-Systems_WEB.pdf
 
 ### Kapitan
 #### Kalustokuva
 ![kapitan](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/kapitan/kapitan-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Modulaarinen telaketjuinen robottijärjestelmä, joka on suunnattu tiedustelu-, EOD- ja pioneeritehtäviin. Järjestelmä on esitetty ensisijaisesti monikäyttöisenä insinööri- ja valvontarobottina, ei raskaana taistelualustana.
+
+#### Suorituskyvyt
+- **Tiedustelu- ja pioneerikäyttö (Капитан / Kapitan)**. Lähteet kuvaavat järjestelmää ISR- ja miinanraivaustehtäviin soveltuvana alustana, jossa on manipulaattori ja mahdollisuus vaihtaa tehtävämoduuleja.
+- **Etäohjattu työskentely vaaravyöhykkeellä**. ICDS:n mukaan järjestelmän ohjausetäisyys on noin 500 m kaupunkiympäristössä ja noin 1 km avoimessa maastossa; tarkempi sensorikokoonpano vaihtelee lähteittäin.
+
+#### Huomioitava analyysiin
+Kapitanin arvo on joustavuudessa: sama runko voidaan sovittaa tiedusteluun, raivaukseen ja mahdollisesti myös tuleviin EW- tai asemoduuleihin. Avoin tieto viittaa kuitenkin siihen, että järjestelmä on ollut rajallisen mittakaavan käyttöönotto- tai prototyyppivaiheessa.
+
+#### Operatiiviset rajoitteet
+Lyhyehkö ohjausetäisyys ja line-of-sight-tyyppinen käyttö rajoittavat sen hyötyä tulen alla tai rakennetussa maastossa. Avoimista lähteistä ei löydy varmistettua tietoa laajasta sarjatuotannosta tai vakiintuneesta taistelukäytöstä.
+
+#### Lähteet
+- CNA, *Artificial Intelligence and Autonomy in Russia* (Kapitan-taulukko ja rooli): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
+- ICDS, *The Rise of Russia's Military Robots* : https://icds.ee/wp-content/uploads/2021/02/ICDS-Analysis_The-Rise-of-Russias-Military-Robots_Sten-Allik-et-al_February-2021.pdf
+- Army Recognition, *Russian engineer troops to receive Kapitan unmanned tracked robot UGV* : https://armyrecognition.com/focus-analysis-conflicts/army/defence-security-industry-technology/russian-engineer-troops-to-receive-kapitan-unmanned-tracked-robot-ugv
 
 ### Marker
 #### Kalustokuva
 ![marker](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-01.png)
 ![marker](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-02.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Kokeellinen ja modulaarinen miehittämätön maa-ajoneuvo, jota on kehitetty autonomian, sensorifuusion ja asemoduulien testialustaksi. Se on enemmän teknologinen kehitysalusta kuin laajasti vakiintunut sarjatuotettu kenttäjärjestelmä.
+
+#### Suorituskyvyt
+- **Autonominen liikkuminen ja ryhmätoiminta (Маркер / Marker)**. Lähteet korostavat autonomista navigointia, konehavainnointia ja kykyä toimia osana useamman robotin tai droonin verkkoa.
+- **Modulaarinen ase- ja tehtäväkuorma**. Julkisesti esitellyissä kokoonpanoissa järjestelmään on liitetty tiedustelu-, tulituki- ja panssarintorjuntamoduuleja; ilmoitetut nopeus- ja toimintasädearvot vaihtelevat lähteittäin ja perustuvat usein demonstraatiokokoonpanoihin.
+
+#### Huomioitava analyysiin
+Markeria kannattaa tarkastella ennen kaikkea teknologiaohjelmana, jonka tarkoitus on kypsyttää venäläisiä UGV-ratkaisuja. Julkinen keskustelu sen ympärillä on osin demonstratiivista, joten ilmoitettujen kykyjen ja todellisen operatiivisen käyttöönoton väliin jää epävarmuutta.
+
+#### Operatiiviset rajoitteet
+Autonomiaan ja verkottumiseen perustuvat suorituskyvyt ovat herkkiä häirinnälle, navigointiongelmille ja ohjelmiston kypsyydelle. Avoimista lähteistä ei saa täysin varmistettua kuvaa laajasta palveluskäytöstä tai tuotantomääristä.
+
+#### Lähteet
+- Army Technology, *Marker Anti-Tank Robotic Unmanned Ground Vehicle* : https://www.army-technology.com/projects/marker-anti-tank-ugv-russia/
+- Fletcher School / European Security & Defence, *Russian UGV developments influenced by Ukraine War* : https://sites.tufts.edu/fletcherrussia/russian-ugv-developments-influenced-by-ukraine-war/
+- Automated Research / IISS Military Balance+ reference page, *Androidnaya Tekhnika Marker UGV* : https://automatedresearch.org/weapon/androidnaya-tekhnika-marker-ugv/
 
 ### MRK-3
 #### Kalustokuva
 ![mrk-3](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-3/mrk-3-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Avoimissa lähteissä MRK-3 esiintyy miehittämättömänä maa-ajoneuvona, jonka rooliksi kuvataan taistelutuki tai partiointi. Järjestelmästä on kuitenkin julkisesti saatavilla hyvin vähän varmennettua teknistä tietoa.
+
+#### Suorituskyvyt
+- **Taistelutuki ja partiointi (МРК-3 / MRK-3)**. Julkiset lähteet luokittelevat järjestelmän combat support/patrol -rooliin, mutta tarkka aseistus, sensorit ja suoritusarvot eivät avaudu luotettavasti avoimissa lähteissä.
+- **Tietoaukko**. Kantama-, nopeus-, suojataso- ja ohjausjärjestelmätiedot puuttuvat tai ovat liian hajanaisia varmaan kuvaukseen.
+
+#### Huomioitava analyysiin
+MRK-3:n kohdalla analyytikon on syytä erottaa toisistaan pelkkä järjestelmän olemassaolo ja sen todellinen operatiivinen merkitys. Avoin lähdeaineisto ei tällä hetkellä riitä vahvaan suorituskykyarvioon.
+
+#### Operatiiviset rajoitteet
+Koska luotettavaa teknistä tietoa on vähän, myös käyttöympäristöä ja taistelukestävyyttä koskevat arviot jäävät epävarmoiksi. Järjestelmä kannattaa merkitä tietokantaan matalan luottamustason kohteena.
+
+#### Lähteet
+- CNA, *Artificial Intelligence and Autonomy in Russia* (yleinen venäläisten UGV-järjestelmien kooste): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
+- Wikipedia-listhaku osoittaa MRK-3:n esiintyvän julkisissa kalustoluetteloissa, mutta ei täytä yksin luotettavan lähteen vaatimusta; siksi varsinaista teknistä kuvausta ei ole laajennettu.
 
 ### MRK-35MA
 #### Kalustokuva
 ![mrk-35ma](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-35ma/mrk-35ma-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+MRK-35MA kuuluu avoimissa lähteissä pieniin robottijärjestelmiin, joita liitetään tiedustelu-, raivaus- tai CBRN-tyyppisiin tehtäviin. Julkinen tekninen aineisto on kuitenkin niukkaa ja osin epäyhtenäistä.
+
+#### Suorituskyvyt
+- **Tiedustelu- ja erikoistehtävät (МРК-35МА / MRK-35MA)**. Julkisissa kalustoluetteloissa se esiintyy yhdessä MRK-RKh-järjestelmän kanssa, mikä viittaa tiedustelu-/erikoistehtäväkäyttöön, mutta tarkka rooli vaihtelee lähteittäin.
+- **Tietoaukko**. Luotettavat avoimet lähteet eivät tarjoa varmistettuja arvoja esimerkiksi ohjausetäisyydestä, sensoreista tai kuormankannosta.
+
+#### Huomioitava analyysiin
+MRK-35MA:n osalta turvallisin tapa on kuvata se pienen luokan erikoisrobotiksi ja merkitä suoritusarviot matalan luottamuksen tiedoksi. Vahvoja johtopäätöksiä ei kannata tehdä ilman lisälähteitä.
+
+#### Operatiiviset rajoitteet
+Niukka lähdeaineisto tekee vaikeaksi arvioida, onko järjestelmä prototyyppi, rajattu erikoisväline vai laajemmin käytössä oleva alusta. Käyttöä rajoittaa analyysissä ennen kaikkea tiedon puute.
+
+#### Lähteet
+- CNA, *Artificial Intelligence and Autonomy in Russia* (UGV-yleiskooste): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
+- Julkisissa kalustoluetteloissa esiintyvä luokittelu viittaa järjestelmän olemassaoloon, mutta tarkat suorituskykytiedot puuttuvat; tästä syystä kuvaus on pidetty tarkoituksella varovaisena.
 
 ### MRK-46
 #### Kalustokuva
 ![mrk-46](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-46/mrk-46-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+MRK-46 on pieni telaketjuinen robottijärjestelmä, joka on suunnattu tiedustelu- ja miinanraivaus-/EOD-tehtäviin. Se edustaa vanhemman sukupolven insinöörirobotteja, joissa painottuu manipulaatio ja etätyöskentely.
+
+#### Suorituskyvyt
+- **Tiedustelu ja raivaus (МРК-46 / MRK-46)**. Lähteet kuvaavat järjestelmää tiedustelu- ja mine clearing -rooliin soveltuvana alustana.
+- **Manipulaattori ja kaapeliohjaus**. Army Guiden mukaan alustassa on manipulaattori, etukuormaajamainen työlaite, kamerat ja kaapelinlaskuyksikkö; ohjaus tapahtuu kaapelilla, mikä rajoittaa etäisyyttä mutta tukee häiriönsietoa.
+
+#### Huomioitava analyysiin
+MRK-46:n profiili viittaa perinteiseen EOD-/insinöörirobotin logiikkaan, jossa tärkeintä on turvallinen etäkäyttö eikä korkea liikenopeus tai tulivoima. Kaapeliohjaus on analyytikolle merkittävä tunnuspiirre.
+
+#### Operatiiviset rajoitteet
+Kaapeliohjaus rajoittaa liikkuvuutta, toimintasädettä ja käyttöä monimutkaisessa maastossa. Järjestelmä ei vaikuta olevan suunniteltu korkean intensiteetin taistelukentän etulinjakäyttöön.
+
+#### Lähteet
+- Army Guide, *MRK-46M (Robot, Unmanned Vehicle)* : https://www.army-guide.com/eng/product4735.html
+- CNA, *Artificial Intelligence and Autonomy in Russia* (venäläisten UGV-järjestelmien kooste): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
 
 ### Nerekhta
 #### Kalustokuva
 ![nerekhta](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/nerekhta/nerekhta-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Monikäyttöinen telaketjuinen robottialusta, jota on kehitetty vartiointi-, tiedustelu-, tulituki- ja logistiikkatehtäviin. Järjestelmä on tunnettu ennen kaikkea kokeellisena tai rajatusti käyttöönotettuna aseistetun UGV:n kehityslinjana.
+
+#### Suorituskyvyt
+- **Moniroolinen tehtävämodulaarisuus (Нерехта / Nerekhta)**. Lähteiden mukaan alusta voidaan sovittaa vartiointiin, tiedusteluun, haavoittuneiden evakuointiin ja tulitukitehtäviin.
+- **Aseistettavat ja sensoroidut variantit**. Avoimissa lähteissä järjestelmästä on esitetty tiedustelu- ja asemoduuliversioita, mutta yksityiskohtainen suoritusarvio jää osin prototyyppitason tiedoksi.
+
+#### Huomioitava analyysiin
+Nerekhta on kiinnostava siksi, että se näyttää toimineen välivaiheen alustana venäläisessä aseistettujen UGV-järjestelmien kehityksessä. Sen kohdalla on syytä erottaa teknologinen näyttöarvo ja todellinen laaja kenttäkäyttö.
+
+#### Operatiiviset rajoitteet
+Järjestelmän aseistaminen ei automaattisesti tee siitä taistelukentällä kestävää, jos yhteydet, havainnointi tai liikkuminen häiriintyvät. Avoimet lähteet viittaavat rajalliseen tuotantoon ja kokeelliseen käyttöön, eivät laajaan vakiintuneeseen palvelukseen.
+
+#### Lähteet
+- CNA, *Artificial Intelligence and Autonomy in Russia* (Nerekhta-rivi): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
+- Army Guide, *Nerekhta Armed Unmanned Ground Vehicle* : https://www.army-guide.com/eng/product5206.html
+- MAD Scientist, *Autonomous Robotic Systems in the Russian Ground Forces* : https://madsciblog.tradoc.army.mil/120-autonomous-robotic-systems-in-the-russian-ground-forces/
 
 ### Prokhod-1
 #### Kalustokuva
 ![prokhod-1](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/prokhod-1/prokhod-1-01-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Raskas miehittämätön miinanraivausjärjestelmä, joka perustuu BMR-3MA/T-90-perheen alustaan ja on suunniteltu avaamaan kulkukelpoisia reittejä miinoitetulla alueella. Se kuuluu selvästi insinöörijoukkojen läpimurto- ja reitinavauskalustoon, ei yleiskäyttöiseen robottiajoneuvoluokkaan.
+
+#### Suorituskyvyt
+- **Raskas mekaaninen miinanraivaus (Проход-1 / Prokhod-1)**. Lähteiden mukaan järjestelmä käyttää raskasta raivauslaitteistoa ja on tarkoitettu anti-tank- ja anti-personnel -miinoitettujen alueiden läpäisyyn.
+- **Raskas panssaroitu alusta ja lisäsuojat**. Julkisissa lähteissä mainitaan TMT-S-tyyppinen aura-/rullaraivauskalusto, mahdollinen elektromagneettinen lisälaite sekä radio-ohjattujen räjähteiden häirintä; yksityiskohtaiset suoritusarvot vaihtelevat lähteittäin.
+
+#### Huomioitava analyysiin
+Prokhod-1:n merkitys on operatiivinen: se mahdollistaa reitinavauksen mekanisoiduille joukoille uhkaympäristössä, jossa kevyt raivausrobotti ei riitä. Kyse on enemmän miehittämättömästä pioneeriläpimurtojärjestelmästä kuin yleisrobotista.
+
+#### Operatiiviset rajoitteet
+Suuri koko, hidas eteneminen ja ennakoitava käyttötapa tekevät järjestelmästä näkyvän ja potentiaalisesti haavoittuvan tulenkäytölle. Sen hyöty riippuu myös siitä, kuinka hyvin kauko-ohjaus ja suojaus toimivat häirityssä ympäristössä.
+
+#### Lähteet
+- CNA, *Artificial Intelligence and Autonomy in Russia* (Prokhod-1-rivi): https://www.cna.org/reports/2021/05/Artificial-Intelligence-and-Autonomy-in-Russia.pdf
+- U.S. Army ODIN WEG, *Prokhod-1* (yleisviite CNA:n kautta; ODIN ei noussut suoraan haussa samalla tavoin kuin Uran-järjestelmät)
+- U.S. Government, *Russian Robotics* : https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-gpo154007/pdf/GOVPUB-D110-PURL-gpo154007.pdf
+- Topwar summary of modernization aspects (käytetty vain täydentävänä, ei yksin): https://en.topwar.ru/251379-modernizacija-veprja-razvitie-tjazhelyh-rtk-razminirovanija.html
 
 ### Uran-14
 #### Kalustokuva
 ![uran-14](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-14/uran-14-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Raskas telaketjuinen miehittämätön erikoisajoneuvo, jonka päärooli on palontorjunta vaarallisissa tai vaikeapääsyisissä kohteissa. Se sijoittuu insinööri- ja pelastusrobotin kategoriaan, vaikka joissain lähteissä mainitaan myös toissijaisia raivaus- ja tukitehtäviä.
+
+#### Suorituskyvyt
+- **Palontorjunta vaaravyöhykkeellä (Уран-14 / Uran-14)**. ODIN ja Army Technology kuvaavat järjestelmää ensisijaisesti tulipalojen sammuttamiseen kohteissa, joissa miehistön lähettäminen olisi riskialtista.
+- **Etäohjaus ja raskas työkalukuorma**. Julkiset lähteet mainitsevat vesisuihku-/sammutustehtävät, puskurimaisen työskentelyn ja noin 12 km/h maksiminopeuden; tarkat tehtävämoduulit vaihtelevat kokoonpanon mukaan.
+
+#### Huomioitava analyysiin
+Uran-14 ei ole taistelu-UGV vaan erikoistunut pelastus- ja insinöörijärjestelmä. Sen käyttö voi kuitenkin vapauttaa henkilöstöä pois korkean riskin kohteista ja tukea toiminnan jatkuvuutta vaurioituneilla alueilla.
+
+#### Operatiiviset rajoitteet
+Hidas nopeus ja erikoistunut tehtäväprofiili rajaavat käyttöä dynaamisessa taistelutilanteessa. Järjestelmä on hyödyllisin, kun kohde voidaan eristää ja toimintaympäristö on ainakin osittain hallittu.
+
+#### Lähteet
+- U.S. Army ODIN WEG, *Uran-14 Russian Unmanned Ground Vehicle* : https://odin.tradoc.army.mil/WEG/Asset/768e37ddba5c1e8b11fe71e62f29d75c
+- Army Technology, *Uran-14 Multi-Mission Unmanned Ground Vehicle* : https://www.army-technology.com/projects/uran-14-multi-mission-unmanned-ground-vehicle/
+- U.S. Government, *Russian Robotics* : https://www.govinfo.gov/content/pkg/GOVPUB-D110-PURL-gpo154007/pdf/GOVPUB-D110-PURL-gpo154007.pdf
 
 ### Uran-6
 #### Kalustokuva
 ![uran-6](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-6/uran-6-01.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Miehittämätön miinanraivausjärjestelmä, joka on suunniteltu pioneerijoukkojen käyttöön miinojen, räjähteiden ja räjähtämättömien ammusten poistamiseen. Se on yksi tunnetuimmista venäläisistä insinöörirobotteista ja avoimissa lähteissä selvästi operatiiviseen käyttöön liitetty järjestelmä.
+
+#### Suorituskyvyt
+- **Miinanraivaus ja alueen puhdistus (Уран-6 / Uran-6)**. Rosoboronexportin ja ODINin mukaan järjestelmä on modulaarinen ja tarkoitettu jalkaväki- ja panssarimiinojen sekä IED-uhkien käsittelyyn.
+- **Etäohjattu käyttö vaaravyöhykkeellä**. Julkisissa lähteissä ohjausetäisyydeksi ilmoitetaan enintään noin 1 km, ja järjestelmä käyttää vaihdettavia työvälineitä erilaisiin raivaustehtäviin.
+
+#### Huomioitava analyysiin
+Uran-6:n vahvuus on henkilöstöriskin pienentäminen pioneeritehtävissä. Se on yksi niistä venäläisistä UGV-järjestelmistä, joista on tarjolla suhteellisen yhtenäinen ja virallisilla lähteillä tuettu kuva.
+
+#### Operatiiviset rajoitteet
+Järjestelmä ei korvaa raskasta panssaroitua läpimurtoajoneuvoa eikä sovi itsenäiseen taistelutehtävään. Sen tehokkuus riippuu maastosta, uhkaympäristöstä ja siitä, säilyykö häiriötön ohjausyhteys.
+
+#### Lähteet
+- U.S. Army ODIN WEG, *Uran-6 Russian Demining Unmanned Ground Vehicle* : https://odin.tradoc.army.mil/WEG/Asset/b28843e4844525b701899963cbded72f
+- Rosoboronexport, *Uran-6* : https://roe.ru/en/production/land-forces/engineer-equipment/uran-6/?theme=theme-green
+- Army Recognition, *Uran-6 UGV MRTK-R* : https://armyrecognition.com/military-products/army/unmanned-systems/unmanned-ground-vehicles/uran-6-ugv-mrtk-r
 
 ### Uran-9
 #### Kalustokuva
 ![uran-9](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-01.png)
 ![uran-9](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-02.png)
 
-#### Kalustotiedot
+#### Kalustokuvaus
+Aseistettu telaketjuinen taistelurobotti, joka on kehitetty tiedustelu-, tulituki- ja terrorisminvastaisiin tehtäviin. Se on venäläisen UGV-kehityksen tunnetuin taistelualusta, mutta samalla yksi niistä, joiden todellisesta kenttäkypsyydestä on eniten kriittisiä huomioita.
+
+#### Suorituskyvyt
+- **Suora tulituki ja asemoduulit (Уран-9 / Uran-9)**. ODINin mukaan järjestelmä voi käyttää 30 mm 2A72 -automaattitykkiä, 7,62 mm PKTM-konekivääriä, Ataka-panssarintorjuntaohjuksia ja joissain kokoonpanoissa myös muita aseita.
+- **Sensoroitu tiedustelu ja etäkäyttö**. Julkisissa lähteissä korostuvat elektro-optiset sensorit, laser-etäisyysmittaus ja noin 3 km ohjausetäisyys, mutta käytännön suorituskyky on saanut kritiikkiä todellisissa käyttöoloissa.
+
+#### Huomioitava analyysiin
+Uran-9 on tärkeä enemmän konseptin ja kehityssuunnan kuin kiistattoman operatiivisen menestyksen vuoksi. Julkiset arviot, mukaan lukien venäläisiin raportteihin viittaavat länsilähteet, ovat nostaneet esiin yhteys-, havainnointi- ja luotettavuusongelmia.
+
+#### Operatiiviset rajoitteet
+Etäyhteyteen nojaava asejärjestelmä on altis häirinnälle, katveille ja monimutkaisen maaston aiheuttamille rajoitteille. Vaikka aseistus on raskas, järjestelmä ei avoimien arvioiden perusteella ole osoittanut samaa toimintavarmuutta kuin miehitetyt taisteluajoneuvot.
+
+#### Lähteet
+- U.S. Army ODIN WEG, *Uran-9 Russian Tracked Unmanned Ground Vehicle* : https://odin.tradoc.army.mil/WEG/Asset/Uran-9_Russian_Unmanned_Armored_Fighting_Vehicle_%28AFV%29
+- Army Recognition, *Uran-9 UGV* : https://armyrecognition.com/military-products/army/unmanned-systems/unmanned-ground-vehicles/uran-9-ugcv-ugv-unmanned-ground-combat-vehicle-technical-data-sheet-specifications-pictures-video-10910163
+- EDR Magazine, *Russia to export armed ground robots* : https://www.edrmagazine.eu/russia-to-export-armed-ground-robots
+- Army Technology, *Uran-9 Unmanned Ground Combat Vehicle* : https://www.army-technology.com/projects/uran-9-unmanned-ground-combat-vehicle/

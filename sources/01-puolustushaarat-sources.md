@@ -1590,105 +1590,308 @@ Class: Yury Ivanov | Category: Intelligence ship | Source page: https://en.wikip
  | Ships in class on the list: Yuriy Ivanov, Ivan Khurs
  | Notes: Project 18280 SIGINT ships. I could verify the class page, but not a stable `#/media/File:` link from the retrieved source in this pass. citeturn659453search11turn659453search2
 
-# Ilma- ja avaruusvoimat
+# Ilmavoimat
 
-## Sukhoi Su-35S
+## Hävittäjä- ja torjuntakoneet
+
+### Sukhoi Su-35S
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-35s/sukhoi-su-35s-01.png`
 
 Sukhoi Su-35S 'RF-81746 - 58 red' (37270667786).jpg — Caption: "Sukhoi Su-35S 'RF-81746 - 58 red' taxiing (ARMY 2017, Kubinka Airbase)" | Author: Hawkeye UK (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-35S_%E2%80%98RF-81746_-_58_red%E2%80%99_(37270667786).jpg
  | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 23 August 2017 (inception shown on file page) | Uploaded: 
+ | Changes: Resized for in-app display | Created: 23 August 2017 (inception shown on file page) | Uploaded:
 
-## Sukhoi Su-34
-
-Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-34/sukhoi-su-34-01.png`
-
-Sukhoi Su-34 (4322158744).jpg — Caption: "Sukhoi Su-34" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-34_(4322158744).jpg
- | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 21 August 2009 | Uploaded: 
-
-## Sukhoi Su-57
+### Sukhoi Su-57
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-57/sukhoi-su-57-01.png`
 
 Sukhoi Su-57 bn058 Kubinka 2020.jpg — Caption: "Sukhoi Su-57 solo display performing at Military-Technical Forum ARMY-2020" | Author: Andrei Shmatko | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-57_bn058_Kubinka_2020.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 21 August 2020 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 21 August 2020 | Uploaded:
 
-## Tupolev Tu-160
-
-Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-160/tupolev-tu-160-01.png`
-
-TU-160 (24843600249).jpg — Caption: "TU-160" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:TU-160_(24843600249).jpg
- | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 22 June 2015 | Uploaded: 
-
-## Tupolev Tu-95MS
-
-Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-95ms/tupolev-tu-95ms-01.png`
-
-Tupolev Tu-95MS, Celebration of the 100th anniversary of Russian Air Force.jpg — Caption: "Aircraft at the Celebration of the 100th anniversary of Russian Air Force" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-95MS,_Celebration_of_the_100th_anniversary_of_Russian_Air_Force.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 10 August 2012 | Uploaded: 
-
-## Tupolev Tu-22M3
-
-Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-22m3/tupolev-tu-22m3-01.png`
-
-Tu-22m3-34.jpg — Caption: "Самолёт Ту-22М3 борт 34 красный с ракетой Х-22" | Author: Sot10 | Source: https://commons.wikimedia.org/wiki/File:Tu-22m3-34.jpg
- | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
- | Changes: Resized for in-app display | Created: 25 June 2010 | Uploaded: 
-
-## Mikoyan MiG-31
+### Mikoyan MiG-31
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/mikoyan-mig-31/mikoyan-mig-31-01.png`
 
 MiG-31-4966.JPG — Caption: "MiG-31 in Technical museum Togliatti" | Author: ShinePhantom | Source: https://commons.wikimedia.org/wiki/File:MiG-31-4966.JPG
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 25 April 2010 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 25 April 2010 | Uploaded:
 
-## Beriev A-50U
+### Mikoyan MiG-29
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/mikoyan-mig-29/mikoyan-mig-29-01.png`
+
+Model: Mikoyan MiG-29 | Type: Fighter | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Mikoyan_MiG-29#/media/File:MiG-29_in_flight.jpg](https://en.wikipedia.org/wiki/Mikoyan_MiG-29#/media/File:VVS_100th_IMG_0691_(7727464290)_(cropped).jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:MiG-29_in_flight.jpg
+
+### Mikoyan MiG-35
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/mikoyan-mig-35/mikoyan-mig-35-01.png`
+
+Model: Mikoyan MiG-35 | Type: Multirole | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: https://en.wikipedia.org/wiki/Mikoyan_MiG-35#/media/File:MiG-35D_929.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:MiG-35D_929.jpg
+
+### Sukhoi Su-27
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/sukhoi-su-27/sukhoi-su-27-01.png`
+
+Model: Sukhoi Su-27 | Type: Fighter | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Sukhoi_Su-27#/media/File:Sukhoi_Su-27_in_flight.jpg](https://en.wikipedia.org/wiki/Sukhoi_Su-27#/media/File:Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-27_in_flight.jpg
+
+### Sukhoi Su-30
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/sukhoi-su-30/sukhoi-su-30-01.png`
+
+Model: Sukhoi Su-30 | Type: Multirole | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: https://en.wikipedia.org/wiki/Sukhoi_Su-30#/media/File:Sukhoi_Su-30SM_in_flight_2014.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Su-30_in_flight.jpg
+
+## Isku-, rynn?kk?- ja pommituskoneet
+
+### Sukhoi Su-34
+
+Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-34/sukhoi-su-34-01.png`
+
+Sukhoi Su-34 (4322158744).jpg — Caption: "Sukhoi Su-34" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-34_(4322158744).jpg
+ | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 21 August 2009 | Uploaded:
+
+### Sukhoi Su-24
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/sukhoi-su-24/sukhoi-su-24-01.png`
+
+Model: Sukhoi Su-24 | Type: Attack | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Sukhoi_Su-24#/media/File:Su-24M_in_flight.jpg](https://en.wikipedia.org/wiki/Sukhoi_Su-24#/media/File:Sukhoi_Su-24_inflight_Mishin-2.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Su-24M_in_flight.jpg
+
+### Sukhoi Su-25
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/sukhoi-su-25/sukhoi-su-25-01.png`
+
+Model: Sukhoi Su-25 | Type: Attack | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: https://en.wikipedia.org/wiki/Sukhoi_Su-25#/media/File:Sukhoi_Su-25_of_the_Russian_Air_Force_landing_at_Vladivostok_(8683076150).jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Su-25_in_flight.jpg
+
+## Strategiset pommittajat
+
+### Tupolev Tu-160
+
+Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-160/tupolev-tu-160-01.png`
+
+TU-160 (24843600249).jpg — Caption: "TU-160" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:TU-160_(24843600249).jpg
+ | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 22 June 2015 | Uploaded:
+
+### Tupolev Tu-95MS
+
+Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-95ms/tupolev-tu-95ms-01.png`
+
+Tupolev Tu-95MS, Celebration of the 100th anniversary of Russian Air Force.jpg — Caption: "Aircraft at the Celebration of the 100th anniversary of Russian Air Force" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-95MS,_Celebration_of_the_100th_anniversary_of_Russian_Air_Force.jpg
+ | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
+ | Changes: Resized for in-app display | Created: 10 August 2012 | Uploaded:
+
+### Tupolev Tu-22M3
+
+Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-22m3/tupolev-tu-22m3-01.png`
+
+Tu-22m3-34.jpg — Caption: "Самолёт Ту-22М3 борт 34 красный с ракетой Х-22" | Author: Sot10 | Source: https://commons.wikimedia.org/wiki/File:Tu-22m3-34.jpg
+ | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
+ | Changes: Resized for in-app display | Created: 25 June 2010 | Uploaded:
+
+## Valvonta-, johto- ja erikoiskoneet
+
+### Beriev A-50U
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/beriev-a-50u/beriev-a-50u-01.png`
 
 Airborne early warning and control aircraft A-50U (Red 41).jpg — Caption: "Russian Air Force Beriev A-50U (Red 41)" | Author: Sergey Lutsenko, Timofey Nikishin | Source: https://commons.wikimedia.org/wiki/File:Airborne_early_warning_and_control_aircraft_A-50U_(Red_41).jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
- | Changes: Resized for in-app display | Created: 10 March 2017 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 10 March 2017 | Uploaded:
 
-## Ilyushin Il-78
+### Ilyushin Il-78
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/ilyushin-il-78/ilyushin-il-78-01.png`
 
 Il-78 Midas.jpg — Caption: "An IL-78 Midas sits on display on the flight line in support of the Russian visit, Barksdale Air Force Base, Louisiana (USA)" | Author: Staff Sgt. Gerald Currington (U.S. Air Force) | Source: https://commons.wikimedia.org/wiki/File:Il-78_Midas.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
- | Changes: Resized for in-app display | Created: 19 August 1994 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 19 August 1994 | Uploaded:
 
-## Ilyushin Il-76MD-90A
+### Antonov An-30
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-30/antonov-an-30-01.png`
+
+Model: Antonov An-30 | Type: Patrol | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Antonov_An-30#/media/File:Antonov_An-30.jpg](https://en.wikipedia.org/wiki/Antonov_An-30#/media/File:An-30_-_RA-26226.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Antonov_An-30.jpg
+
+### Ilyushin Il-18/Il-20/Il-22
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/ilyushin-il-20-22/ilyushin-il-20-22-01.png`
+
+Model: Ilyushin Il-20/22 | Type: Patrol / Command and control | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Ilyushin_Il-20#/media/File:Il-20M_in_flight.jpg](https://en.wikipedia.org/wiki/Ilyushin_Il-18#/media/File:Rossiya_Ilyushin_Il-18.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Il-20M_in_flight.jpg
+
+### Ilyushin Il-80
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/ilyushin-il-80/ilyushin-il-80-01.png`
+
+Model: Ilyushin Il-80 | Type: Command and control | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Ilyushin_Il-80#/media/File:Ilyushin_Il-80.jpg](https://en.wikipedia.org/wiki/Ilyushin_Il-80#/media/File:Ilyushin_Il-80_at_Ramenskoye_Airport_2012_(7727439034).jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Ilyushin_Il-80.jpg
+
+### Tupolev Tu-214
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/tupolev-tu-214/tupolev-tu-214-01.png`
+
+Model: Tupolev Tu-214 | Type: Command and control / Reconnaissance | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Tupolev_Tu-214#/media/File:Tupolev_Tu-214ON.jpg](https://en.wikipedia.org/wiki/Tupolev_Tu-204#/media/File:Air_Koryo,_Tupolev_Tu-204-100B,_P-633_(2).jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-214ON.jpg
+
+## Kuljetus- ja yhteyskoneet
+
+### Ilyushin Il-76MD-90A
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/ilyushin-il-76md-90a/ilyushin-il-76md-90a-01.png`
 
 Il-76MD-90A Nikolai Makarovets at ARMY-2022.jpg — Caption: "Il-76MD-90A 'Nikolai Makarovets' on static display at ARMY-2022 (Kubinka)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Il-76MD-90A_Nikolai_Makarovets_at_ARMY-2022.jpg
  | License: CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 18 August 2022 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 18 August 2022 | Uploaded:
 
-## Kamov Ka-52
+### Antonov An-12
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-12/antonov-an-12-01.png`
+
+Model: Antonov An-12 | Type: Transport / Patrol | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: https://en.wikipedia.org/wiki/Antonov_An-12#/media/File:Antonov_An-12BK,_Russia_-_Air_Force_AN1879625.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Antonov_An-12BK.jpg
+
+### Antonov An-26
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-26/antonov-an-26-01.png`
+
+Model: Antonov An-26 | Type: Transport / Patrol | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Antonov_An-26#/media/File:An-26_of_Russian_Air_Force.jpg](https://en.wikipedia.org/wiki/Antonov_An-26#/media/File:An-26_Ni%C2%B5_Nishava_Serbien_Marko_Stojkovic_IMG_2634-1-2.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:An-26_of_Russian_Air_Force.jpg
+
+### Antonov An-72
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-72/antonov-an-72-01.png`
+
+Model: Antonov An-72 | Type: Transport | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Antonov_An-72#/media/File:Antonov_An-72.jpg](https://en.wikipedia.org/wiki/Antonov_An-72#/media/File:Russian_Air_Force_-_Antonov_An-72.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Antonov_An-72.jpg
+
+### Antonov An-124
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-124/antonov-an-124-01.png`
+
+Model: Antonov An-124 | Type: Transport | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan#/media/File:Antonov_An-124-100_Ruslan.jpg](https://en.wikipedia.org/wiki/Antonov_An-124_Ruslan#/media/File:%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2_%D0%90%D0%BD-124_9773054055093,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP2297.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Antonov_An-124-100_Ruslan.jpg
+
+### Antonov An-140
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-140/antonov-an-140-01.png`
+
+Model: Antonov An-140 | Type: Transport | Origin: Ukraine | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source:[ https://en.wikipedia.org/wiki/Antonov_An-140#/media/File:Antonov_An-140.jpg](https://en.wikipedia.org/wiki/Antonov_An-140#/media/File:Antonov_An-140_1.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Antonov_An-140.jpg
+
+### Antonov An-148
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/antonov-an-148/antonov-an-148-01.png`
+
+Model: Antonov An-148 | Type: Transport | Origin: Ukraine | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: https://en.wikipedia.org/wiki/Antonov_An-148#/media/File:%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2_%D0%90%D0%BD-148_01-02,_%D0%9A%D0%B8%D0%B5%D0%B2_-_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2_(%D0%93%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C)_RP29608.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Antonov_An-148.jpg
+
+### Ilyushin Il-18
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/ilyushin-il-18/ilyushin-il-18-01.png`
+
+Model: Ilyushin Il-18 | Type: Transport | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: https://en.wikipedia.org/wiki/Ilyushin_Il-18#/media/File:Ilyushin_Il-18D.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Ilyushin_Il-18D.jpg
+
+### Ilyushin Il-62
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/ilyushin-il-62/ilyushin-il-62-01.png`
+
+Model: Ilyushin Il-62 | Type: Transport | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Ilyushin_Il-62#/media/File:Ilyushin_Il-62M_RA-86559_Russia.jpg](https://en.wikipedia.org/wiki/Ilyushin_Il-62#/media/File:Air-to-air_with_a_Russian_Air_Force_Ilyushin_Il-62M_(retouched).jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Ilyushin_Il-62M_RA-86559_Russia.jpg
+
+### Tupolev Tu-134
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/tupolev-tu-134/tupolev-tu-134-01.png`
+
+Model: Tupolev Tu-134 | Type: Transport / Trainer / Patrol | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Tupolev_Tu-134#/media/File:Tupolev_Tu-134A-3.jpg](https://en.wikipedia.org/wiki/Tupolev_Tu-134#/media/File:Tretyakovo_Tupolev_Tu-134.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-134A-3.jpg
+
+### Tupolev Tu-154
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/tupolev-tu-154/tupolev-tu-154-01.png`
+
+Model: Tupolev Tu-154 | Type: Transport | Origin: Soviet Union | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Tupolev_Tu-154#/media/File:Tupolev_Tu-154M_RA-85155.jpg](https://en.wikipedia.org/wiki/Tupolev_Tu-154#/media/File:Tupolev_Tu-154M,_Iran_Air_Tours_JP6511800.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-154M_RA-85155.jpg
+
+### Let L-410 Turbolet
+
+Image file: `images/03-puolustushaarat/03-ilmavoimat/let-l-410-turbolet/let-l-410-turbolet-01.png`
+
+Model: Let L-410 Turbolet | Type: Transport / Trainer | Origin: Czechoslovakia | Source page: https://en.wikipedia.org/wiki/List_of_active_Russian_military_aircraft
+ | Photo source: [https://en.wikipedia.org/wiki/Let_L-410_Turbolet#/media/File:Let_L-410UVP-E20.jpg](https://en.wikipedia.org/wiki/Let_L-410_Turbolet#/media/File:L410_UVP-E20.jpg)
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Let_L-410UVP-E20.jpg
+
+## Helikopterit
+
+### Kamov Ka-52
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/kamov-ka-52/kamov-ka-52-01.png`
 
 Kamov Ka-52 flight.JPG — Caption: "Kamov Ka-52 during the MAKS 2007 airshow" | Author: Dmitry | Source: https://commons.wikimedia.org/wiki/File:Kamov_Ka-52_flight.JPG
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 24 August 2007 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 24 August 2007 | Uploaded:
 
-## Mil Mi-8AMTSh
+### Mil Mi-8AMTSh
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/mil-mi-8amtsh/mil-mi-8amtsh-01.png`
 
 Mi-8AMTSh helicopter in Russia.jpg — Caption: "Mi-8AMTSh helicopter in Russia." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Mi-8AMTSh_helicopter_in_Russia.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 2012 | Uploaded: 
+ | Changes: Resized for in-app display | Created: 2012 | Uploaded:
 
-## S-400 Triumf
+## Ilmatorjunta
+
+### S-400 Triumf
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/s-400-triumf/s-400-triumf-01.png`
 
