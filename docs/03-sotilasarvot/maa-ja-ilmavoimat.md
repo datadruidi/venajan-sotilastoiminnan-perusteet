@@ -1,4 +1,4 @@
-﻿# Sotilasarvot
+# Sotilasarvot
 ## kadetti
 ### Kuvamateriaali
 ![kadetti](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/kadetti.jpg)
@@ -42,18 +42,18 @@
 
 ### Lisatiedot
 
-## VÃ¤Ã¤peli
+## Vääpeli
 ### Kuvamateriaali
-![VÃ¤Ã¤peli](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VÃ¤Ã¤peli.jpg)
-![VÃ¤Ã¤peli](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VÃ¤Ã¤peli-1.jpg)
+![Vääpeli](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/vaapeli.jpg)
+![Vääpeli](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/vaapeli-1.jpg)
 
 ### Lisatiedot
 
-## YlivÃ¤nrikki
+## Ylivänrikki
 ### Kuvamateriaali
-![YlivÃ¤nrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/YlivÃ¤nrikki.jpg)
-![YlivÃ¤nrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/YlivÃ¤nrikki-1.jpg)
-![YlivÃ¤nrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/YlivÃ¤nrikki-2.jpg)
+![Ylivänrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/ylivanrikki.jpg)
+![Ylivänrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/ylivanrikki-1.jpg)
+![Ylivänrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/ylivanrikki-2.jpg)
 
 ### Lisatiedot
 
@@ -65,11 +65,11 @@
 
 ### Lisatiedot
 
-## VÃ¤nrikki
+## Vänrikki
 ### Kuvamateriaali
-![VÃ¤nrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VÃ¤nrikki.jpg)
-![VÃ¤nrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VÃ¤nrikki-1.jpg)
-![VÃ¤nrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VÃ¤nrikki-2.jpg)
+![Vänrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/vanrikki.jpg)
+![Vänrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/vanrikki-1.jpg)
+![Vänrikki](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/vanrikki-2.jpg)
 
 ### Lisatiedot
 
@@ -153,11 +153,11 @@
 
 ### Lisatiedot
 
-## VenÃ¤jÃ¤n federaation marsalkka
+## Venäjän federaation marsalkka
 ### Kuvamateriaali
-![VenÃ¤jÃ¤n federaation marsalkka](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VenÃ¤jÃ¤n-federaation-marsalkka.jpg)
-![VenÃ¤jÃ¤n federaation marsalkka](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VenÃ¤jÃ¤n-federaation-marsalkka-1.jpg)
-![VenÃ¤jÃ¤n federaation marsalkka](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/VenÃ¤jÃ¤n-federaation-marsalkka-2.jpg)
+![Venäjän federaation marsalkka](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/venajan-federaation-marsalkka.jpg)
+![Venäjän federaation marsalkka](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/venajan-federaation-marsalkka-1.jpg)
+![Venäjän federaation marsalkka](../../images/03-sotilasarvot/01-maa-ja-ilmavoimat/venajan-federaation-marsalkka-2.jpg)
 
 ### Lisatiedot
 Lahdetiedot ovat tiedostossa `../../sources/03-sotilasarvot-sources.md`.

@@ -6,7 +6,7 @@
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmo-t/bmo-t-01.png`
 
-Heavy flamethrower personnel carrier BMO-T (1).jpg Ã¢â‚¬â€ Caption: "Heavy flamethrower personnel carrier BMO-T during exercises of radiological, chemical and biological defense troops" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Heavy_flamethrower_personnel_carrier_BMO-T_(1).jpg
+Heavy flamethrower personnel carrier BMO-T (1).jpg — Caption: "Heavy flamethrower personnel carrier BMO-T during exercises of radiological, chemical and biological defense troops" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Heavy_flamethrower_personnel_carrier_BMO-T_(1).jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 9 November 2011 | Uploaded: see file page
 
 
@@ -14,7 +14,7 @@ Heavy flamethrower personnel carrier BMO-T (1).jpg Ã¢â‚¬â€ Caption: "
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-1/bmp-1-01.png`
 
-467th Guards District Training Center (414-06).jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:467th_Guards_District_Training_Center_(414-06).jpg
+467th Guards District Training Center (414-06).jpg — Commons file page: https://commons.wikimedia.org/wiki/File:467th_Guards_District_Training_Center_(414-06).jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/3/37/467th_Guards_District_Training_Center_%28414-06%29.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -24,19 +24,19 @@ Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-1/bmp-
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-01.png`
 
-BMP-2 of Russian Ground Forces.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMP-2 of Russian Ground Forces" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_of_Russian_Ground_Forces.jpg
+BMP-2 of Russian Ground Forces.jpg — Caption: "BMP-2 of Russian Ground Forces" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_of_Russian_Ground_Forces.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-02.png`
 
-BMP-2 in winter.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMP-2 in winter" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_in_winter.jpg
+BMP-2 in winter.jpg — Caption: "BMP-2 in winter" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-2_in_winter.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-2/bmp-2-03.png`
 
-Army2016demo-007.jpg Ã¢â‚¬â€ Caption: "Ãâ€˜ÃÅ“ÃÅ¸-2 (BMP-2)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-007.jpg
+Army2016demo-007.jpg — Caption: "БМП-2 (BMP-2)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-007.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 11 September 2016, 14:23:48 | Uploaded: 16 March 2017
 
@@ -45,19 +45,19 @@ Army2016demo-007.jpg Ã¢â‚¬â€ Caption: "Ãâ€˜ÃÅ“ÃÅ¸-2
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-01.png`
 
-BMP-3.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMP-3 of the 102nd Motorized Rifle Regiment of the 150th Motorized Rifle Division." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-3.jpg
+BMP-3.jpg — Caption: "BMP-3 of the 102nd Motorized Rifle Regiment of the 150th Motorized Rifle Division." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BMP-3.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 31 August 2018, 13:34:35 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-02.png`
 
-Bmp-3 tan.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "A Russian BMP-3 infantry fighting vehicle." | Author: U.S. Army (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:Bmp-3_tan.jpg
+Bmp-3 tan.jpg — Caption: "A Russian BMP-3 infantry fighting vehicle." | Author: U.S. Army (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:Bmp-3_tan.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 16 November 2005
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmp-3/bmp-3-03.png`
 
-Army2016demo-011.jpg Ã¢â‚¬â€ Caption: "Ãâ€˜ÃÂ¾ÃÂµÃÂ²ÃÂ°Ã‘Â ÃÂ¼ÃÂ°Ã‘Ë†ÃÂ¸ÃÂ½ÃÂ° ÃÂ¿ÃÂµÃ‘â€¦ÃÂ¾Ã‘â€šÃ‘â€¹ Ãâ€˜ÃÅ“ÃÅ¸-3 (BMP-3 infantry fighting vehicle)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-011.jpg
+Army2016demo-011.jpg — Caption: "Боевая машина пехоты БМП-3 (BMP-3 infantry fighting vehicle)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-011.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 11 September 2016, 14:23:58 | Uploaded: 16 March 2017
 
@@ -66,7 +66,7 @@ Army2016demo-011.jpg Ã¢â‚¬â€ Caption: "Ãâ€˜ÃÂ¾ÃÂµÃ�
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/bmpt-terminator/bmpt-terminator-01.png`
 
-Tank support combat vehicle "Terminator".jpg Ã¢â‚¬â€ Caption: "Tank support combat vehicle 'Terminator' during the Armiya 2020 exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:Tank_support_combat_vehicle_%22Terminator%22.jpg
+Tank support combat vehicle "Terminator".jpg — Caption: "Tank support combat vehicle 'Terminator' during the Armiya 2020 exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:Tank_support_combat_vehicle_%22Terminator%22.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 29 August 2020 | Uploaded: 5 September 2020
 
 
@@ -74,7 +74,7 @@ Tank support combat vehicle "Terminator".jpg Ã¢â‚¬â€ Caption: "Tank s
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-50/btr-50-01.png`
 
-BTR-50 Museum of National Military History (Russia).jpg Ã¢â‚¬â€ Caption: "BTR-50 in the Museum of National Military History" | Author: ÃÅ“Ã‘Æ’ÃÂ·ÃÂµÃÂ¹ ÃÂ¾Ã‘â€šÃÂµÃ‘â€¡ÃÂµÃ‘ÂÃ‘â€šÃÂ²ÃÂµÃÂ½ÃÂ½ÃÂ¾ÃÂ¹ ÃÂ²ÃÂ¾ÃÂµÃÂ½ÃÂ½ÃÂ¾ÃÂ¹ ÃÂ¸Ã‘ÂÃ‘â€šÃÂ¾Ã‘â‚¬ÃÂ¸ÃÂ¸ | Source: https://commons.wikimedia.org/wiki/File:BTR-50_Museum_of_National_Military_History_(Russia).jpg
+BTR-50 Museum of National Military History (Russia).jpg — Caption: "BTR-50 in the Museum of National Military History" | Author: Музей отечественной военной истории | Source: https://commons.wikimedia.org/wiki/File:BTR-50_Museum_of_National_Military_History_(Russia).jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 April 2016 | Uploaded: 17 May 2016
 
 
@@ -82,7 +82,7 @@ BTR-50 Museum of National Military History (Russia).jpg Ã¢â‚¬â€ Capti
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-60/btr-60-01.png`
 
-BTR-60PB DA-ST-89-06597.jpg Ã¢â‚¬â€ Caption: "A left front view of a Soviet BTR-60PB eight-wheeled armored personnel carrier armed with a 14.5mm KPV machine gun." | Author: U.S. Department of Defense employee | Source: https://commons.wikimedia.org/wiki/File:BTR-60PB_DA-ST-89-06597.jpg
+BTR-60PB DA-ST-89-06597.jpg — Caption: "A left front view of a Soviet BTR-60PB eight-wheeled armored personnel carrier armed with a 14.5mm KPV machine gun." | Author: U.S. Department of Defense employee | Source: https://commons.wikimedia.org/wiki/File:BTR-60PB_DA-ST-89-06597.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 27 Apr 1989 | Uploaded: 14 May 2006
 
 
@@ -90,7 +90,7 @@ BTR-60PB DA-ST-89-06597.jpg Ã¢â‚¬â€ Caption: "A left front view of a 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-70/btr-70-01.png`
 
-BTR70 002.jpg Ã¢â‚¬â€ Caption: "BTR70 in Nizhny Novgorod" | Author: Torin | Source: https://commons.wikimedia.org/wiki/File:BTR70_002.jpg
+BTR70 002.jpg — Caption: "BTR70 in Nizhny Novgorod" | Author: Torin | Source: https://commons.wikimedia.org/wiki/File:BTR70_002.jpg
  | License: Public Domain / CC0-style release by uploader on file page | Changes: Resized for in-app display | Created: 8 June 2008 | Uploaded: 24 June 2008
 
 
@@ -98,19 +98,19 @@ BTR70 002.jpg Ã¢â‚¬â€ Caption: "BTR70 in Nizhny Novgorod" | Author: T
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-01.png`
 
-BTR-82A.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BTR-82A" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-82A.jpg
+BTR-82A.jpg — Caption: "BTR-82A" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-82A.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 22 February 2013 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-02.png`
 
-BTR-82A turret - June 2023.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BTR-82A turret" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BTR-82A_turret_-_June_2023.jpg
+BTR-82A turret - June 2023.jpg — Caption: "BTR-82A turret" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:BTR-82A_turret_-_June_2023.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 8 June 2023
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-82a/btr-82a-03.png`
 
-Bronetransport 80.jpg Ã¢â‚¬â€ Caption: "Ãâ€˜ÃÂ¢ÃÂ -80 ÃÂ¿ÃÂµÃ‘â‚¬ÃÂµÃÂ´ ÃÅ¸ÃÂ°Ã‘â‚¬ÃÂ°ÃÂ´ÃÂ¾ÃÂ¼" | Author: Ãâ€™ÃÂ»ÃÂ°ÃÂ´ÃÂ¸Ã‘ÂÃÂ»ÃÂ°ÃÂ² ÃÂ¤ÃÂ°ÃÂ»Ã‘Å’Ã‘Ë†ÃÂ¸ÃÂ²ÃÂ¾ÃÂ¼ÃÂ¾ÃÂ½ÃÂµÃ‘â€šÃ‘â€¡ÃÂ¸ÃÂº | Source: https://commons.wikimedia.org/wiki/File:Bronetransport_80.jpg
+Bronetransport 80.jpg — Caption: "БТР-80 перед Парадом" | Author: Владислав Фальшивомонетчик | Source: https://commons.wikimedia.org/wiki/File:Bronetransport_80.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: date not stated on file page summary | Uploaded: 15 May 2009
 
@@ -119,7 +119,7 @@ Bronetransport 80.jpg Ã¢â‚¬â€ Caption: "Ãâ€˜ÃÂ¢ÃÂ -8
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/btr-90/btr-90-01.png`
 
-BTR-90 (2).jpg Ã¢â‚¬â€ Caption: "BTR-90" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-90_(2).jpg
+BTR-90 (2).jpg — Caption: "BTR-90" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:BTR-90_(2).jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 21 August 2008 | Uploaded: see file page
 
 
@@ -127,7 +127,7 @@ BTR-90 (2).jpg Ã¢â‚¬â€ Caption: "BTR-90" | Author: Vitaly V. Kuzmin |
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-typhoon/kamaz-typhoon-01.png`
 
-KamAZ-63968 Typhoon - Engineering technologies 2012 (1).jpg Ã¢â‚¬â€ Caption: "KamAZ-63968 Typhoon at the exhibition Engineering technologies 2012." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:KamAZ-63968_Typhoon_-_Engineering_technologies_2012_(1).jpg
+KamAZ-63968 Typhoon - Engineering technologies 2012 (1).jpg — Caption: "KamAZ-63968 Typhoon at the exhibition Engineering technologies 2012." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:KamAZ-63968_Typhoon_-_Engineering_technologies_2012_(1).jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 2012 | Uploaded: see file page
 
 
@@ -135,7 +135,7 @@ KamAZ-63968 Typhoon - Engineering technologies 2012 (1).jpg Ã¢â‚¬â€ C
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/kamaz-5350-379/kamaz-5350-379-01.png`
 
-KamAZ-5350-379.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:KamAZ-5350-379.jpg
+KamAZ-5350-379.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:KamAZ-5350-379.jpg
  | License: check file page
  | Changes: Resized for in-app display
 
@@ -144,19 +144,19 @@ KamAZ-5350-379.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimed
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-01.png`
 
-MT-LB multi-purpose tracked vehicle.JPEG ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "A left side view of a MT-LB multi-purpose tracked vehicle capable of transporting 11 troops with a crew of two." | Author: Unknown author (US DoD) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_multi-purpose_tracked_vehicle.JPEG
+MT-LB multi-purpose tracked vehicle.JPEG — Caption: "A left side view of a MT-LB multi-purpose tracked vehicle capable of transporting 11 troops with a crew of two." | Author: Unknown author (US DoD) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_multi-purpose_tracked_vehicle.JPEG
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 1983 | Uploaded: 11 October 2008
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-02.png`
 
-MT-LB APC.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "A MT-LB Armoured personnel carrier." | Author: U.S. Air Force (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_APC.jpg
+MT-LB APC.jpg — Caption: "A MT-LB Armoured personnel carrier." | Author: U.S. Air Force (via Commons upload) | Source: https://commons.wikimedia.org/wiki/File:MT-LB_APC.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 3 May 2006
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/mt-lb/mt-lb-03.png`
 
-RWS2017-37.jpg Ã¢â‚¬â€ Caption: "ÃÅ“ÃÂ¢-Ãâ€ºÃâ€˜ (MT-LB)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:RWS2017-37.jpg
+RWS2017-37.jpg — Caption: "МТ-ЛБ (MT-LB)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:RWS2017-37.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 7 June 2017, 12:07:33 | Uploaded: see file page
 
@@ -165,7 +165,7 @@ RWS2017-37.jpg Ã¢â‚¬â€ Caption: "ÃÅ“ÃÂ¢-Ãâ€ºÃâ�
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/sba-60k2-bulat/sba-60k2-bulat-01.png`
 
-Russia Arms Expo 2013 (531-46).jpg Ã¢â‚¬â€ Caption: "SBA-60K2 Bulat armored vehicle with remote weapons turret" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Russia_Arms_Expo_2013_(531-46).jpg
+Russia Arms Expo 2013 (531-46).jpg — Caption: "SBA-60K2 Bulat armored vehicle with remote weapons turret" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Russia_Arms_Expo_2013_(531-46).jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 September 2013 | Uploaded: see file page
 
 
@@ -173,7 +173,7 @@ Russia Arms Expo 2013 (531-46).jpg Ã¢â‚¬â€ Caption: "SBA-60K2 Bulat a
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-54/t-54-01.png`
 
-BAHNA_2018_-_189.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:BAHNA_2018_-_189.jpg
+BAHNA_2018_-_189.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:BAHNA_2018_-_189.jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/1/14/BAHNA_2018_-_189.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -183,7 +183,7 @@ BAHNA_2018_-_189.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikim
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-62/t-62-01.png`
 
-Verkhnyaya Pyshma Tank Museum 2011 187.jpg Ã¢â‚¬â€ Caption: "Verkhnyaya Pyshma Tank Museum 2011" | Author: Ãâ€™ÃÂ»ÃÂ°ÃÂ´ÃÂ¸ÃÂ¼ÃÂ¸Ã‘â‚¬ ÃÂ¡ÃÂ°ÃÂ¿ÃÂ¿ÃÂ¸ÃÂ½ÃÂµÃÂ½ | Source: https://commons.wikimedia.org/wiki/File:Verkhnyaya_Pyshma_Tank_Museum_2011_187.jpg
+Verkhnyaya Pyshma Tank Museum 2011 187.jpg — Caption: "Verkhnyaya Pyshma Tank Museum 2011" | Author: Владимир Саппинен | Source: https://commons.wikimedia.org/wiki/File:Verkhnyaya_Pyshma_Tank_Museum_2011_187.jpg
  | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 4 September 2011 | Uploaded: 24 October 2013
 
 
@@ -191,7 +191,7 @@ Verkhnyaya Pyshma Tank Museum 2011 187.jpg Ã¢â‚¬â€ Caption: "Verkhnya
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-64/t-64-01.png`
 
-2019-05-09. Ãâ€ÃÂµÃÂ½Ã‘Å’ ÃÅ¸ÃÂ¾ÃÂ±ÃÂµÃÂ´Ã‘â€¹ ÃÂ² Ãâ€ÃÂ¾ÃÂ½ÃÂµÃ‘â€ ÃÂºÃÂµ N 146.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:2019-05-09._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_N_146.jpg
+2019-05-09. День Победы в Донецке N 146.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:2019-05-09._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_N_146.jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/2/20/2019-05-09._%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_N_146.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -201,19 +201,19 @@ Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-64/t-64-
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-01.png`
 
-T-72B3.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Newest T-73B3 upgrade of the T-72B in Russian army service." | Author: Vitaly Kuzmin | Source: https://commons.wikimedia.org/wiki/File:T-72B3.jpg
+T-72B3.jpg — Caption: "Newest T-73B3 upgrade of the T-72B in Russian army service." | Author: Vitaly Kuzmin | Source: https://commons.wikimedia.org/wiki/File:T-72B3.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 30 December 2015 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-02.png`
 
-T-72 B3 (27053439397).jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin | Source: https://commons.wikimedia.org/wiki/File:T-72_B3_(27053439397).jpg
+T-72 B3 (27053439397).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin | Source: https://commons.wikimedia.org/wiki/File:T-72_B3_(27053439397).jpg
  | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 6 May 2018 | Uploaded: 10 February 2019
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-72b3-03.png`
 
-2021 Moscow Victory Day Parade 022.jpg Ã¢â‚¬â€ Caption: see file page | Author/Attribution: Kremlin.ru / uploaded by Roman Kubanskiy | Source: https://commons.wikimedia.org/wiki/File:2021_Moscow_Victory_Day_Parade_022.jpg
+2021 Moscow Victory Day Parade 022.jpg — Caption: see file page | Author/Attribution: Kremlin.ru / uploaded by Roman Kubanskiy | Source: https://commons.wikimedia.org/wiki/File:2021_Moscow_Victory_Day_Parade_022.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 2021 | Uploaded: 11 May 2021
 
@@ -222,19 +222,19 @@ Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-72b3/t-7
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-01.png`
 
-T-80BVM frontal view Army-2022.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Russian main battle tank T-80BVM on static display at military-technical forum ARMY-2022, Park Patriot, Moscow region, Russian Federation" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_frontal_view_Army-2022.jpg
+T-80BVM frontal view Army-2022.jpg — Caption: "Russian main battle tank T-80BVM on static display at military-technical forum ARMY-2022, Park Patriot, Moscow region, Russian Federation" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_frontal_view_Army-2022.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 16 August 2022 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-02.png`
 
-T-80BVM (2).jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_(2).jpg
+T-80BVM (2).jpg — Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM_(2).jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 5 April 2021
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-80bvm/t-80bvm-03.png`
 
-T-80BVM.jpg Ã¢â‚¬â€ Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM.jpg
+T-80BVM.jpg — Caption: "T-80BVM" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-80BVM.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 15 September 2017 | Uploaded: 29 May 2019
 
@@ -243,13 +243,13 @@ T-80BVM.jpg Ã¢â‚¬â€ Caption: "T-80BVM" | Author: Ministry of Defence 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-01.png`
 
-T-90M.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "T-90M main battle tank." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-90M.jpg
+T-90M.jpg — Caption: "T-90M main battle tank." | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:T-90M.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 7 April 2020, 09:19:16 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/t-90m/t-90m-02.png`
 
-T-90M 08.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "T-90M." | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:T-90M_08.jpg
+T-90M 08.jpg — Caption: "T-90M." | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:T-90M_08.jpg
  | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
  | Changes: Resized for in-app display | Created: 27 August 2021, 13:14:31 | Uploaded:
 
@@ -258,7 +258,7 @@ T-90M 08.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ�
 
 Image file: `images/01-puolustushaarat/01-maavoimat/taisteluajoneuvot/ural-typhoon/ural-typhoon-01.png`
 
-Ural-63099 armored vehicle-2012-04.jpg Ã¢â‚¬â€ Caption: "Ural Typhoon armored vehicle" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Ural-63099_armored_vehicle-2012-04.jpg
+Ural-63099 armored vehicle-2012-04.jpg — Caption: "Ural Typhoon armored vehicle" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Ural-63099_armored_vehicle-2012-04.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 23 May 2012 | Uploaded: see file page
 
 
@@ -268,7 +268,7 @@ Ural-63099 armored vehicle-2012-04.jpg Ã¢â‚¬â€ Caption: "Ural Typhoon
 
 Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/1l122-garmony/1l122-garmony-01.png`
 
-Almaz-Antey 1L122-2E at MAKS-2009.jpg Ã¢â‚¬â€ Type: Air surveillance radar | Origin: Russia | Source article entry: 1L122 Garmony on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Almaz-Antey_1L122-2E_at_MAKS-2009.jpg/250px-Almaz-Antey_1L122-2E_at_MAKS-2009.jpg
+Almaz-Antey 1L122-2E at MAKS-2009.jpg — Type: Air surveillance radar | Origin: Russia | Source article entry: 1L122 Garmony on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Almaz-Antey_1L122-2E_at_MAKS-2009.jpg/250px-Almaz-Antey_1L122-2E_at_MAKS-2009.jpg
  | Notes: Portable version is supplied.
 
 
@@ -276,14 +276,14 @@ Almaz-Antey 1L122-2E at MAKS-2009.jpg Ã¢â‚¬â€ Type: Air surveillance 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/9s15-obzor/9s15-obzor-01.png`
 
-9S15M Obzor-3 acquisition radar (1).jpg Ã¢â‚¬â€ Type: Target acquisition radar for S-300V | Origin: Soviet Union / Russia | Source article entry: 9S15 Obzor on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/9S15M_Obzor-3_acquisition_radar_%281%29.jpg/250px-9S15M_Obzor-3_acquisition_radar_%281%29.jpg
+9S15M Obzor-3 acquisition radar (1).jpg — Type: Target acquisition radar for S-300V | Origin: Soviet Union / Russia | Source article entry: 9S15 Obzor on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/9S15M_Obzor-3_acquisition_radar_%281%29.jpg/250px-9S15M_Obzor-3_acquisition_radar_%281%29.jpg
 
 
 ### BRDM-2
 
 Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brdm-2/brdm-2-01.png`
 
-BRDM-2 in Korolyov Moscow Oblast.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:BRDM-2_in_Korolyov_Moscow_Oblast.jpg
+BRDM-2 in Korolyov Moscow Oblast.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:BRDM-2_in_Korolyov_Moscow_Oblast.jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/6/64/BRDM-2_in_Korolyov_Moscow_Oblast.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -293,7 +293,7 @@ BRDM-2 in Korolyov Moscow Oblast.jpg Ã¢â‚¬â€ Commons file page: https
 
 Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/brm-1k/brm-1k-01.png`
 
-TB2015ExhibitionP2-33.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:TB2015ExhibitionP2-33.jpg
+TB2015ExhibitionP2-33.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:TB2015ExhibitionP2-33.jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/5/5c/TB2015ExhibitionP2-33.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -303,7 +303,7 @@ TB2015ExhibitionP2-33.jpg Ã¢â‚¬â€ Commons file page: https://commons.
 
 Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/k-612-o-kdkhr-1n/k-612-o-kdkhr-1n-01.png`
 
-K-612-O nuclear explosions detection station (4).jpg Ã¢â‚¬â€ Type: Nuclear explosions detection station / Chemical analysis station | Origin: Soviet Union | Source article entry: K-612-O / KDKhR-1N on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/K-612-O_nuclear_explosions_detection_station_%284%29.jpg/250px-K-612-O_nuclear_explosions_detection_station_%284%29.jpg
+K-612-O nuclear explosions detection station (4).jpg — Type: Nuclear explosions detection station / Chemical analysis station | Origin: Soviet Union | Source article entry: K-612-O / KDKhR-1N on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/K-612-O_nuclear_explosions_detection_station_%284%29.jpg/250px-K-612-O_nuclear_explosions_detection_station_%284%29.jpg
  | Notes: The source page states that K-612-O is in the photo, while KDKhR-1N is based on an MT-LBu vehicle.
 
 
@@ -311,7 +311,7 @@ K-612-O nuclear explosions detection station (4).jpg Ã¢â‚¬â€ Type: Nu
 
 Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/nebo-sv-s-nebo-m/nebo-sv-s-nebo-m-01.png`
 
-55Zh6M Nebo-M - MAKS-2017part3-073.jpg Ã¢â‚¬â€ Type: Air surveillance radar | Origin: Soviet Union / Russia | Source article entry: Nebo-SV/S / Nebo-M on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/55Zh6M_Nebo-M_-_MAKS-2017part3-073.jpg/250px-55Zh6M_Nebo-M_-_MAKS-2017part3-073.jpg
+55Zh6M Nebo-M - MAKS-2017part3-073.jpg — Type: Air surveillance radar | Origin: Soviet Union / Russia | Source article entry: Nebo-SV/S / Nebo-M on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/55Zh6M_Nebo-M_-_MAKS-2017part3-073.jpg/250px-55Zh6M_Nebo-M_-_MAKS-2017part3-073.jpg
  | Notes: As of 25 October 2025 at least 5 systems, including 1L119 Nebo-SVU and 55Zh6U Nebo-U variants, have been lost in the Russian invasion of Ukraine.
 
 
@@ -319,7 +319,7 @@ Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/
 
 Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/zoopark-1/zoopark-1-01.png`
 
-1L219M back view MAKS2005.jpg Ã¢â‚¬â€ Type: Counter-battery radar | Origin: Russia | Source article entry: Zoopark-1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/1L219M_back_view_MAKS2005.jpg/250px-1L219M_back_view_MAKS2005.jpg
+1L219M back view MAKS2005.jpg — Type: Counter-battery radar | Origin: Russia | Source article entry: Zoopark-1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/1L219M_back_view_MAKS2005.jpg/250px-1L219M_back_view_MAKS2005.jpg
  | Notes: As of 25 October 2025 at least 25 have been lost in the Russian invasion of Ukraine.
 
 
@@ -329,21 +329,21 @@ Image file: `images/01-puolustushaarat/01-maavoimat/tiedustelu-valvonta-kalusto/
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/1l267-moskva-1/1l267-moskva-1-01.png`
 
-MAKS2015part6-37.jpg Ã¢â‚¬â€ Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1L267 Moskva-1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MAKS2015part6-37.jpg/250px-MAKS2015part6-37.jpg
+MAKS2015part6-37.jpg — Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1L267 Moskva-1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MAKS2015part6-37.jpg/250px-MAKS2015part6-37.jpg
 
 
 ### 1L269 Krasukha-2
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/1l269-krasukha-2/1l269-krasukha-2-01.png`
 
-Krasukha-2 (ÃÅ¡Ã‘â‚¬ÃÂ°Ã‘ÂÃ‘Æ’Ã‘â€¦ÃÂ°-2) Unloaded.jpg Ã¢â‚¬â€ Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1L269 Krasukha-2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Krasukha-2_%28%D0%9A%D1%80%D0%B0%D1%81%D1%83%D1%85%D0%B0-2%29_Unloaded.jpg/250px-Krasukha-2_%28%D0%9A%D1%80%D0%B0%D1%81%D1%83%D1%85%D0%B0-2%29_Unloaded.jpg
+Krasukha-2 (Красуха-2) Unloaded.jpg — Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1L269 Krasukha-2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Krasukha-2_%28%D0%9A%D1%80%D0%B0%D1%81%D1%83%D1%85%D0%B0-2%29_Unloaded.jpg/250px-Krasukha-2_%28%D0%9A%D1%80%D0%B0%D1%81%D1%83%D1%85%D0%B0-2%29_Unloaded.jpg
 
 
 ### 1RL257 Krasukha-4
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/1rl257-krasukha-41rl257-krasukha-4/1rl257-krasukha-4-01.png`
 
-MAKS2015part6-51.jpg Ã¢â‚¬â€ Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1RL257 Krasukha-4 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/MAKS2015part6-51.jpg/250px-MAKS2015part6-51.jpg
+MAKS2015part6-51.jpg — Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: 1RL257 Krasukha-4 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/MAKS2015part6-51.jpg/250px-MAKS2015part6-51.jpg
  | Notes: As of 25 October 2025 at least 1 has been lost in the Russian invasion of Ukraine.
 
 
@@ -351,7 +351,7 @@ MAKS2015part6-51.jpg Ã¢â‚¬â€ Type: Mobile electronic warfare complex 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/borisoglebsk-2/borisoglebsk-2-01.png`
 
-Borisoglebsk-2.png Ã¢â‚¬â€ Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: Borisoglebsk 2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Borisoglebsk-2.png/250px-Borisoglebsk-2.png
+Borisoglebsk-2.png — Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: Borisoglebsk 2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Borisoglebsk-2.png/250px-Borisoglebsk-2.png
  | Notes: As of 25 October 2025 at least 20 R-330BMV and R-394BMV Borisoglebsk-2B have been lost in the Russian invasion of Ukraine.
 
 
@@ -359,7 +359,7 @@ Borisoglebsk-2.png Ã¢â‚¬â€ Type: Mobile electronic warfare complex | 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/leer-2/leer-2-01.png`
 
-85Ya6 Leer-2 (2).jpg Ã¢â‚¬â€ Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: Leer-2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/85Ya6_Leer-2_%282%29.jpg/250px-85Ya6_Leer-2_%282%29.jpg
+85Ya6 Leer-2 (2).jpg — Type: Mobile electronic warfare complex | Origin: Russia | Source article entry: Leer-2 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/85Ya6_Leer-2_%282%29.jpg/250px-85Ya6_Leer-2_%282%29.jpg
  | Notes: Carried by a Tigr all-terrain vehicle. As of 25 October 2025 at least 6 have been lost in the Russian invasion of Ukraine.
 
 
@@ -367,7 +367,7 @@ Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/leer-2/leer-2-0
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/r-330zh-zhitel-r-330m1p-diabazol/r-330zh-zhitel-r-330m1p-diabazol-01.png`
 
-TB2015ExhibitionP2-51.jpg Ã¢â‚¬â€ Type: Mobile electronic warfare complexes | Origin: Russia | Source article entry: R-330Zh Zhitel and R-330M1P "Diabazol" on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TB2015ExhibitionP2-51.jpg/250px-TB2015ExhibitionP2-51.jpg
+TB2015ExhibitionP2-51.jpg — Type: Mobile electronic warfare complexes | Origin: Russia | Source article entry: R-330Zh Zhitel and R-330M1P "Diabazol" on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TB2015ExhibitionP2-51.jpg/250px-TB2015ExhibitionP2-51.jpg
  | Notes: Based on a KAMAZ vehicle. As of 25 October 2025 at least 23 R-330ZH and 1 R-330M1P have been lost in the Russian invasion of Ukraine.
 
 
@@ -375,7 +375,7 @@ TB2015ExhibitionP2-51.jpg Ã¢â‚¬â€ Type: Mobile electronic warfare com
 
 Image file: `images/01-puolustushaarat/01-maavoimat/elso-kalusto/rb-341v-leer-3/rb-341v-leer-3-01.png`
 
-TB2015ExhibitionP2-47.jpg Ã¢â‚¬â€ Type: Mobile electronic countermeasures complex | Origin: Russia | Source article entry: RB-341V Leer-3 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TB2015ExhibitionP2-47.jpg/250px-TB2015ExhibitionP2-47.jpg
+TB2015ExhibitionP2-47.jpg — Type: Mobile electronic countermeasures complex | Origin: Russia | Source article entry: RB-341V Leer-3 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TB2015ExhibitionP2-47.jpg/250px-TB2015ExhibitionP2-47.jpg
  | Notes: Equipped with 3 Orlan-10 unmanned aerial vehicles for communications jamming and SIGINT. As of 25 October 2025 at least 3 have been lost in the Russian invasion of Ukraine.
 
 
@@ -385,28 +385,28 @@ TB2015ExhibitionP2-47.jpg Ã¢â‚¬â€ Type: Mobile electronic countermeas
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/1b110/1b110-01.png`
 
-1V110 - 4th Separate Tank Brigade.jpg Ã¢â‚¬â€ Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1V110_-_4th_Separate_Tank_Brigade.jpg/250px-1V110_-_4th_Separate_Tank_Brigade.jpg
+1V110 - 4th Separate Tank Brigade.jpg — Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1V110_-_4th_Separate_Tank_Brigade.jpg/250px-1V110_-_4th_Separate_Tank_Brigade.jpg
 
 
 ### 9S737M Ranzhir-M
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/9s737m-ranzhir-m/9s737m-ranzhir-m-01.png`
 
-MAKS Airshow 2013 (Ramenskoye Airport, Russia) (521-41).jpg Ã¢â‚¬â€ Type: Air defence battle management system | Origin: Soviet Union | Source article entry: 9S737M Ranzhir-M on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-41%29.jpg/250px-MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-41%29.jpg
+MAKS Airshow 2013 (Ramenskoye Airport, Russia) (521-41).jpg — Type: Air defence battle management system | Origin: Soviet Union | Source article entry: 9S737M Ranzhir-M on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-41%29.jpg/250px-MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-41%29.jpg
 
 
 ### Akatsiya-ME
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/akatsiya-me/akatsiya-me-01.png`
 
-Engineering Technologies 2010 Part6 0039 copy.jpg Ã¢â‚¬â€ Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Engineering_Technologies_2010_Part6_0039_copy.jpg/250px-Engineering_Technologies_2010_Part6_0039_copy.jpg
+Engineering Technologies 2010 Part6 0039 copy.jpg — Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Engineering_Technologies_2010_Part6_0039_copy.jpg/250px-Engineering_Technologies_2010_Part6_0039_copy.jpg
 
 
 ### AM-1/Medovukha and P-230T/P-234PMB
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/medovukha/medovukha-01.png`
 
-P-230T Tigr-M.jpg Ã¢â‚¬â€ Type: All-terrain vehicle / Mobile telecommunications system and command-staff vehicle / Mobile field system | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/P-230T_Tigr-M.jpg/250px-P-230T_Tigr-M.jpg
+P-230T Tigr-M.jpg — Type: All-terrain vehicle / Mobile telecommunications system and command-staff vehicle / Mobile field system | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/P-230T_Tigr-M.jpg/250px-P-230T_Tigr-M.jpg
  | Notes: Four-wheelers, used by special forces. Built on a Tigr vehicle. The P-230T is visible in the photo. As of 25 October 2025 at least 3 P-230T have been lost in the Russian invasion of Ukraine.
 
 
@@ -414,7 +414,7 @@ P-230T Tigr-M.jpg Ã¢â‚¬â€ Type: All-terrain vehicle / Mobile telecomm
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/barnaul-t/barnaul-t-01.png`
 
-9S932-1 at the MAKS-2011 (01).jpg Ã¢â‚¬â€ Type: Air defence battle management system | Origin: Russia | Source article entry: Barnaul-T on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/9S932-1_at_the_MAKS-2011_%2801%29.jpg/250px-9S932-1_at_the_MAKS-2011_%2801%29.jpg
+9S932-1 at the MAKS-2011 (01).jpg — Type: Air defence battle management system | Origin: Russia | Source article entry: Barnaul-T on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/9S932-1_at_the_MAKS-2011_%2801%29.jpg/250px-9S932-1_at_the_MAKS-2011_%2801%29.jpg
  | Notes: As of 25 October 2025 at least 8 pieces of Barnaul-T-related equipment have been lost in the Russian invasion of Ukraine.
 
 
@@ -422,21 +422,21 @@ Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/barnaul-t/ba
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/mppu/mppu-01.png`
 
-Tactical exercises of Radiological, Chemical and Biological Protection Troops units at Shikhani training ground (411-40).jpg Ã¢â‚¬â€ Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tactical_exercises_of_Radiological%2C_Chemical_and_Biological_Protection_Troops_units_at_Shikhani_training_ground_%28411-40%29.jpg/250px-Tactical_exercises_of_Radiological%2C_Chemical_and_Biological_Protection_Troops_units_at_Shikhani_training_ground_%28411-40%29.jpg
+Tactical exercises of Radiological, Chemical and Biological Protection Troops units at Shikhani training ground (411-40).jpg — Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tactical_exercises_of_Radiological%2C_Chemical_and_Biological_Protection_Troops_units_at_Shikhani_training_ground_%28411-40%29.jpg/250px-Tactical_exercises_of_Radiological%2C_Chemical_and_Biological_Protection_Troops_units_at_Shikhani_training_ground_%28411-40%29.jpg
 
 
 ### PPRU-1 Ovod-M-SV
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/ppru-1-ovod-m-sv/ppru-1-ovod-m-sv-01.png`
 
-PPRU-1.jpg Ã¢â‚¬â€ Type: Air defence battle management system | Origin: Soviet Union | Source article entry: PPRU-1 Ovod-M-SV on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPRU-1.jpg/250px-PPRU-1.jpg
+PPRU-1.jpg — Type: Air defence battle management system | Origin: Soviet Union | Source article entry: PPRU-1 Ovod-M-SV on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPRU-1.jpg/250px-PPRU-1.jpg
 
 
 ### R-145BM/1/A
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-145bm-1-a/r-145bm-1-a-01.png`
 
-R-145BM command vehicle on BTR-60 base.jpg Ã¢â‚¬â€ Type: Armoured command-staff vehicle | Origin: Soviet Union / Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/R-145BM_command_vehicle_on_BTR-60_base.jpg/250px-R-145BM_command_vehicle_on_BTR-60_base.jpg
+R-145BM command vehicle on BTR-60 base.jpg — Type: Armoured command-staff vehicle | Origin: Soviet Union / Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/R-145BM_command_vehicle_on_BTR-60_base.jpg/250px-R-145BM_command_vehicle_on_BTR-60_base.jpg
  | Notes: As of 25 October 2025 at least 13 have been lost in the Russian invasion of Ukraine.
 
 
@@ -444,7 +444,7 @@ R-145BM command vehicle on BTR-60 base.jpg Ã¢â‚¬â€ Type: Armoured com
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149aksh/r-149aksh-01.png`
 
-R-149AKSh - SignalExerÃ‘Âise2017-01.jpg Ã¢â‚¬â€ Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/R-149AKSh_-_SignalExer%D1%81ise2017-01.jpg/250px-R-149AKSh_-_SignalExer%D1%81ise2017-01.jpg
+R-149AKSh - SignalExerсise2017-01.jpg — Type: Command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/R-149AKSh_-_SignalExer%D1%81ise2017-01.jpg/250px-R-149AKSh_-_SignalExer%D1%81ise2017-01.jpg
  | Notes: It is based on a KAMAZ-5350 vehicle. As of 25 October 2025 at least 23 have been lost in the Russian invasion of Ukraine.
 
 
@@ -452,7 +452,7 @@ R-149AKSh - SignalExerÃ‘Âise2017-01.jpg Ã¢â‚¬â€ Type: Command-s
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149bmr/r-149bmr-01.png`
 
-R-149BMR - ETIF-2010 (1).jpg Ã¢â‚¬â€ Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/R-149BMR_-_ETIF-2010_%281%29.jpg/250px-R-149BMR_-_ETIF-2010_%281%29.jpg
+R-149BMR - ETIF-2010 (1).jpg — Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/R-149BMR_-_ETIF-2010_%281%29.jpg/250px-R-149BMR_-_ETIF-2010_%281%29.jpg
  | Notes: As of 25 October 2025 at least 4 have been lost in the Russian invasion of Ukraine.
 
 
@@ -460,7 +460,7 @@ R-149BMR - ETIF-2010 (1).jpg Ã¢â‚¬â€ Type: Armoured command-staff veh
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-149ma1-a3/r-149ma1-a3-01.png`
 
-R-149MA1 - Engineering technologies 2012 (2).jpg Ã¢â‚¬â€ Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/R-149MA1_-_Engineering_technologies_2012_%282%29.jpg/250px-R-149MA1_-_Engineering_technologies_2012_%282%29.jpg
+R-149MA1 - Engineering technologies 2012 (2).jpg — Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/R-149MA1_-_Engineering_technologies_2012_%282%29.jpg/250px-R-149MA1_-_Engineering_technologies_2012_%282%29.jpg
  | Notes: As of 25 October 2025 at least 127 systems, including 86 R-149MA1 and 41 R-149MA3, have been lost in the Russian invasion of Ukraine.
 
 
@@ -468,7 +468,7 @@ R-149MA1 - Engineering technologies 2012 (2).jpg Ã¢â‚¬â€ Type: Armour
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-166/r-166-01.png`
 
-R-166-0,5 radiostation - 27th Independent Sevastopol Guards Motor Rifle Brigade (7).jpg Ã¢â‚¬â€ Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/R-166-0%2C5_radiostation_-_27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%287%29.jpg/250px-R-166-0%2C5_radiostation_-_27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%287%29.jpg
+R-166-0,5 radiostation - 27th Independent Sevastopol Guards Motor Rifle Brigade (7).jpg — Type: Armoured command-staff vehicle | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/R-166-0%2C5_radiostation_-_27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%287%29.jpg/250px-R-166-0%2C5_radiostation_-_27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%287%29.jpg
  | Notes: It is based on BTR-80 or a KAMAZ-5350 vehicle. As of 25 October 2025 at least 24 have been lost in the Russian invasion of Ukraine.
 
 
@@ -476,7 +476,7 @@ R-166-0,5 radiostation - 27th Independent Sevastopol Guards Motor Rifle Brigade 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-419l1/r-419l1-01.png`
 
-ÃÂ¦ÃÂ¸Ã‘â€žÃ‘â‚¬ÃÂ¾ÃÂ²ÃÂ°Ã‘Â Ã‘â‚¬ÃÂ°ÃÂ´ÃÂ¸ÃÂ¾Ã‘â‚¬ÃÂµÃÂ»ÃÂµÃÂ¹ÃÂ½ÃÂ°Ã‘Â Ã‘ÂÃ‘â€šÃÂ°ÃÂ½Ã‘â€ ÃÂ¸Ã‘Â ÃÂ -419Ãâ€º1.jpg Ã¢â‚¬â€ Type: Communications vehicle | Origin: Russia | Source article entry: R-419L1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A0-419%D0%9B1.jpg/250px-%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A0-419%D0%9B1.jpg
+Цифровая радиорелейная станция Р-419Л1.jpg — Type: Communications vehicle | Origin: Russia | Source article entry: R-419L1 on the Wikipedia equipment list | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A0-419%D0%9B1.jpg/250px-%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%A0-419%D0%9B1.jpg
  | Notes: Carried by a KAMAZ-4350 vehicle. Upgraded L1M version based on a KAMAZ-5350 vehicle is delivered. As of 25 October 2025 at least 3 have been lost in the Russian invasion of Ukraine.
 
 
@@ -484,7 +484,7 @@ Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-419l1/r-41
 
 Image file: `images/01-puolustushaarat/01-maavoimat/johtamiskalusto/r-439md2/r-439md2-01.png`
 
-International Mine Action Center in Syria (Aleppo) 17 (cropped).jpg Ã¢â‚¬â€ Type: Satellite communication station | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/International_Mine_Action_Center_in_Syria_%28Aleppo%29_17_%28cropped%29.jpg/250px-International_Mine_Action_Center_in_Syria_%28Aleppo%29_17_%28cropped%29.jpg
+International Mine Action Center in Syria (Aleppo) 17 (cropped).jpg — Type: Satellite communication station | Origin: Russia | Verified Wikipedia image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/International_Mine_Action_Center_in_Syria_%28Aleppo%29_17_%28cropped%29.jpg/250px-International_Mine_Action_Center_in_Syria_%28Aleppo%29_17_%28cropped%29.jpg
  | Notes: As of 25 October 2025 at least 2 have been lost in the Russian invasion of Ukraine.
 
 
@@ -567,13 +567,13 @@ Model: Tor missile system | Type: Surface-to-air missile system | Origin: Soviet
 
 Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-01.png`
 
-2s19 msta-s.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "152-mm self-propelled howitzer 2S19 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«Msta-SÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â» in Saint-Petersburg Artillery museum" | Author: One half 3544 | Source: https://commons.wikimedia.org/wiki/File:2s19_msta-s.jpg
+2s19 msta-s.jpg — Caption: "152-mm self-propelled howitzer 2S19 «Msta-S» in Saint-Petersburg Artillery museum" | Author: One half 3544 | Source: https://commons.wikimedia.org/wiki/File:2s19_msta-s.jpg
  | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 6 May 2007 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/2s19-msta-s/2s19-msta-s-02.png`
 
-2S19 Msta-S 2.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "2S19 Msta-S" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:2S19_Msta-S_2.jpg
+2S19 Msta-S 2.jpg — Caption: "2S19 Msta-S" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:2S19_Msta-S_2.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 22 August 2008, 00:05:23 | Uploaded: 19 April 2013
 
@@ -591,13 +591,13 @@ Model: BM-21 Grad | Type: 122 mm multiple rocket launcher | Origin: Soviet Union
 
 Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-01.png`
 
-1 multiple rocket launcher BM-21 Grad.JPG ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:1_multiple_rocket_launcher_BM-21_Grad.JPG
+1 multiple rocket launcher BM-21 Grad.JPG — Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:1_multiple_rocket_launcher_BM-21_Grad.JPG
  | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
 
 Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-21-grad/bm-21-grad-02.png`
 
-2 multiple rocket launcher BM-21 Grad.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:2_multiple_rocket_launcher_BM-21_Grad.jpg
+2 multiple rocket launcher BM-21 Grad.jpg — Caption: "Russia, transporting multiple rocket launcher BM-21 Grad by railroad" | Author: Sergeev Pavel | Source: https://commons.wikimedia.org/wiki/File:2_multiple_rocket_launcher_BM-21_Grad.jpg
  | License: Public Domain (released by copyright holder) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 2010 | Uploaded: 27 June 2010
 
@@ -624,13 +624,13 @@ Model: BM-30 Smerch | Type: 300 mm multiple rocket launcher | Origin: Soviet Uni
 
 Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-01.png`
 
-Army2016demo-070.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BM-30 Smerch (9A52) at ARMY-2016 (demo)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-070.jpg
+Army2016demo-070.jpg — Caption: "BM-30 Smerch (9A52) at ARMY-2016 (demo)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-070.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/bm-30-smerch/bm-30-smerch-02.png`
 
-BM-30 Smerch ARMY-2018.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "9A52-2 launcher and 9T234-2 transporter-loader of 9K58 / BM-30 Smerch MLRS, International Miltary-Technical Forum ARMY-2018, Alabino, Moscow region, Russia" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:BM-30_Smerch_ARMY-2018.jpg
+BM-30 Smerch ARMY-2018.jpg — Caption: "9A52-2 launcher and 9T234-2 transporter-loader of 9K58 / BM-30 Smerch MLRS, International Miltary-Technical Forum ARMY-2018, Alabino, Moscow region, Russia" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:BM-30_Smerch_ARMY-2018.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 22 August 2018 | Uploaded:
 
@@ -641,7 +641,7 @@ Image file: `images/01-puolustushaarat/01-maavoimat/heitin-kalusto/tos-1a-solnts
 
 Model: TOS-1A Solntsepyok | Type: 220 mm thermobaric multiple rocket launcher | Origin: Soviet Union / Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Vehicles
  | Photo source: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Army2016-487.jpg/250px-Army2016-487.jpg
- | Notes: TOS-1 Buratino was developed in the 1980s for the Soviet Army. The improved TOS-1A variant entered service in 2001Ã¢â‚¬â€œ2003. As of 25 October 2025, at least 34 have been lost in the Russian invasion of Ukraine.
+ | Notes: TOS-1 Buratino was developed in the 1980s for the Soviet Army. The improved TOS-1A variant entered service in 2001–2003. As of 25 October 2025, at least 34 have been lost in the Russian invasion of Ukraine.
 
 
 ### TOS-2 Tosochka
@@ -677,13 +677,13 @@ Model: Uragan-1M | Type: Universal 220 mm-300 mm multiple rocket launcher | Orig
 
 Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-01.png`
 
-9K720 Iskander (SS-26 Stone) (27102990117).jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(27102990117).jpg
+9K720 Iskander (SS-26 Stone) (27102990117).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(27102990117).jpg
  | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 6 May 2018, 08:18 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/9k720-iskander-02.png`
 
-9K720 Iskander (SS-26 Stone) (41253217174).jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(41253217174).jpg
+9K720 Iskander (SS-26 Stone) (41253217174).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:9K720_Iskander_(SS-26_Stone)_(41253217174).jpg
  | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 6 May 2018, 07:48 | Uploaded:
 
@@ -692,7 +692,7 @@ Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9k720-iskander/
 
 Image file: `images/01-puolustushaarat/01-maavoimat/9p149-shturm-s-sm/9p149-shturm-s-sm-01.png`
 
-9P149.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:9P149.jpg
+9P149.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:9P149.jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/7/76/9P149.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -702,7 +702,7 @@ Image file: `images/01-puolustushaarat/01-maavoimat/9p149-shturm-s-sm/9p149-shtu
 
 Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p157-2-khrizantema-s-sp/9p157-2-khrizantema-s-sp-01.png`
 
-Khrizantema 1.jpg Ã¢â‚¬â€ Caption: "9P157-2 vehicle with 9M123 missiles of anti-tank complex Khrizantema at Engineering Technologies 2012 international forum" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Khrizantema_1.jpg
+Khrizantema 1.jpg — Caption: "9P157-2 vehicle with 9M123 missiles of anti-tank complex Khrizantema at Engineering Technologies 2012 international forum" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Khrizantema_1.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 June 2012 | Uploaded: see file page
 
 
@@ -710,7 +710,7 @@ Khrizantema 1.jpg Ã¢â‚¬â€ Caption: "9P157-2 vehicle with 9M123 missil
 
 Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163-3-kornet-d/9p163-3-kornet-d-01.png`
 
-VDayRehearsal05052016-05.jpg Ã¢â‚¬â€ Commons file page: https://commons.wikimedia.org/wiki/File:VDayRehearsal05052016-05.jpg
+VDayRehearsal05052016-05.jpg — Commons file page: https://commons.wikimedia.org/wiki/File:VDayRehearsal05052016-05.jpg
  | Source image used on Wikipedia: https://upload.wikimedia.org/wikipedia/commons/0/09/VDayRehearsal05052016-05.jpg
  | License: check file page
  | Changes: Resized for in-app display
@@ -723,7 +723,7 @@ VDayRehearsal05052016-05.jpg Ã¢â‚¬â€ Commons file page: https://commo
 
 Image file: `images/01-puolustushaarat/01-maavoimat/ohjuskalusto/9p163m-1-kornet-t/9p163m-1-kornet-t-01.png`
 
-Kornet-T in 1000th Training Center of Rocket and Artillery Troops 01.jpg Ã¢â‚¬â€ Caption: "Kornet-T on BMP-3 chassis during training of artillery units in the 1000th training center" | Author: Yevgeny Kel | Source: https://commons.wikimedia.org/wiki/File:Kornet-T_in_1000th_Training_Center_of_Rocket_and_Artillery_Troops_01.jpg
+Kornet-T in 1000th Training Center of Rocket and Artillery Troops 01.jpg — Caption: "Kornet-T on BMP-3 chassis during training of artillery units in the 1000th training center" | Author: Yevgeny Kel | Source: https://commons.wikimedia.org/wiki/File:Kornet-T_in_1000th_Training_Center_of_Rocket_and_Artillery_Troops_01.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 6 November 2014 | Uploaded: 28 October 2017
 
 # Merivoimat
@@ -746,9 +746,9 @@ Class: Dyugon | Category: Landing craft | Source page: https://en.wikipedia.org/
  | Ships in class on the list: Ataman Platov, Denis Davydov, Ivan Kartsov, Lieutenant Rimskiy-Korsakov, Midshipman Lermontov
  | Notes: The class is identified on Wikipedia as Project 21820.
 
-Â«ÐœÐ¸Ñ‡Ð¼Ð°Ð½ Ð›ÐµÑ€Ð¼Ð¾Ð½Ñ‚Ð¾Ð²Â»1 â€” Caption: "Michman Lermontov firing MTPU-1 in Baltiysk." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%B8%D1%87%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%C2%BB1.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 26_
+«Мичман Лермонтов»1 — Caption: "Michman Lermontov firing MTPU-1 in Baltiysk." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%B8%D1%87%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%C2%BB1.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 26_
 
-Â«ÐœÐ¸Ñ‡Ð¼Ð°Ð½ Ð›ÐµÑ€Ð¼Ð¾Ð½Ñ‚Ð¾Ð²Â» â€” Caption: "Michman Lermontov landing in Kaliningrad Oblast." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%B8%D1%87%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%C2%BB.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 14 September 2015 | Uploaded: 8 October 2015
+«Мичман Лермонтов» — Caption: "Michman Lermontov landing in Kaliningrad Oblast." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%B8%D1%87%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%C2%BB.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 14 September 2015 | Uploaded: 8 October 2015
 
 ### Ivan Gren -luokka
 
@@ -764,7 +764,7 @@ Class: Ivan Gren | Category: Landing ship | Source page: https://en.wikipedia.or
  | Ships in class on the list: Ivan Gren, Pyotr Morgunov
  | Notes: The class is identified on Wikipedia as Project 11711.
 
-Ivan Gren landing ship well deck â€” Caption: "Ivan Gren landing ship well deck" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Ivan_Gren_landing_ship_well_deck.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 12 August 2023 | Uploaded: 14 August 2023
+Ivan Gren landing ship well deck — Caption: "Ivan Gren landing ship well deck" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Ivan_Gren_landing_ship_well_deck.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 12 August 2023 | Uploaded: 14 August 2023
 
 ### Ondatra-luokka
 
@@ -780,7 +780,7 @@ Class: Ondatra | Category: Landing craft | Source page: https://en.wikipedia.org
  | Ships in class on the list: D-704, D-70, D-464, D-465, D-325, D-148, D-365, D-182, D-185, D-163, D-57, Svatovo
  | Notes: The class is identified on Wikipedia as Project 1176.
 
-Ð”ÐšÐ Ð”-704 Ð² ÐÐ¼ÑƒÑ€ÑÐºÐ¾Ð¼ Ð·Ð°Ð»Ð¸Ð²Ðµ 2010.07.25 â€” Caption: "Ð”ÐšÐ Ð”-704 Ð² ÐÐ¼ÑƒÑ€ÑÐºÐ¾Ð¼ Ð·Ð°Ð»Ð¸Ð²Ðµ 2010.07.25" | Author: Alex omen | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%9A%D0%90_%D0%94-704_%D0%B2_%D0%90%D0%BC%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%BC_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2%D0%B5_2010.07.25.JPG | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 25 July 2010
+ДКА Д-704 в Амурском заливе 2010.07.25 — Caption: "ДКА Д-704 в Амурском заливе 2010.07.25" | Author: Alex omen | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%9A%D0%90_%D0%94-704_%D0%B2_%D0%90%D0%BC%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%BC_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2%D0%B5_2010.07.25.JPG | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 25 July 2010
 
 ### Ropucha-luokka
 
@@ -790,11 +790,11 @@ Image file: `images/01-puolustushaarat/02-merivoimat/maihinnousualukset/ropucha/
 
 
 
-Kaliningrad2004Cartagena â€” Caption: "Russian large landing ship Kaliningrad in Cartagena." | Author: JosÃ© MarÃ­a Casanova Colorado, Cartagena (from Los Barcos de Eugenio / EugenioÂ´s Warships) | Source: https://commons.wikimedia.org/wiki/File:Kaliningrad2004Cartagena.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 31 August 2004 | Uploaded: 5 August 2008
+Kaliningrad2004Cartagena — Caption: "Russian large landing ship Kaliningrad in Cartagena." | Author: José María Casanova Colorado, Cartagena (from Los Barcos de Eugenio / Eugenio´s Warships) | Source: https://commons.wikimedia.org/wiki/File:Kaliningrad2004Cartagena.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 31 August 2004 | Uploaded: 5 August 2008
 
-Istanbul Large Landing Ship Aleksandr Shabalin (242741001) â€” Caption: "Istanbul. Bosphorus. Large landing ship â€œAleksandr Shabalinâ€" | Author: Alexxx Malev | Source: https://commons.wikimedia.org/wiki/File:Istanbul_Large_Landing_Ship_Aleksandr_Shabalin_(242741001).jpeg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 23 November 2013 | Uploaded: 5 August 2018
+Istanbul Large Landing Ship Aleksandr Shabalin (242741001) — Caption: "Istanbul. Bosphorus. Large landing ship "Aleksandr Shabalin"" | Author: Alexxx Malev | Source: https://commons.wikimedia.org/wiki/File:Istanbul_Large_Landing_Ship_Aleksandr_Shabalin_(242741001).jpeg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 23 November 2013 | Uploaded: 5 August 2018
 
-ShipsSPB2015-03 â€” Caption: "Project 775 landing ship Korolev" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ShipsSPB2015-03.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 11 May 2015
+ShipsSPB2015-03 — Caption: "Project 775 landing ship Korolev" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ShipsSPB2015-03.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 11 May 2015
 
 ### Serna-luokka
 
@@ -810,9 +810,9 @@ Class: Serna | Category: Landing craft | Source page: https://en.wikipedia.org/w
  | Ships in class on the list: D-67, D-156, D-131, D-172, Alexey Sukhanov, D-144, D-199, Alexey Barinov, Ivan Pasko, D-107, Zaur Omarov, D-178 Yury Kukushkin
  | Notes: The class is identified on Wikipedia as Project 11770.
 
-ÐšÐ°Ñ‚ÐµÑ€ ÐÐ»ÐµÐºÑÐµÐ¹ Ð‘Ð°Ñ€Ð¸Ð½Ð¾Ð² 791 Ñ Ð±Ð¾Ñ‚Ð¸ÐºÐ¾Ð¼ ÐŸÐµÑ‚Ñ€Ð° I Ð½Ð° Ð´Ð½Ðµ Ð’ÐœÐ¤ 2024 â€” Caption: "ÐšÐ°Ñ‚ÐµÑ€ ÐÐ»ÐµÐºÑÐµÐ¹ Ð‘Ð°Ñ€Ð¸Ð½Ð¾Ð² 791 Ñ Ð±Ð¾Ñ‚Ð¸ÐºÐ¾Ð¼ ÐŸÐµÑ‚Ñ€Ð° I Ð½Ð° Ð´Ð½Ðµ Ð’ÐœÐ¤ 2024" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%82%D0%B5%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%91%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2_791_%D1%81_%D0%B1%D0%BE%D1%82%D0%B8%D0%BA%D0%BE%D0%BC_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_I_%D0%BD%D0%B0_%D0%B4%D0%BD%D0%B5_%D0%92%D0%9C%D0%A4_2024.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 28 July 2024
+Катер Алексей Баринов 791 с ботиком Петра I на дне ВМФ 2024 — Caption: "Катер Алексей Баринов 791 с ботиком Петра I на дне ВМФ 2024" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%82%D0%B5%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%91%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2_791_%D1%81_%D0%B1%D0%BE%D1%82%D0%B8%D0%BA%D0%BE%D0%BC_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_I_%D0%BD%D0%B0_%D0%B4%D0%BD%D0%B5_%D0%92%D0%9C%D0%A4_2024.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 28 July 2024
 
-Ð’Ð¾ÐµÐ½Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð²ÐµÑ‚ Ð˜Ð²Ð°Ð½ ÐŸÐ°ÑÑŒÐºÐ¾ 792 Ð½Ð° Ð´Ð½Ðµ Ð’ÐœÐ¤ 2024 â€” Caption: "Ð’Ð¾ÐµÐ½Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð²ÐµÑ‚ Ð˜Ð²Ð°Ð½ ÐŸÐ°ÑÑŒÐºÐ¾ 792 Ð½Ð° Ð´Ð½Ðµ Ð’ÐœÐ¤ 2024" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B2%D0%B5%D1%82_%D0%98%D0%B2%D0%B0%D0%BD_%D0%9F%D0%B0%D1%81%D1%8C%D0%BA%D0%BE_792_%D0%BD%D0%B0_%D0%B4%D0%BD%D0%B5_%D0%92%D0%9C%D0%A4_2024.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 28 July 2024
+Военный корвет Иван Пасько 792 на дне ВМФ 2024 — Caption: "Военный корвет Иван Пасько 792 на дне ВМФ 2024" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B2%D0%B5%D1%82_%D0%98%D0%B2%D0%B0%D0%BD_%D0%9F%D0%B0%D1%81%D1%8C%D0%BA%D0%BE_792_%D0%BD%D0%B0_%D0%B4%D0%BD%D0%B5_%D0%92%D0%9C%D0%A4_2024.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 28 July 2024
 
 ### Alligator-luokka
 
@@ -842,9 +842,9 @@ Class: Zubr | Category: Landing craft | Source page: https://en.wikipedia.org/wi
  | Ships in class on the list: Evgeniy Kocheshkov, Mordoviya
  | Notes: The class is identified on Wikipedia as Project 12322.
 
-Zubr class LCAC - Zapad-2013 â€” Caption: "Landing craft air cushion "Mordovia" class "Zubr", military exercises "Zapad-2013". 2013-09-26." | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Zubr_class_LCAC_-_Zapad-2013.jpeg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 September 2013 | Uploaded: 27 September 2013
+Zubr class LCAC - Zapad-2013 — Caption: "Landing craft air cushion "Mordovia" class "Zubr", military exercises "Zapad-2013". 2013-09-26." | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Zubr_class_LCAC_-_Zapad-2013.jpeg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 September 2013 | Uploaded: 27 September 2013
 
-Russian Zubr class LCAC â€” Caption: "Russian military exercise Zapad 2009." | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Russian_Zubr_class_LCAC.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 29 September 2009
+Russian Zubr class LCAC — Caption: "Russian military exercise Zapad 2009." | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Russian_Zubr_class_LCAC.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 29 September 2009
 
 ## Miinantorjunta-alukset
 
@@ -858,9 +858,9 @@ Image file: `images/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/alex
 
 
 
-4249-2. St. Petersburg. International Naval Salon - 2015 â€” Caption: "International Naval Salon - 2015 in St. Petersburg." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:4249-2._St._Petersburg._International_Naval_Salon_-_2015.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 4 July 2015 18:30:28 | Uploaded: 30 March 2020
+4249-2. St. Petersburg. International Naval Salon - 2015 — Caption: "International Naval Salon - 2015 in St. Petersburg." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:4249-2._St._Petersburg._International_Naval_Salon_-_2015.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 4 July 2015 18:30:28 | Uploaded: 30 March 2020
 
-St petersburg 2018 navy day minesweeper aleksandr obukhov (44764264600) â€” Caption: "st_petersburg_2018_navy_day_minesweeper_aleksandr_obukhov" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_minesweeper_aleksandr_obukhov_(44764264600).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 29 July 2018
+St petersburg 2018 navy day minesweeper aleksandr obukhov (44764264600) — Caption: "st_petersburg_2018_navy_day_minesweeper_aleksandr_obukhov" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_minesweeper_aleksandr_obukhov_(44764264600).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 29 July 2018
 
 ### Gorya-luokka
 
@@ -912,7 +912,7 @@ Image file: `images/01-puolustushaarat/02-merivoimat/miinantorjunta-alukset/sony
 
 
 
-9507.2. Ship Pavel Khanov â€” Caption: "Base minesweeper "Pavel Khanov" on the Neva." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:9507.2._Ship_Pavel_Khanov.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 July 2020
+9507.2. Ship Pavel Khanov — Caption: "Base minesweeper "Pavel Khanov" on the Neva." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:9507.2._Ship_Pavel_Khanov.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 July 2020
 
 ### Yevgenya-luokka
 
@@ -1017,11 +1017,11 @@ Class: Kilo | Category: Conventional attack submarine | Source page: https://en.
  | Ships in class on the list: Vladikavkaz, Kaluga, Komsomolsk-na-Amure, Dmitrov, Alrosa
  | Notes: Project 877, 877LPMB, 877EKM and 877V boats listed under conventional attack submarines.
 
-St petersburg 2018 navy day submarine dmitrov (46582283831) â€” Caption: "st_petersburg_2018_navy_day_submarine_dmitrov" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_submarine_dmitrov_(46582283831).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 28 July 2018 | Uploaded: 15 August 2019
+St petersburg 2018 navy day submarine dmitrov (46582283831) — Caption: "st_petersburg_2018_navy_day_submarine_dmitrov" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_submarine_dmitrov_(46582283831).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 28 July 2018 | Uploaded: 15 August 2019
 
-Kronstadt from east to west with a Cruiseship 0093 â€” Caption: "Kronstadt Russland 2009; von Ost nach West mit einem Kreuzfahrtschiff" | Author: Bin im Garten | Source: https://commons.wikimedia.org/wiki/File:Kronstadt_from_east_to_west_with_a_Cruiseship_0093.JPG | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 14 August 2009
+Kronstadt from east to west with a Cruiseship 0093 — Caption: "Kronstadt Russland 2009; von Ost nach West mit einem Kreuzfahrtschiff" | Author: Bin im Garten | Source: https://commons.wikimedia.org/wiki/File:Kronstadt_from_east_to_west_with_a_Cruiseship_0093.JPG | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 14 August 2009
 
-Ministry of Defence of Russia - 031 â€” Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Ministry_of_Defence_of_Russia_-_031.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 15 February 2016
+Ministry of Defence of Russia - 031 — Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Ministry_of_Defence_of_Russia_-_031.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 15 February 2016
 
 ### Lada-luokka
 
@@ -1037,9 +1037,9 @@ Class: Lada | Category: Conventional attack submarine | Source page: https://en.
  | Ships in class on the list: Kronshtadt, Velikiye Luki
  | Notes: Project 677 boats listed under conventional attack submarines.
 
-Navy Day, Saint Petersburg, Russia - 48513620051 â€” Caption: "Neva River, B-586 Kronstadt" | Author: Ninara | Source: https://commons.wikimedia.org/wiki/File:Navy_Day,_Saint_Petersburg,_Russia_-_48513620051.jpg | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | Changes: Resized for in-app display | Created: 28 July 2019 15:56:19
+Navy Day, Saint Petersburg, Russia - 48513620051 — Caption: "Neva River, B-586 Kronstadt" | Author: Ninara | Source: https://commons.wikimedia.org/wiki/File:Navy_Day,_Saint_Petersburg,_Russia_-_48513620051.jpg | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | Changes: Resized for in-app display | Created: 28 July 2019 15:56:19
 
-Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³. Ð”ÐµÐ½ÑŒ Ð’ÐœÐ¤. ÐŸÐ°Ñ€Ð°Ð´ Ð½Ð° ÐÐµÐ²Ðµ. 24 Ð¸ÑŽÐ»Ñ 2019 â€” Caption: "Saint-Petersburg. Navy day. Parade on the Neva. July 24, 20" | Author: Ð¡ÐµÑ€Ð³ÐµÐ¹ Ð¨Ð¼Ð¸Ð´Ñ‚ Ð¡ÐŸÐ‘ | Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3._%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4._%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D0%B5._24_%D0%B8%D1%8E%D0%BB%D1%8F_2019.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2019
+Санкт-Петербург. День ВМФ. Парад на Неве. 24 июля 2019 — Caption: "Saint-Petersburg. Navy day. Parade on the Neva. July 24, 20" | Author: Сергей Шмидт СПБ | Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3._%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4._%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D0%B5._24_%D0%B8%D1%8E%D0%BB%D1%8F_2019.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2019
 
 ### Losharik
 
@@ -1157,9 +1157,9 @@ Class: Admiral Gorshkov | Category: Frigate | Source page: https://en.wikipedia.
  | Ships in class on the list: Admiral Flota Sovetskogo Soyuza Gorshkov, Admiral Flota Kasatonov, Admiral Golovko
  | Notes: All three are listed active between 2025 and 2026.
 
-Navy Day in Baltiysk, (2015-07-26) 08 â€” Caption: "ÐŸÑ€ÐµÐ·Ð¸Ð´ÐµÐ½Ñ‚ Ð Ð¾ÑÑÐ¸Ð¸ Ð’Ð»Ð°Ð´Ð¸Ð¼Ð¸Ñ€ ÐŸÑƒÑ‚Ð¸Ð½ Ð½Ð° Ð”Ð½Ðµ Ð’Ð¾ÐµÐ½Ð½Ð¾-ÐœÐ¾Ñ€ÑÐºÐ¾Ð³Ð¾ Ð¤Ð»Ð¾Ñ‚Ð° Ð Ð¾ÑÑÐ¸Ð¸ Ð² Ð‘Ð°Ð»Ñ‚Ð¸Ð¹ÑÐºÐµ. ÐÐ° Ð±Ð¾Ñ€Ñ‚Ñƒ Ñ„Ñ€ÐµÐ³Ð°Ñ‚Ð° â€ÐÐ´Ð¼Ð¸Ñ€Ð°Ð» Ñ„Ð»Ð¾Ñ‚Ð° Ð¡Ð¾Ð²ÐµÑ‚ÑÐºÐ¾Ð³Ð¾ Ð¡Ð¾ÑŽÐ·Ð° Ð“Ð¾Ñ€ÑˆÐºÐ¾Ð²â€œ" | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Navy_Day_in_Baltiysk,_(2015-07-26)_08.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 26 July 2015
+Navy Day in Baltiysk, (2015-07-26) 08 — Caption: "Президент России Владимир Путин на Дне Военно-Морского Флота России в Балтийске. На борту фрегата "Адмирал флота Советского Союза Горшков"" | Author: Kremlin.ru | Source: https://commons.wikimedia.org/wiki/File:Navy_Day_in_Baltiysk,_(2015-07-26)_08.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 26 July 2015
 
-Maritime Security Belt 2023 - Commander's visit to participating warships (08) â€” Caption: "Ø§Ù…ÛŒØ± Ø§ÛŒØ±Ø§Ù†ÛŒ ÙØ±Ù…Ø§Ù†Ø¯Ù‡ Ù†ÛŒØ±ÙˆÛŒ Ø¯Ø±ÛŒØ§ÛŒÛŒ Ø§Ø±ØªØ´ Ø§Ø² Ù†Ø§ÙˆÙ‡Ø§ÛŒ Ú†ÛŒÙ† Ùˆ Ø±ÙˆØ³ÛŒÙ‡ Ø´Ø±Ú©Øªâ€ŒÚ©Ù†Ù†Ø¯Ù‡ Ø¯Ø± Ø±Ø²Ù…Ø§ÛŒØ´ Ù…Ø±Ú©Ø¨ Ú©Ù…Ø±Ø¨Ù†Ø¯ Ø§Ù…Ù†ÛŒØª Ø¯Ø±ÛŒØ§ÛŒÛŒ Ø¨Ø§Ø²Ø¯ÛŒØ¯ Ú©Ø±Ø¯." | Author: Mehr News Agency | Source: https://commons.wikimedia.org/wiki/File:Maritime_Security_Belt_2023_-_Commander's_visit_to_participating_warships_(08).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 19 March 2023
+Maritime Security Belt 2023 - Commander's visit to participating warships (08) — Caption: "امیر ایرانی فرمانده نیروی دریایی ارتش از ناوهای چین و روسیه شرکت‌کننده در رزمایش مرکب کمربند امنیت دریایی بازدید کرد." | Author: Mehr News Agency | Source: https://commons.wikimedia.org/wiki/File:Maritime_Security_Belt_2023_-_Commander's_visit_to_participating_warships_(08).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 19 March 2023
 
 ### Admiral Grigorovich -luokka
 
@@ -1214,13 +1214,13 @@ Class: Buyan-M | Category: Corvette | Source page: https://en.wikipedia.org/wiki
  | Ships in class on the list: Grad Sviyazhsk, Uglich, Velikiy Ustug, Zelenyy Dol, Serpukhov, Vyshniy Volochek, Orekhovo-Zuyevo, Ingushetiya, Grayvoron, Grad, Naro-Fominsk, Stavropol
  | Notes: Project 21631 ships listed under corvettes on the source page.
 
-2019-07-30-3523-Saint-Petersburg-Russian warship â€” Caption: "navire militaire russe (Serpukhov) Ã  Saint PÃ©tersbourg" | Author: Don-vip | Source: https://commons.wikimedia.org/wiki/File:2019-07-30-3523-Saint-Petersburg-Russian_warship.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 30 July 2019 15:19:49
+2019-07-30-3523-Saint-Petersburg-Russian warship — Caption: "navire militaire russe (Serpukhov) à Saint Pétersbourg" | Author: Don-vip | Source: https://commons.wikimedia.org/wiki/File:2019-07-30-3523-Saint-Petersburg-Russian_warship.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 30 July 2019 15:19:49
 
-ÐœÐ Ðš Ð“Ñ€Ð°Ð´ Ð¡Ð²Ð¸ÑÐ¶ÑÐº. 2015 Ð³Ð¾Ð´ â€” Caption: "ÐœÐ Ðš Ð“Ñ€Ð°Ð´ Ð¡Ð²Ð¸ÑÐ¶ÑÐº. 2015 Ð³Ð¾Ð´" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%A0%D0%9A_%D0%93%D1%80%D0%B0%D0%B4_%D0%A1%D0%B2%D0%B8%D1%8F%D0%B6%D1%81%D0%BA._2015_%D0%B3%D0%BE%D0%B4.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 10 August 2015
+МРК Град Свияжск. 2015 год — Caption: "МРК Град Свияжск. 2015 год" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%A0%D0%9A_%D0%93%D1%80%D0%B0%D0%B4_%D0%A1%D0%B2%D0%B8%D1%8F%D0%B6%D1%81%D0%BA._2015_%D0%B3%D0%BE%D0%B4.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 10 August 2015
 
-NavyDay2018-08 â€” Caption: "Zelenyy Dol (ship, 2015)." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:NavyDay2018-08.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 30 July 2018
+NavyDay2018-08 — Caption: "Zelenyy Dol (ship, 2015)." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:NavyDay2018-08.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 30 July 2018
 
-Small rocket ship Orekhovo-Zuevo â€” Caption: "Small rocket ship Orekhovo-Zuevo" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Small_rocket_ship_Orekhovo-Zuevo.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 12 January 2022
+Small rocket ship Orekhovo-Zuevo — Caption: "Small rocket ship Orekhovo-Zuevo" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Small_rocket_ship_Orekhovo-Zuevo.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 12 January 2022
 
 ### Gepard-luokka
 
@@ -1262,11 +1262,11 @@ Class: Karakurt | Category: Corvette | Source page: https://en.wikipedia.org/wik
  | Ships in class on the list: Mytishchi, Sovetsk, Odintsovo, Amur, Tucha, Typhoon
  | Notes: Listed under corvettes on the source page.
 
-Ð”ÐµÐ½ÑŒ Ð’ÐœÐ¤ 2020 Ð¡ÐŸÐ±. ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ ÐœÑ‹Ñ‚Ð¸Ñ‰Ð¸ 567 Ð¿Ð¾Ð´ Ð¼Ð¾ÑÑ‚Ð¾Ð¼ â€” Caption: "Ð”ÐµÐ½ÑŒ Ð’ÐœÐ¤ 2020 Ð¡ÐŸÐ±. ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ ÐœÑ‹Ñ‚Ð¸Ñ‰Ð¸ 567 Ð¿Ð¾Ð´ Ð¼Ð¾ÑÑ‚Ð¾Ð¼" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4_2020_%D0%A1%D0%9F%D0%B1._%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8_567_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%BC.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020
+День ВМФ 2020 СПб. Малый ракетный корабль Мытищи 567 под мостом — Caption: "День ВМФ 2020 СПб. Малый ракетный корабль Мытищи 567 под мостом" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4_2020_%D0%A1%D0%9F%D0%B1._%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8_567_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%BC.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020
 
-Ð”ÐµÐ½ÑŒ Ð’ÐœÐ¤ 2020 Ð¡ÐŸÐ±. ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ Ð¡Ð¾Ð²ÐµÑ‚ÑÐº 577 â€” Caption: "Ð”ÐµÐ½ÑŒ Ð’ÐœÐ¤ 2020 Ð¡ÐŸÐ±. ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ Ð¡Ð¾Ð²ÐµÑ‚ÑÐº 577" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4_2020_%D0%A1%D0%9F%D0%B1._%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA_577.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020
+День ВМФ 2020 СПб. Малый ракетный корабль Советск 577 — Caption: "День ВМФ 2020 СПб. Малый ракетный корабль Советск 577" | Author: Okras | Source: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4_2020_%D0%A1%D0%9F%D0%B1._%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA_577.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020
 
-Odentsovo (ship, 2021) â€” Caption: "ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ Â«ÐžÐ´Ð¸Ð½Ñ†Ð¾Ð²Ð¾Â» Ð½Ð° Ð³ÐµÐ½ÐµÑ€Ð°Ð»ÑŒÐ½Ð¾Ð¹ Ñ€ÐµÐ¿ÐµÑ‚Ð¸Ñ†Ð¸Ð¸ Ð“Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð’Ð¾ÐµÐ½Ð½Ð¾-Ð¼Ð¾Ñ€ÑÐºÐ¾Ð³Ð¾ Ð¿Ð°Ñ€Ð°Ð´Ð°, Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³, 22.07.2021" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Odentsovo_(ship,_2021).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 22 July 2021 | Uploaded: 30 July 2021
+Odentsovo (ship, 2021) — Caption: "Малый ракетный корабль «Одинцово» на генеральной репетиции Главного Военно-морского парада, Санкт-Петербург, 22.07.2021" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Odentsovo_(ship,_2021).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 22 July 2021 | Uploaded: 30 July 2021
 
 ### Kirov-luokka
 
@@ -1309,11 +1309,11 @@ Class: Nanuchka | Category: Corvette | Source page: https://en.wikipedia.org/wik
  | Ships in class on the list: Smerch, Iney, Rassvyet, Zyb', Geyzer, Passat, Razliv
  | Notes: Listed under corvettes on the source page.
 
-Zyb'-2010-Sankt-Peterburg-1 â€” Caption: "ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ Â«Ð—Ñ‹Ð±ÑŒÂ» Ð½Ð° Ð¿Ð°Ñ€Ð°Ð´Ðµ Ð’ÐœÐ¤ Ð² Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³Ðµ." | Author: Black leon (ru.wikipedia) | Source: https://commons.wikimedia.org/wiki/File:Zyb%27-2010-Sankt-Peterburg-1.jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 24 July 2010
+Zyb'-2010-Sankt-Peterburg-1 — Caption: "Малый ракетный корабль «Зыбь» на параде ВМФ в Санкт-Петербурге." | Author: Black leon (ru.wikipedia) | Source: https://commons.wikimedia.org/wiki/File:Zyb%27-2010-Sankt-Peterburg-1.jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 24 July 2010
 
-ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ Â«Ð“ÐµÐ¹Ð·ÐµÑ€Â» Ñƒ Ð¿Ñ€Ð¸Ñ‡Ð°Ð»Ð° Ð² Ð‘Ð°Ð»Ñ‚Ð¸Ð¹ÑÐºÐµ â€” Caption: "ÐœÐ°Ð»Ñ‹Ð¹ Ñ€Ð°ÐºÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ Â«Ð“ÐµÐ¹Ð·ÐµÑ€Â» Ñƒ Ð¿Ñ€Ð¸Ñ‡Ð°Ð»Ð° Ð² Ð‘Ð°Ð»Ñ‚Ð¸Ð¹ÑÐºÐµ (ÐšÐ°Ð»Ð¸Ð½Ð¸Ð½Ð³Ñ€Ð°Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ)" | Author: MarSaf | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%C2%AB%D0%93%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%C2%BB_%D1%83_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B5.JPG | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 12 August 2020 | Uploaded: 17 January 2022
+Малый ракетный корабль «Гейзер» у причала в Балтийске — Caption: "Малый ракетный корабль «Гейзер» у причала в Балтийске (Калининградская область)" | Author: MarSaf | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%C2%AB%D0%93%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%C2%BB_%D1%83_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B5.JPG | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 12 August 2020 | Uploaded: 17 January 2022
 
-ÐŸÐ°ÑÑÐ°Ñ‚ 570 â€” Caption: "ÐŸÐ°ÑÑÐ°Ñ‚ 570 Ð½Ð° Ð¿Ñ€Ð°Ð·Ð´Ð½Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð´Ð½Ñ Ð’ÐœÐ¤ 2020" | Author: http://www.kremlin.ru/ | Source: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D1%82_570.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020 | Uploaded: 11 September 2020
+Пассат 570 — Caption: "Пассат 570 на праздновании дня ВМФ 2020" | Author: http://www.kremlin.ru/ | Source: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D1%82_570.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 26 July 2020 | Uploaded: 11 September 2020
 
 ### Neustrashimy-luokka
 
@@ -1329,11 +1329,11 @@ Class: Neustrashimy | Category: Frigate | Source page: https://en.wikipedia.org/
  | Ships in class on the list: Neustrashimy, Yaroslav Mudry
  | Notes: Neustrashimy is listed active as of 2025; Yaroslav Mudry was reported active as of 2021.
 
-Neustrashimyy2004Cartagena â€” Caption: "Russian frigate Neustrashimyy in Cartagena, 1 September 2004 10:01." | Author: JosÃ© MarÃ­a Casanova Colorado, Cartagena (from Los Barcos de Eugenio / EugenioÂ´s Warships) | Source: https://commons.wikimedia.org/wiki/File:Neustrashimyy2004Cartagena.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 31 August 2004 | Uploaded: 5 August 2008
+Neustrashimyy2004Cartagena — Caption: "Russian frigate Neustrashimyy in Cartagena, 1 September 2004 10:01." | Author: José María Casanova Colorado, Cartagena (from Los Barcos de Eugenio / Eugenio´s Warships) | Source: https://commons.wikimedia.org/wiki/File:Neustrashimyy2004Cartagena.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 31 August 2004 | Uploaded: 5 August 2008
 
-HMS Sutherland monitors Russian warship as it sails through UK waters. MOD 45161879 â€” Source: https://commons.wikimedia.org/wiki/File:HMS_Sutherland_monitors_Russian_warship_as_it_sails_through_UK_waters._MOD_45161879.jpg | License: OGL v1.0 | Issue: License not in approved list (CC0/Public Domain/CC BY/CC BY-SA) | Suggested fix: Replace with CC BY/CC BY-SA/CC0/Public Domain asset
+HMS Sutherland monitors Russian warship as it sails through UK waters. MOD 45161879 — Source: https://commons.wikimedia.org/wiki/File:HMS_Sutherland_monitors_Russian_warship_as_it_sails_through_UK_waters._MOD_45161879.jpg | License: OGL v1.0 | Issue: License not in approved list (CC0/Public Domain/CC BY/CC BY-SA) | Suggested fix: Replace with CC BY/CC BY-SA/CC0/Public Domain asset
 
-Frigate Yaroslav Mudry (5) â€” Caption: "The Neustrashimy class frigate Yaroslav Mudry." | Author: FAndrey | Source: https://commons.wikimedia.org/wiki/File:Frigate_Yaroslav_Mudry_(5).jpg | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | Changes: Resized for in-app display | Created: 28 June 2011 | Uploaded: 20 October 2012
+Frigate Yaroslav Mudry (5) — Caption: "The Neustrashimy class frigate Yaroslav Mudry." | Author: FAndrey | Source: https://commons.wikimedia.org/wiki/File:Frigate_Yaroslav_Mudry_(5).jpg | License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | Changes: Resized for in-app display | Created: 28 June 2011 | Uploaded: 20 October 2012
 
 ### Parchim-luokka
 
@@ -1348,15 +1348,15 @@ Class: Parchim | Category: Corvette | Source page: https://en.wikipedia.org/wiki
  | Ships in class on the list: Urengoy, Kazanets, Zelenodolsk, Aleksin, Kabardino-Balkariya, Kalmykiya
  | Notes: Listed under corvettes on the source page.
 
-Ð¡Ñ€ÐµÐ´Ð½ÑÑ Ð³Ð°Ð²Ð°Ð½ÑŒ. Ð”ÐµÐ½ÑŒ Ð’ÐœÐ¤ â€” Caption: "ÐÐ°Ð±ÐµÑ€ÐµÐ¶Ð½Ñ‹Ðµ Ð¸ Ð¼Ð¾Ð»Ñ‹ ÑÐ¾ ÑÐ¿ÑƒÑÐºÐ°Ð¼Ð¸, Ð¿Ð°Ñ€Ð°Ð¿ÐµÑ‚Ð°Ð¼Ð¸, Ð»ÐµÑÑ‚Ð½Ð¸Ñ†Ð°Ð¼Ð¸ Ð˜Ñ‚Ð°Ð»ÑŒÑÐ½ÑÐºÐ¾Ð³Ð¾ Ð¿Ñ€ÑƒÐ´Ð°, ÐšÑƒÐ¿ÐµÑ‡ÐµÑÐºÐ¾Ð¹, Ð¡Ñ€ÐµÐ´Ð½ÐµÐ¹, Ð’Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¸ Ð›ÐµÑÐ½Ð¾Ð¹ Ð³Ð°Ð²Ð°Ð½ÐµÐ¹ Ñ Ð´Ð¾ÐºÐ°Ð¼Ð¸ ÐÐ¸ÐºÐ¾Ð»Ð°ÐµÐ²ÑÐºÐ¸Ð¼, ÐÐ»ÐµÐºÑÐµÐµÐ²ÑÐºÐ¸Ð¼, ÐšÐ¾Ð½ÑÑ‚Ð°Ð½Ñ‚Ð¸Ð½Ð¾Ð²ÑÐºÐ¸Ð¼, ÐÐ»ÐµÐºÑÐ°Ð½Ð´Ñ€Ð¾Ð²ÑÐºÐ¸Ð¼ Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ð¼Ð¸ Ð³Ð¸Ð´Ñ€Ð¾Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¼Ð¸ ÑÐ¾Ð¾Ñ€ÑƒÐ¶ÐµÐ½Ð¸ÑÐ¼Ð¸: ÐšÑ€Ð¾Ð½ÑˆÑ‚Ð°Ð´Ñ‚, ÐšÑ€Ð¾Ð½ÑˆÑ‚Ð°Ð´Ñ‚ÑÐºÐ¸Ð¹ Ñ€Ð°Ð¹Ð¾Ð½, Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³" | Author: A-Z.Anisimov | Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C._%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 31 July 2016
+Средняя гавань. День ВМФ — Caption: "Набережные и молы со спусками, парапетами, лестницами Итальянского пруда, Купеческой, Средней, Военной и Лесной гаваней с доками Николаевским, Алексеевским, Константиновским, Александровским и другими гидротехническими сооружениями: Кронштадт, Кронштадтский район, Санкт-Петербург" | Author: A-Z.Anisimov | Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C._%D0%94%D0%B5%D0%BD%D1%8C_%D0%92%D0%9C%D0%A4.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 31 July 2016
 
-MPK-192 Urengoy in SPB â€” Caption: "Parchim-class Corvette MPK-192 Urengoy in Saint Petersburg" | Author: Alex 'Florstein' Fedorov | Source: https://commons.wikimedia.org/wiki/File:MPK-192_Urengoy_in_SPB.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 July 2014 | Uploaded: 29 July 2014
+MPK-192 Urengoy in SPB — Caption: "Parchim-class Corvette MPK-192 Urengoy in Saint Petersburg" | Author: Alex 'Florstein' Fedorov | Source: https://commons.wikimedia.org/wiki/File:MPK-192_Urengoy_in_SPB.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 July 2014 | Uploaded: 29 July 2014
 
-MPK-205 Kazanets in SPB â€” Caption: "Parchim-class Corvette MPK-205 Kazanets in Saint Petersburg" | Author: Alex 'Florstein' Fedorov | Source: https://commons.wikimedia.org/wiki/File:MPK-205_Kazanets_in_SPB.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 July 2014 | Uploaded: 29 July 2014
+MPK-205 Kazanets in SPB — Caption: "Parchim-class Corvette MPK-205 Kazanets in Saint Petersburg" | Author: Alex 'Florstein' Fedorov | Source: https://commons.wikimedia.org/wiki/File:MPK-205_Kazanets_in_SPB.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 27 July 2014 | Uploaded: 29 July 2014
 
-ÐœÐ°Ð»Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ‚Ð¸Ð²Ð¾Ð»Ð¾Ð´Ð¾Ñ‡Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€Ð°Ð±Ð»ÑŒ-243 â€” Caption: "ÐœÐŸÐš-227 Ð² Ð‘Ð°Ð»Ñ‚Ð¸Ð¹ÑÐºÐµ" | Author: Ð›Ð¸Ð¿ÑƒÐ½Ð¾Ð² Ð“.Ð. | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C-243.jpg | License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/) | Changes: Resized for in-app display | Created: 2009
+Малый противолодочный корабль-243 — Caption: "МПК-227 в Балтийске" | Author: Липунов Г.А. | Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C-243.jpg | License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/) | Changes: Resized for in-app display | Created: 2009
 
-Channel One Russia in Navy (27-06-2013) 35 â€” Caption: "Russian Kalmykia type Parchim corvette firing RBU-6000 ASW rockets" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Channel_One_Russia_in_Navy_(27-06-2013)_35.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 June 2013
+Channel One Russia in Navy (27-06-2013) 35 — Caption: "Russian Kalmykia type Parchim corvette firing RBU-6000 ASW rockets" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Channel_One_Russia_in_Navy_(27-06-2013)_35.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 June 2013
 
 ### Slava-luokka
 
@@ -1385,9 +1385,9 @@ Class: Sovremenny | Category: Destroyer | Source page: https://en.wikipedia.org/
  | Ships in class on the list: Nastoychivyy
  | Notes: Listed in reserve; a 2025 report suggested she may possibly have been decommissioned.
 
-Baltiysk, Kaliningrad Oblast, Russia - panoramio - Anton Yefimov (32) â€” Caption: "Baltiysk, Kaliningrad Oblast, Russia" | Author: Anton Yefimov | Source: https://commons.wikimedia.org/wiki/File:Baltiysk%2C_Kaliningrad_Oblast%2C_Russia_-_panoramio_-_Anton_Yefimov_(32).jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 31 July 2016 | Uploaded: 26 October 2016
+Baltiysk, Kaliningrad Oblast, Russia - panoramio - Anton Yefimov (32) — Caption: "Baltiysk, Kaliningrad Oblast, Russia" | Author: Anton Yefimov | Source: https://commons.wikimedia.org/wiki/File:Baltiysk%2C_Kaliningrad_Oblast%2C_Russia_-_panoramio_-_Anton_Yefimov_(32).jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 31 July 2016 | Uploaded: 26 October 2016
 
-Channel One Russia in Navy (27-06-2013) 32 â€” Caption: "Ð¡Ð¾Ð²Ð¼ÐµÑÑ‚Ð½Ð°Ñ Ð°ÐºÑ†Ð¸Ñ ÐŸÐµÑ€Ð²Ð¾Ð³Ð¾ ÐºÐ°Ð½Ð°Ð»Ð° Ð¸ ÐœÐ¸Ð½Ð¸ÑÑ‚ÐµÑ€ÑÑ‚Ð²Ð° Ð¾Ð±Ð¾Ñ€Ð¾Ð½Ñ‹ Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ¾Ð¹ Ð¤ÐµÐ´ÐµÑ€Ð°Ñ†Ð¸Ð¸ "ÐŸÐµÑ€Ð²Ñ‹Ð¹ Ð½Ð° Ñ„Ð»Ð¾Ñ‚Ðµ" Ð² Ð‘Ð°Ð»Ñ‚Ð¸Ð¹ÑÐºÐµ (ru:ÐÐ°ÑÑ‚Ð¾Ð¹Ñ‡Ð¸Ð²Ñ‹Ð¹ (ÑÑÐ¼Ð¸Ð½ÐµÑ†, 1991))" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Channel_One_Russia_in_Navy_(27-06-2013)_32.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 June 2013
+Channel One Russia in Navy (27-06-2013) 32 — Caption: "Совместная акция Первого канала и Министерства обороны Российской Федерации "Первый на флоте" в Балтийске (ru:Настойчивый (эсминец, 1991))" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Channel_One_Russia_in_Navy_(27-06-2013)_32.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 27 June 2013
 
 ### Steregushchiy-luokka
 
@@ -1397,19 +1397,19 @@ Image file: `images/01-puolustushaarat/02-merivoimat/taistelualukset/steregushch
 
 
 
-6093.6. Navy Day in St. Petersburg â€” Caption: "Navy Day in St. Petersburg in 2018." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:6093.6._Navy_Day_in_St._Petersburg.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 22 July 2018
+6093.6. Navy Day in St. Petersburg — Caption: "Navy Day in St. Petersburg in 2018." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:6093.6._Navy_Day_in_St._Petersburg.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 22 July 2018
 
-170606-N-N0901-020 (34296918604) â€” Caption: "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its participants." | Author: Commander, U.S. Naval Forces Europe-Africa/U.S. 6th Fleet | Source: https://commons.wikimedia.org/wiki/File:170606-N-N0901-020_(34296918604).jpg | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 5 June 2017
+170606-N-N0901-020 (34296918604) — Caption: "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its participants." | Author: Commander, U.S. Naval Forces Europe-Africa/U.S. 6th Fleet | Source: https://commons.wikimedia.org/wiki/File:170606-N-N0901-020_(34296918604).jpg | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 5 June 2017
 
-ÐÐ½Ð³Ð°Ñ€ ÐºÐ¾Ñ€Ð²ÐµÑ‚Ð° Â«Ð¡Ð¾Ð²ÐµÑ€ÑˆÐµÐ½Ð½Ñ‹Ð¹Â», Ð’Ð»Ð°Ð´Ð¸Ð²Ð¾ÑÑ‚Ð¾Ðº, 33-Ð¹ Ð¿Ñ€Ð¸Ñ‡Ð°Ð», 2017-09-01 â€” Caption: "ÐÐ½Ð³Ð°Ñ€ ÐºÐ¾Ñ€Ð²ÐµÑ‚Ð° Â«Ð¡Ð¾Ð²ÐµÑ€ÑˆÐµÐ½Ð½Ñ‹Ð¹Â», Ð’Ð»Ð°Ð´Ð¸Ð²Ð¾ÑÑ‚Ð¾Ðº, 33-Ð¹ Ð¿Ñ€Ð¸Ñ‡Ð°Ð», 2017-09-01" | Author: AdmiralHood | Source: https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B3%D0%B0%D1%80_%D0%BA%D0%BE%D1%80%D0%B2%D0%B5%D1%82%D0%B0_%C2%AB%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%C2%BB%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%2C_33-%D0%B9_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB%2C_2017-09-01.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 1 September 2017
+Ангар корвета «Совершенный», Владивосток, 33-й причал, 2017-09-01 — Caption: "Ангар корвета «Совершенный», Владивосток, 33-й причал, 2017-09-01" | Author: AdmiralHood | Source: https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D0%B3%D0%B0%D1%80_%D0%BA%D0%BE%D1%80%D0%B2%D0%B5%D1%82%D0%B0_%C2%AB%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%C2%BB%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%2C_33-%D0%B9_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB%2C_2017-09-01.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 1 September 2017
 
-170606-N-N0901-008 (35101840796) â€” Caption: "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its participants." | Author: Commander, U.S. Naval Forces Europe-Africa/U.S. 6th Fleet | Source: https://commons.wikimedia.org/wiki/File:170606-N-N0901-008_(35101840796).jpg | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 5 June 2017
+170606-N-N0901-008 (35101840796) — Caption: "BALTOPS is an annual U.S.-led, Naval Striking and Support Forces NATO- executed, multinational maritime exercise in the Baltic Sea region designed to enhance flexibility and interoperability among its participants." | Author: Commander, U.S. Naval Forces Europe-Africa/U.S. 6th Fleet | Source: https://commons.wikimedia.org/wiki/File:170606-N-N0901-008_(35101840796).jpg | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | Changes: Resized for in-app display | Created: 5 June 2017
 
-Navy Day in Russia 2017 (2) â€” Caption: "Navy Day celebrations in St. Petersburg, Russia in 2017." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Navy_Day_in_Russia_2017_(2).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 28 July 2017
+Navy Day in Russia 2017 (2) — Caption: "Navy Day celebrations in St. Petersburg, Russia in 2017." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Navy_Day_in_Russia_2017_(2).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 28 July 2017
 
-Steregushchiy-class corvette 335 2021Oct â€” Caption: "ãƒ­ã‚·ã‚¢æµ·è»è‰¦è‰‡ ã‚¹ãƒ†ãƒ¬ã‚°ã‚·ãƒãƒ¼ç´šãƒ•ãƒªã‚²ãƒ¼ãƒˆï¼ˆï¼“ï¼“ï¼•ï¼‰ã‚°ãƒ­ãƒ¼ãƒ ã‚­ãƒ¼" | Author: æ—¥æœ¬é˜²è¡›çœãƒ»çµ±åˆå¹•åƒšç›£éƒ¨ | Source: https://commons.wikimedia.org/wiki/File:Steregushchiy-class_corvette_335_2021Oct.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 22 October 2021
+Steregushchiy-class corvette 335 2021Oct — Caption: "ロシア海軍艦艇 ステレグシチー級フリゲート(335)グロームキー" | Author: 日本防衛省・統合幕僚監部 | Source: https://commons.wikimedia.org/wiki/File:Steregushchiy-class_corvette_335_2021Oct.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 22 October 2021
 
-Corvette Mercury at the naval parade in St. Petersburg. July 2022 â€” Caption: "Corvette Mercury at the naval parade in St. Petersburg. July 2022" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Corvette_Mercury_at_the_naval_parade_in_St._Petersburg._July_2022.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 31 July 2022
+Corvette Mercury at the naval parade in St. Petersburg. July 2022 — Caption: "Corvette Mercury at the naval parade in St. Petersburg. July 2022" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Corvette_Mercury_at_the_naval_parade_in_St._Petersburg._July_2022.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Changes: Resized for in-app display | Created: 31 July 2022
 
 ### Tarantul-luokka
 
@@ -1424,13 +1424,13 @@ Class: Tarantul | Category: Corvette | Source page: https://en.wikipedia.org/wik
  | Ships in class on the list: R-60, R-261, Zarechnyy, Naberezhnye Chelny, R-297, R-298, Dimitrovgrad, R-11, R-14, Morshansk, R-18, R-19, R-20, R-24, Chuvashiya, R-29
  | Notes: Listed under corvettes on the source page.
 
-ÐšÑ€Ð¾Ð½ÑˆÑ‚Ð°Ð´Ñ‚, Ð²Ð¸Ð´ Ð½Ð° Ð¡Ñ€ÐµÐ´Ð½ÑŽÑŽ Ð³Ð°Ð²Ð°Ð½ÑŒ Ð¸ Ð¿Ñ€Ð¸Ñ‡Ð°Ð» - panoramio â€” Caption: "ÐšÑ€Ð¾Ð½ÑˆÑ‚Ð°Ð´Ñ‚, Ð²Ð¸Ð´ Ð½Ð° Ð¡Ñ€ÐµÐ´Ð½ÑŽÑŽ Ð³Ð°Ð²Ð°Ð½ÑŒ Ð¸ Ð¿Ñ€Ð¸Ñ‡Ð°Ð»" | Author: MrStepanovka | Source: https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%BE%D0%BD%D1%88%D1%82%D0%B0%D0%B4%D1%82%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8E%D1%8E_%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB_-_panoramio.jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 29 October 2010 | Uploaded: 16 November 2016
+Кронштадт, вид на Среднюю гавань и причал - panoramio — Caption: "Кронштадт, вид на Среднюю гавань и причал" | Author: MrStepanovka | Source: https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%BE%D0%BD%D1%88%D1%82%D0%B0%D0%B4%D1%82%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8E%D1%8E_%D0%B3%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB_-_panoramio.jpg | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | Changes: Resized for in-app display | Created: 29 October 2010 | Uploaded: 16 November 2016
 
-Zarechniy rka 25 sumerki â€” Caption: "Ñ€ÐºÐ° "Ð—Ð°Ñ€ÐµÑ‡Ð½Ñ‹Ð¹". 19.04.2014 Ð³Ð¾Ð´Ð°" | Author: Shelkovoy | Source: https://commons.wikimedia.org/wiki/File:Zarechniy_rka_25_sumerki.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 18 April 2014
+Zarechniy rka 25 sumerki — Caption: "рка "Заречный". 19.04.2014 года" | Author: Shelkovoy | Source: https://commons.wikimedia.org/wiki/File:Zarechniy_rka_25_sumerki.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Changes: Resized for in-app display | Created: 18 April 2014
 
-9509.2. Dimitrovgrad â€” Caption: "Large missile boat "Dimitrovgrad" on the Neva." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:9509.2._Dimitrovgrad.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 July 2020
+9509.2. Dimitrovgrad — Caption: "Large missile boat "Dimitrovgrad" on the Neva." | Author: GAlexandrova | Source: https://commons.wikimedia.org/wiki/File:9509.2._Dimitrovgrad.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Changes: Resized for in-app display | Created: 24 July 2020
 
-St petersburg 2018 navy day missile boat morshansk (44764264270) â€” Caption: "st_petersburg_2018_navy_day_missile_boat_morshansk" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_missile_boat_morshansk_(44764264270).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 29 July 2018
+St petersburg 2018 navy day missile boat morshansk (44764264270) — Caption: "st_petersburg_2018_navy_day_missile_boat_morshansk" | Author: Damien | Source: https://commons.wikimedia.org/wiki/File:St_petersburg_2018_navy_day_missile_boat_morshansk_(44764264270).jpg | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | Changes: Resized for in-app display | Created: 29 July 2018
 
 ### Udaloy II -luokka
 
@@ -1458,7 +1458,7 @@ Class: Udaloy | Category: Destroyer | Source page: https://en.wikipedia.org/wiki
  | Photo source: https://en.wikipedia.org/wiki/Udaloy-class_destroyer#/media/File:AdmiralVinogradov2009.jpg
  | Example ship shown on page: Admiral Vinogradov (Udaloy class)
  | Ships in class on the list: Vice-Admiral Kulakov, Marshal Shaposhnikov, Admiral Tributs, Severomorsk, Admiral Vinogradov, Admiral Levchenko, Admiral Panteleyev
- | Notes: Most ships are listed active in 2024â€“2026; Admiral Vinogradov is shown as undergoing refit with expected return around 2024â€“2025.
+ | Notes: Most ships are listed active in 2024–2026; Admiral Vinogradov is shown as undergoing refit with expected return around 2024–2025.
 
 ## Tiedustelualukset
 
@@ -1476,7 +1476,7 @@ Class: Alpinist | Category: Intelligence ship | Source page: https://en.wikipedi
  | Photo source: [https://en.wikipedia.org/wiki/List_of_auxiliary_ship_classes_in_service](https://nara.getarchive.net/media/a-port-quarter-view-of-the-soviet-alpinist-class-intelligence-collection-ship-0a8e80)
  | License: See source page / no verified class media file link in this pass | License source: N/A in this pass
  | Ships in class on the list: Syzran, Zhigulevsk
- | Notes: Project 503R medium intelligence ships. I could verify the class exists in service listings, but not a stable class image file page during this pass. îˆ€citeîˆ‚turn659453search4îˆ‚turn659453search3îˆ
+ | Notes: Project 503R medium intelligence ships. I could verify the class exists in service listings, but not a stable class image file page during this pass. citeturn659453search4turn659453search3
 
 ### Baklan-luokka
 
@@ -1490,7 +1490,7 @@ Class: Baklan | Category: Intelligence ship | Source page: https://en.wikipedia.
  | Photo source:[ https://en.wikipedia.org/wiki/List_of_active_Russian_Navy_ships](https://www.navalnews.com/naval-news/2020/04/an-overview-of-the-new-hydrographic-vessels-of-the-russian-navy/)
  | License: No verified class media file link in this pass | License source: N/A in this pass
  | Ships in class on the list: KSV-2168
- | Notes: Project 1388NZ intelligence ship. The class appears on fleet and ship-list pages, but I could not verify a dedicated class page or stable image file page in this pass. îˆ€citeîˆ‚turn659453search2îˆ‚turn801192search7îˆ
+ | Notes: Project 1388NZ intelligence ship. The class appears on fleet and ship-list pages, but I could not verify a dedicated class page or stable image file page in this pass. citeturn659453search2turn801192search7
 
 ### Balzam-luokka
 
@@ -1504,7 +1504,7 @@ Class: Balzam | Category: Intelligence ship | Source page: https://en.wikipedia.
  | Photo source: https://en.wikipedia.org/wiki/Balzam-class_intelligence_ship#/media/File:Balzam-class_general_intelligence_collector_ship_-_Ocean_Sarafi_85_-_DN-ST-86-02553.JPEG
  | License: Public domain (U.S. Navy image) | License source: https://commons.wikimedia.org/wiki/File:Balzam-class_general_intelligence_collector_ship_-_Ocean_Sarafi_85_-_DN-ST-86-02553.JPEG
  | Ships in class on the list: Pribaltika
- | Notes: Project 1826 intelligence collection ship; the class page says only one remains active. îˆ€citeîˆ‚turn801192search2îˆ‚turn801192search6îˆ‚turn659453search2îˆ
+ | Notes: Project 1826 intelligence collection ship; the class page says only one remains active. citeturn801192search2turn801192search6turn659453search2
 
 ### Marshal Nedelin -luokka
 
@@ -1518,7 +1518,7 @@ Class: Marshal Nedelin | Category: Intelligence ship / tracking ship | Source pa
  | Photo source: [https://en.wikipedia.org/wiki/Pacific_Fleet_(Russia)](https://upload.wikimedia.org/wikipedia/commons/8/8e/Missile_range_instrumentation_ship_%22Marshal_Nedelin%22_in_1985.jpeg)
  | License: No verified class media file link in this pass | License source: N/A in this pass
  | Ships in class on the list: Marshal Krylov
- | Notes: Project 1914 ship listed under special-purpose intelligence ships. I could verify the class and active ship in fleet listings, but not a stable class image file page in this pass. îˆ€citeîˆ‚turn659453search9îˆ‚turn659453search2îˆ
+ | Notes: Project 1914 ship listed under special-purpose intelligence ships. I could verify the class and active ship in fleet listings, but not a stable class image file page in this pass. citeturn659453search9turn659453search2
 
 ### Moma-luokka
 
@@ -1532,7 +1532,7 @@ Class: Moma | Category: Intelligence ship | Source page: https://en.wikipedia.or
  | Photo source: https://en.wikipedia.org/wiki/File:SSV-416_%22Jupiter%22_1.jpg
  | License: Public domain (U.S. Navy image) | License source: https://commons.wikimedia.org/wiki/File:SSV-416_%22Jupiter%22_1.jpg
  | Ships in class on the list: Kil'din, Ekvator
- | Notes: Project 861M medium intelligence ships listed under special-purpose intelligence ships. I used a verified Moma-class file page because a stable class `#/media/File:` link was not available in this pass. îˆ€citeîˆ‚turn659453search10îˆ‚turn659453search2îˆ
+ | Notes: Project 861M medium intelligence ships listed under special-purpose intelligence ships. I used a verified Moma-class file page because a stable class `#/media/File:` link was not available in this pass. citeturn659453search10turn659453search2
 
 ### Chusuvoy -alus
 
@@ -1546,7 +1546,7 @@ Class: Project 7452 ship | Category: Intelligence ship | Source page: https://en
  | Photo source: [https://en.wikipedia.org/wiki/List_of_active_Russian_Navy_ships](https://www.armyrecognition.com/news/navy-news/2024/russian-navy-project-07452-spy-ship-chusovoy-arrives-in-kronstadt)
  | License: No verified class media file link in this pass | License source: N/A in this pass
  | Ships in class on the list: Chusuvoy
- | Notes: Chusuvoy is listed as an active Project 7452 intelligence ship, but I could not verify a dedicated class page or stable image file page in this pass. îˆ€citeîˆ‚turn659453search2îˆ
+ | Notes: Chusuvoy is listed as an active Project 7452 intelligence ship, but I could not verify a dedicated class page or stable image file page in this pass. citeturn659453search2
 
 ### Vishnya-luokka
 
@@ -1560,7 +1560,7 @@ Class: Vishnya | Category: Intelligence ship | Source page: https://en.wikipedia
  | Photo source: https://en.wikipedia.org/wiki/Vishnya-class_intelligence_ship#/media/File:SSV-535_Kareliya_(foreground)_and_in_1988.jpg
  | License: See file page | License source: https://commons.wikimedia.org/wiki/File:SSV-535_Kareliya_(foreground)_and_in_1988.jpg
  | Ships in class on the list: Fedor Golovin, Kurily, Tavriya, Kareliya, Priazovye, Viktor Leonov, Vasiliy Tatishchev
- | Notes: Project 864 intelligence collection ships. The class page states all seven ships remain in Russian service. îˆ€citeîˆ‚turn801192search1îˆ‚turn659453search3îˆ
+ | Notes: Project 864 intelligence collection ships. The class page states all seven ships remain in Russian service. citeturn801192search1turn659453search3
 
 ### Yantar -alus
 
@@ -1574,7 +1574,7 @@ Class: Project 22010 ship | Category: Intelligence / special-purpose ship | Sour
  | Photo source: [https://en.wikipedia.org/wiki/Yantar_(ship)](https://en.wikipedia.org/wiki/Russian_research_vessel_Yantar#/media/File:Yantar_research_vessel_04.jpg)
  | License: See class/file page | License source: N/A in this pass
  | Ships in class on the list: Yantar
- | Notes: Yantar is listed as an active Project 22010 ship. I could verify the ship/project, but not a stable `#/media/File:` link in this pass. îˆ€citeîˆ‚turn659453search2îˆ
+ | Notes: Yantar is listed as an active Project 22010 ship. I could verify the ship/project, but not a stable `#/media/File:` link in this pass. citeturn659453search2
 
 ### Yury Ivanov -luokka
 
@@ -1588,7 +1588,7 @@ Class: Yury Ivanov | Category: Intelligence ship | Source page: https://en.wikip
  | Photo source: https://en.wikipedia.org/wiki/Yury_Ivanov-class_intelligence_ship
  | License: See class/file page | License source: N/A in this pass
  | Ships in class on the list: Yuriy Ivanov, Ivan Khurs
- | Notes: Project 18280 SIGINT ships. I could verify the class page, but not a stable `#/media/File:` link from the retrieved source in this pass. îˆ€citeîˆ‚turn659453search11îˆ‚turn659453search2îˆ
+ | Notes: Project 18280 SIGINT ships. I could verify the class page, but not a stable `#/media/File:` link from the retrieved source in this pass. citeturn659453search11turn659453search2
 
 # Ilma- ja avaruusvoimat
 
@@ -1596,7 +1596,7 @@ Class: Yury Ivanov | Category: Intelligence ship | Source page: https://en.wikip
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-35s/sukhoi-su-35s-01.png`
 
-Sukhoi Su-35S ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œRF-81746 - 58 redÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ (37270667786).jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Sukhoi Su-35S ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œRF-81746 - 58 redÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ taxiing (ARMY 2017, Kubinka Airbase)" | Author: Hawkeye UK (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-35S_%E2%80%98RF-81746_-_58_red%E2%80%99_(37270667786).jpg
+Sukhoi Su-35S 'RF-81746 - 58 red' (37270667786).jpg — Caption: "Sukhoi Su-35S 'RF-81746 - 58 red' taxiing (ARMY 2017, Kubinka Airbase)" | Author: Hawkeye UK (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-35S_%E2%80%98RF-81746_-_58_red%E2%80%99_(37270667786).jpg
  | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 23 August 2017 (inception shown on file page) | Uploaded: 
 
@@ -1604,7 +1604,7 @@ Sukhoi Su-35S ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-34/sukhoi-su-34-01.png`
 
-Sukhoi Su-34 (4322158744).jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Sukhoi Su-34" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-34_(4322158744).jpg
+Sukhoi Su-34 (4322158744).jpg — Caption: "Sukhoi Su-34" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-34_(4322158744).jpg
  | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 21 August 2009 | Uploaded: 
 
@@ -1612,7 +1612,7 @@ Sukhoi Su-34 (4322158744).jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„�
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/sukhoi-su-57/sukhoi-su-57-01.png`
 
-Sukhoi Su-57 bn058 Kubinka 2020.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Sukhoi Su-57 solo display performing at Military-Technical Forum ARMY-2020" | Author: Andrei Shmatko | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-57_bn058_Kubinka_2020.jpg
+Sukhoi Su-57 bn058 Kubinka 2020.jpg — Caption: "Sukhoi Su-57 solo display performing at Military-Technical Forum ARMY-2020" | Author: Andrei Shmatko | Source: https://commons.wikimedia.org/wiki/File:Sukhoi_Su-57_bn058_Kubinka_2020.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 21 August 2020 | Uploaded: 
 
@@ -1620,7 +1620,7 @@ Sukhoi Su-57 bn058 Kubinka 2020.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-160/tupolev-tu-160-01.png`
 
-TU-160 (24843600249).jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "TU-160" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:TU-160_(24843600249).jpg
+TU-160 (24843600249).jpg — Caption: "TU-160" | Author: Dmitry Terekhov (Flickr; via Commons) | Source: https://commons.wikimedia.org/wiki/File:TU-160_(24843600249).jpg
  | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 22 June 2015 | Uploaded: 
 
@@ -1628,7 +1628,7 @@ TU-160 (24843600249).jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢Ãƒ
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-95ms/tupolev-tu-95ms-01.png`
 
-Tupolev Tu-95MS, Celebration of the 100th anniversary of Russian Air Force.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Aircraft at the Celebration of the 100th anniversary of Russian Air Force" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-95MS,_Celebration_of_the_100th_anniversary_of_Russian_Air_Force.jpg
+Tupolev Tu-95MS, Celebration of the 100th anniversary of Russian Air Force.jpg — Caption: "Aircraft at the Celebration of the 100th anniversary of Russian Air Force" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Tupolev_Tu-95MS,_Celebration_of_the_100th_anniversary_of_Russian_Air_Force.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 10 August 2012 | Uploaded: 
 
@@ -1636,7 +1636,7 @@ Tupolev Tu-95MS, Celebration of the 100th anniversary of Russian Air Force.jpg �
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/tupolev-tu-22m3/tupolev-tu-22m3-01.png`
 
-Tu-22m3-34.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¹Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢-22ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“3 ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ 34 ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥-22" | Author: Sot10 | Source: https://commons.wikimedia.org/wiki/File:Tu-22m3-34.jpg
+Tu-22m3-34.jpg — Caption: "Самолёт Ту-22М3 борт 34 красный с ракетой Х-22" | Author: Sot10 | Source: https://commons.wikimedia.org/wiki/File:Tu-22m3-34.jpg
  | License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 25 June 2010 | Uploaded: 
 
@@ -1644,7 +1644,7 @@ Tu-22m3-34.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢�
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/mikoyan-mig-31/mikoyan-mig-31-01.png`
 
-MiG-31-4966.JPG ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "MiG-31 in Technical museum Togliatti" | Author: ShinePhantom | Source: https://commons.wikimedia.org/wiki/File:MiG-31-4966.JPG
+MiG-31-4966.JPG — Caption: "MiG-31 in Technical museum Togliatti" | Author: ShinePhantom | Source: https://commons.wikimedia.org/wiki/File:MiG-31-4966.JPG
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 25 April 2010 | Uploaded: 
 
@@ -1652,7 +1652,7 @@ MiG-31-4966.JPG ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/beriev-a-50u/beriev-a-50u-01.png`
 
-Airborne early warning and control aircraft A-50U (Red 41).jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Russian Air Force Beriev A-50U (Red 41)" | Author: Sergey Lutsenko, Timofey Nikishin | Source: https://commons.wikimedia.org/wiki/File:Airborne_early_warning_and_control_aircraft_A-50U_(Red_41).jpg
+Airborne early warning and control aircraft A-50U (Red 41).jpg — Caption: "Russian Air Force Beriev A-50U (Red 41)" | Author: Sergey Lutsenko, Timofey Nikishin | Source: https://commons.wikimedia.org/wiki/File:Airborne_early_warning_and_control_aircraft_A-50U_(Red_41).jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 10 March 2017 | Uploaded: 
 
@@ -1660,7 +1660,7 @@ Airborne early warning and control aircraft A-50U (Red 41).jpg ÃƒÆ’Ã†â�
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/ilyushin-il-78/ilyushin-il-78-01.png`
 
-Il-78 Midas.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "An IL-78 Midas sits on display on the flight line in support of the Russian visit, Barksdale Air Force Base, Louisiana (USA)" | Author: Staff Sgt. Gerald Currington (U.S. Air Force) | Source: https://commons.wikimedia.org/wiki/File:Il-78_Midas.jpg
+Il-78 Midas.jpg — Caption: "An IL-78 Midas sits on display on the flight line in support of the Russian visit, Barksdale Air Force Base, Louisiana (USA)" | Author: Staff Sgt. Gerald Currington (U.S. Air Force) | Source: https://commons.wikimedia.org/wiki/File:Il-78_Midas.jpg
  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 19 August 1994 | Uploaded: 
 
@@ -1668,7 +1668,7 @@ Il-78 Midas.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/ilyushin-il-76md-90a/ilyushin-il-76md-90a-01.png`
 
-Il-76MD-90A Nikolai Makarovets at ARMY-2022.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Il-76MD-90A ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œNikolai MakarovetsÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ on static display at ARMY-2022 (Kubinka)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Il-76MD-90A_Nikolai_Makarovets_at_ARMY-2022.jpg
+Il-76MD-90A Nikolai Makarovets at ARMY-2022.jpg — Caption: "Il-76MD-90A 'Nikolai Makarovets' on static display at ARMY-2022 (Kubinka)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Il-76MD-90A_Nikolai_Makarovets_at_ARMY-2022.jpg
  | License: CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 18 August 2022 | Uploaded: 
 
@@ -1676,7 +1676,7 @@ Il-76MD-90A Nikolai Makarovets at ARMY-2022.jpg ÃƒÆ’Ã†â€™Ãƒâ€�
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/kamov-ka-52/kamov-ka-52-01.png`
 
-Kamov Ka-52 flight.JPG ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Kamov Ka-52 during the MAKS 2007 airshow" | Author: Dmitry | Source: https://commons.wikimedia.org/wiki/File:Kamov_Ka-52_flight.JPG
+Kamov Ka-52 flight.JPG — Caption: "Kamov Ka-52 during the MAKS 2007 airshow" | Author: Dmitry | Source: https://commons.wikimedia.org/wiki/File:Kamov_Ka-52_flight.JPG
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 24 August 2007 | Uploaded: 
 
@@ -1684,7 +1684,7 @@ Kamov Ka-52 flight.JPG ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/mil-mi-8amtsh/mil-mi-8amtsh-01.png`
 
-Mi-8AMTSh helicopter in Russia.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "Mi-8AMTSh helicopter in Russia." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Mi-8AMTSh_helicopter_in_Russia.jpg
+Mi-8AMTSh helicopter in Russia.jpg — Caption: "Mi-8AMTSh helicopter in Russia." | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Mi-8AMTSh_helicopter_in_Russia.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 2012 | Uploaded: 
 
@@ -1692,7 +1692,7 @@ Mi-8AMTSh helicopter in Russia.jpg ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬�
 
 Image file: `images/01-puolustushaarat/03-ilma-avaruusvoimat/s-400-triumf/s-400-triumf-01.png`
 
-S-400 Triumf SAM.png ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Caption: "A TEL of a S-400 Triumf during a Victory Day Anniversary Parade rehearsal (Moscow, 2009)" | Author: UMNICK | Source: https://commons.wikimedia.org/wiki/File:S-400_Triumf_SAM.png
+S-400 Triumf SAM.png — Caption: "A TEL of a S-400 Triumf during a Victory Day Anniversary Parade rehearsal (Moscow, 2009)" | Author: UMNICK | Source: https://commons.wikimedia.org/wiki/File:S-400_Triumf_SAM.png
  | License: Public Domain (released by author; PD-user/PD-self) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 7 May 2009 | Uploaded:
 
@@ -1701,7 +1701,7 @@ S-400 Triumf SAM.png ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ�
 ## Avangard (hypersonic glide vehicle; deployed on UR-100NUTTKh)
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/avangard/avangard-01.png`
 
-Hypersonic rocket complex Avangard.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Hypersonic rocket complex Avangard" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:Hypersonic_rocket_complex_Avangard.jpg
+Hypersonic rocket complex Avangard.jpg — Caption: "Hypersonic rocket complex Avangard" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:Hypersonic_rocket_complex_Avangard.jpg
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created: 26 December 2018 | Uploaded: 
 
@@ -1710,7 +1710,7 @@ Hypersonic rocket complex Avangard.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â�
 ## R-36M2 Voyevoda (SS-18 Mod 5)
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/ss-18-r-36m2-voyevoda/ss-18-r-36m2-voyevoda-01.png`
 
-SS-18 missile, Strategic Missile Forces museum.JPG ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Intercontinental ballistic missile SS-18 Mod 5 (15ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â18ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ - R-36M2 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«VoyevodaÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»)" | Author: Michael | Source: https://commons.wikimedia.org/wiki/File:SS-18_missile,_Strategic_Missile_Forces_museum.JPG
+SS-18 missile, Strategic Missile Forces museum.JPG — Caption: "Intercontinental ballistic missile SS-18 Mod 5 (15А18М - R-36M2 «Voyevoda»)" | Author: Michael | Source: https://commons.wikimedia.org/wiki/File:SS-18_missile,_Strategic_Missile_Forces_museum.JPG
  | License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 8 March 2008 | Uploaded: 4 December 2010
 
@@ -1719,409 +1719,642 @@ SS-18 missile, Strategic Missile Forces museum.JPG ÃƒÆ’Ã†â€™Ãƒâ�
 ## RS-24 Yars
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rs-24-yars/rs-24-yars-01.png`
 
-RS-24 Yars.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "RS-24 Yars - Russian MIRV-equipped, thermonuclear armed intercontinental ballistic missile" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:RS-24_Yars.jpg
+RS-24 Yars.jpg — Caption: "RS-24 Yars - Russian MIRV-equipped, thermonuclear armed intercontinental ballistic missile" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:RS-24_Yars.jpg
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created: 22 September 2010 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rs-24-yars/rs-24-yars-02.png`
 
-RS-24 Yars (28051832658).jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:RS-24_Yars_(28051832658).jpg
+RS-24 Yars (28051832658).jpg — Caption: "Rehearsal of parade in Moscow 2018" | Author: Dmitriy Fomin from Moscow, Russia | Source: https://commons.wikimedia.org/wiki/File:RS-24_Yars_(28051832658).jpg
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created: 6 May 2018, 08:28 | Uploaded: 
 
 ## RS-28 Sarmat
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rs-28-sarmat/rs-28-sarmat-01.png`
 
-Sarmat-launch-still.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Still image from RS-28 Sarmat ICBM Launch footage" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:Sarmat-launch-still.jpg
+Sarmat-launch-still.jpg — Caption: "Still image from RS-28 Sarmat ICBM Launch footage" | Author: Ministry of Defence of the Russian Federation | Source: https://commons.wikimedia.org/wiki/File:Sarmat-launch-still.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created: 20 April 2022 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rs-28-sarmat/rs-28-sarmat-02.png`
 
-MakeevaKomponovka.png ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Makeev Sarmat layout (diagram)" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:MakeevaKomponovka.png
+MakeevaKomponovka.png — Caption: "Makeev Sarmat layout (diagram)" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:MakeevaKomponovka.png
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
 ## RT-2PM Topol
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rt-2pm-topol/rt-2pm-topol-01.png`
 
-Topol TEL.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Mobile ground-based RT-2PM Topol missile complex on the road (Teikovo, Ivanovo Region)" | Author: Sergei Guneev, Presidential Press and Information Office | Source: https://commons.wikimedia.org/wiki/File:Topol_TEL.jpg
+Topol TEL.jpg — Caption: "Mobile ground-based RT-2PM Topol missile complex on the road (Teikovo, Ivanovo Region)" | Author: Sergei Guneev, Presidential Press and Information Office | Source: https://commons.wikimedia.org/wiki/File:Topol_TEL.jpg
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created: 14 December 2006 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rt-2pm-topol/rt-2pm-topol-02.png`
 
-ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âº ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Topol missile launch" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âº_ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹_ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°_ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢.jpg
+Пуск ракеты комплекса Тополь.jpg — Caption: "Topol missile launch" | Author: (leave empty) | Source: https://commons.wikimedia.org/wiki/File:Пуск_ракеты_комплекса_Тополь.jpg
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created: 7 June 2021 | Uploaded: 
 
 ## RT-2PM2 Topol-M
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rt-2pm2-topol-m/rt-2pm2-topol-m-01.png`
 
-RT-2PM2 Topol-M-18.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢-2ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢-ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:RT-2PM2_Topol-M-18.jpg
+RT-2PM2 Topol-M-18.jpg — Caption: "РТ-2ПМ2 Тополь-М" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:RT-2PM2_Topol-M-18.jpg
  | License: (leave empty) | License badge: (leave empty)
  | Changes: Resized for in-app display | Created: 19 March 2012 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/rt-2pm2-topol-m/rt-2pm2-topol-m-02.png`
 
-Transportation of the RT-2PM2 Topol-M 14.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Transportation of the RT-2PM2 Topol-M" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Transportation_of_the_RT-2PM2_Topol-M_14.jpg
+Transportation of the RT-2PM2 Topol-M 14.jpg — Caption: "Transportation of the RT-2PM2 Topol-M" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Transportation_of_the_RT-2PM2_Topol-M_14.jpg
  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
  | Changes: Resized for in-app display | Created:  | Uploaded: 
 
 ## UR-100NUTTKh (SS-19 Stiletto) / UR-100N
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/ur-100nuttkh/ur-100nuttkh-01.png`
 
-UR-100N ICBM at ARMY-2022.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Soviet UR-100N ICBM in transport and launch container on static display during ARMY-2022 (Park Patriot)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:UR-100N_ICBM_at_ARMY-2022.jpg
+UR-100N ICBM at ARMY-2022.jpg — Caption: "Soviet UR-100N ICBM in transport and launch container on static display during ARMY-2022 (Park Patriot)" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:UR-100N_ICBM_at_ARMY-2022.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 17 August 2022 | Uploaded: 23 October 2022
 
 Image file: `images/01-puolustushaarat/04-strategiset-ohjusjoukot/ur-100nuttkh/ur-100nuttkh-02.png`
 
-15A35 - RS-18B - SS-19 mod.2 Stiletto ICBM in 15Ya54 transport launching container at Park Patriot 04.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "15A35 / UR-100N UTTKh / RS-18B in 15Ya54 transport-launch container" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:15A35_-_RS-18B_-_SS-19_mod.2_Stiletto_ICBM_in_15Ya54_transport_launching_container_at_Park_Patriot_04.jpg
+15A35 - RS-18B - SS-19 mod.2 Stiletto ICBM in 15Ya54 transport launching container at Park Patriot 04.jpg — Caption: "15A35 / UR-100N UTTKh / RS-18B in 15Ya54 transport-launch container" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:15A35_-_RS-18B_-_SS-19_mod.2_Stiletto_ICBM_in_15Ya54_transport_launching_container_at_Park_Patriot_04.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 9 October 2016 | Uploaded: 9 December 2016
 
 # Maahanlaskujoukot
 
-## Self-propelled tank destroyer ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â 2S25 Sprut-SD
+## Self-propelled tank destroyer — 2S25 Sprut-SD
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/2s25-sprut-sd/2s25-sprut-sd-01.png`
-2S25 Sprut-SD at Army 2016.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "2S25 Sprut-SD at Alabino shooting range during \"Army 2016\". The water obstacle in the background had been crossed before." | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:2S25_Sprut-SD_at_Army_2016.jpg
+2S25 Sprut-SD at Army 2016.jpg — Caption: "2S25 Sprut-SD at Alabino shooting range during \"Army 2016\". The water obstacle in the background had been crossed before." | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:2S25_Sprut-SD_at_Army_2016.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 8 September 2016 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/2s25-sprut-sd/2s25-sprut-sd-02.png`
 
-2S25 - Army-2023-08.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "2S25 Sprut-SD" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:2S25_-_Army-2023-08.jpg
+2S25 - Army-2023-08.jpg — Caption: "2S25 Sprut-SD" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:2S25_-_Army-2023-08.jpg
  | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
  | Changes: Resized for in-app display | Created: 15 August 2023 | Uploaded: 
 
-## Self-propelled mortar/howitzer ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â 2S9 Nona-S
+## Self-propelled mortar/howitzer — 2S9 Nona-S
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/2s9-nona-s/2s9-nona-s-01.png`
-2S9 Nona-S Army-2022 2022-08-20 2649.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "2S9 Nona-S" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:2S9_Nona-S_Army-2022_2022-08-20_2649.jpg
+2S9 Nona-S Army-2022 2022-08-20 2649.jpg — Caption: "2S9 Nona-S" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:2S9_Nona-S_Army-2022_2022-08-20_2649.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/2s9-nona-s/2s9-nona-s-02.png`
 
-2S9.JPG ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "2S9 Nona" | Author: Olegvdv68 | Source: https://commons.wikimedia.org/wiki/File:2S9.JPG
+2S9.JPG — Caption: "2S9 Nona" | Author: Olegvdv68 | Source: https://commons.wikimedia.org/wiki/File:2S9.JPG
  | License: Public Domain (worldwide dedication by author) (https://creativecommons.org/publicdomain/mark/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg
  | Changes: Resized for in-app display | Created: 25 November 2004 | Uploaded: 
 
-## Airborne infantry fighting vehicle ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â BMD-2
+## Airborne infantry fighting vehicle — BMD-2
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/bmd-2/bmd-2-01.png`
-BMD-2 at exhibition ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«PresenceÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â» (1).jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMD-2 at exhibition ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«PresenceÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»" | Author: ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¹ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â² | Source: https://commons.wikimedia.org/wiki/File:BMD-2_at_exhibition_%C2%ABPresence%C2%BB_(1).jpg
+BMD-2 at exhibition «Presence» (1).jpg — Caption: "BMD-2 at exhibition «Presence»" | Author: Льошко Нікіфоров | Source: https://commons.wikimedia.org/wiki/File:BMD-2_at_exhibition_%C2%ABPresence%C2%BB_(1).jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 23 February 2015 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/bmd-2/bmd-2-02.png`
 
-BMD-2 on field exercise.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMD-2 on field exercise" | Author:  | Source: https://commons.wikimedia.org/wiki/File:BMD-2_on_field_exercise.jpg
+BMD-2 on field exercise.jpg — Caption: "BMD-2 on field exercise" | Author:  | Source: https://commons.wikimedia.org/wiki/File:BMD-2_on_field_exercise.jpg
  | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
  | Changes: Resized for in-app display | Created: 27 December 2007 | Uploaded: 
 
-## Airborne infantry fighting vehicle ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â BMD-4M
+## Airborne infantry fighting vehicle — BMD-4M
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/bmd-4m/bmd-4m-01.png`
-BMD-4M Army-2022 2022-08-20 2659.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMD-4M" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:BMD-4M_Army-2022_2022-08-20_2659.jpg
+BMD-4M Army-2022 2022-08-20 2659.jpg — Caption: "BMD-4M" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:BMD-4M_Army-2022_2022-08-20_2659.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/bmd-4m/bmd-4m-02.png`
 
-BMD-4M Army-2022 2022-08-20 2666.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BMD-4M" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:BMD-4M_Army-2022_2022-08-20_2666.jpg
+BMD-4M Army-2022 2022-08-20 2666.jpg — Caption: "BMD-4M" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:BMD-4M_Army-2022_2022-08-20_2666.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
 
-## Airborne armoured personnel carrier ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â BTR-D
+## Airborne armoured personnel carrier — BTR-D
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/btr-d/btr-d-01.png`
-BTR-D.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "These airborne soldiers, who worked hard enough, listened to the children who approached them." | Author: Xabier Eskisabel | Source: https://commons.wikimedia.org/wiki/File:BTR-D.jpg
+BTR-D.jpg — Caption: "These airborne soldiers, who worked hard enough, listened to the children who approached them." | Author: Xabier Eskisabel | Source: https://commons.wikimedia.org/wiki/File:BTR-D.jpg
  | License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 2 August 2006 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/btr-d/btr-d-02.png`
 
-Btr-d Belarus.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "BTR-ZD with installed ZU-23-2 of 103rd Mobile Brigade, Belarus" | Author: Serge Serebro, Vitebsk Popular News | Source: https://commons.wikimedia.org/wiki/File:Btr-d_Belarus.jpg
+Btr-d Belarus.jpg — Caption: "BTR-ZD with installed ZU-23-2 of 103rd Mobile Brigade, Belarus" | Author: Serge Serebro, Vitebsk Popular News | Source: https://commons.wikimedia.org/wiki/File:Btr-d_Belarus.jpg
  | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 22 February 2011 | Uploaded: 
 
-## Airborne armoured personnel carrier ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â BTR-MDM (Rakushka)
+## Airborne armoured personnel carrier — BTR-MDM (Rakushka)
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/btr-mdm-rakushka/btr-mdm-rakushka-01.png`
-APC-MDM Army-2022 2022-08-20 2661.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â -ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ." | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:APC-MDM_Army-2022_2022-08-20_2661.jpg
+APC-MDM Army-2022 2022-08-20 2661.jpg — Caption: "Бронетранспортер БТР-МДМ." | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:APC-MDM_Army-2022_2022-08-20_2661.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
 
 Image file: `images/01-puolustushaarat/05-maahanlaskujoukot/btr-mdm-rakushka/btr-mdm-rakushka-02.png`
 
-Army2016demo-019.jpg ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â -ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ (BTR-MDM armored personnel carrier)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-019.jpg
+Army2016demo-019.jpg — Caption: "Бронетранспортер БТР-МДМ (BTR-MDM armored personnel carrier)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Army2016demo-019.jpg
  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
  | Changes: Resized for in-app display | Created: 11 September 2016 | Uploaded:
 
-# MiehittÃ¤mÃ¤ttÃ¶mÃ¤t jÃ¤rjestelmÃ¤t
+# **2.2.6. Miehittämättömien järjestelmien joukot / Unmanned Systems Forces**
 
-## Altair (Altius)
+## miehittamattomat-ilma-alukset
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/altius/altius-01.png`
+### Altair (Altius)
 
-Altair-5 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Altair-5" | Author: ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ | Source: https://commons.wikimedia.org/wiki/File:Altair-5.jpg
- | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
- | Changes: Resized for in-app display | Created:  | Uploaded: 11 January 2023
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/altius/altius-01.png`
 
-## Eleron-3
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Altair-5.jpg | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/eleron/eleron-01.png`
 
-Eleron-3 - IDELF-2008-197 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ (Eleron UAV)" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Eleron-3_-_IDELF-2008-197.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 21 August 2008 | Uploaded: 9 June 2017
+### DJI Phantom 3
 
-## Forpost
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dji-phantom-3/dji-phantom-3-01.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/forpost/forpost-01.png`
+Model: DJI Phantom 3 | Type: Tactical reconnaissance UAV | Origin: China | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:International_Mine_Action_Center_in_Syria_(Aleppo)_17_(cropped_2).jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:International_Mine_Action_Center_in_Syria_(Aleppo)_17_(cropped_2).jpg
 
-Forpost UAV InnovationDay2013part2-03 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Forpost UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Forpost_UAV_InnovationDay2013part2-03.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 20 August 2013 | Uploaded: 5 September 2013
 
+### Dragonfly
 
-## Geran-2 (Shahed 136)
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dragonfly/dragonfly-01.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/geran-2/geran-2-01.png`
+Model: Dragonfly | Type: Sapper reconnaissance UAV | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:EngineerTraining2018-16.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:EngineerTraining2018-16.jpg
 
-Military equipment displayed for the 44th Iranian revolution anniversary rally - Shahed 136 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Good view on a Shahed-136 loitering munition on launcher in a pickup truck displayed during the 44th Islamic revolution anniversary ceremony in Tehran, Feb 11, 2023." | Author: Tasnim News Agency | Source: https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 11 February 2023 | Uploaded: 13 February 2023
 
+### Eleron-10
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/geran-2/geran-2-02.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-02.png`
 
-Shahed-136 debris fragments from attack on MT Pacific Zircon 221122-N-NO146-1003 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Graphic identifying specific debris fragmentsÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ indicating the UAV was an Iranian-made Shahed-136. (U.S. Navy graphic)" | Author: U.S. Navy | Source: https://commons.wikimedia.org/wiki/File:Shahed-136_debris_fragments_from_attack_on_MT_Pacific_Zircon_221122-N-NO146-1003.JPG  | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:PD-icon.svg  | Changes: Resized for in-app display | Created: 1 November 2022 | Uploaded: 17 February 2023
+Model: Eleron-10 | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Eleron-10_-_IDELF-2008-196.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Eleron-10_-_IDELF-2008-196.jpg
+ | Notes: The source page notes at least 4 losses in Ukraine as of 25 October 2025.
 
 
-## Granat-1
+### Eleron-3
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/granat-1/granat-1-01.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-3/eleron-3-01.png`
 
-ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡-1 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â" | Author: AnthonyWK | Source: https://commons.wikimedia.org/wiki/File:ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â_ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡-1.png  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 24 June 2016 | Uploaded
+Model: Eleron-3 | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Integrated_Safety_and_Security_Exhibition_2011_(363-38).jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Integrated_Safety_and_Security_Exhibition_2011_(363-38).jpg
+ | Notes: The source page says it can be used for reconnaissance and jamming.
 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Eleron-3_-_IDELF-2008-197.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 21 August 2008
 
-## Granat-2
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/granat-2/granat-2-01.png`
+### Eleron-7
 
-ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡-2 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â" | Author: AnthonyWK | Source: https://commons.wikimedia.org/wiki/File:ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â_ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡-2.png  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 25 December 2013 | Uploaded:
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-7/eleron-7-01.png`
 
+Model: Eleron-7 | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Army-2020-240.JPG
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Army-2020-240.JPG
 
-## Granat-4
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/granat-4/granat-4-01.png`
+### Forpost / Forpost-R
 
-Granat-4 UAV at Interpolitex-2015 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Granat-4 UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Granat-4_UAV_at_Interpolitex-2015.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created:  | Uploaded: 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-02.png`
 
+Model: Forpost-R | Type: Unmanned Combat Aerial Vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Forpost_UAV_InnovationDay2013part2-02.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Forpost_UAV_InnovationDay2013part2-02.jpg
+ | Notes: The source page notes that at least 6 of all variants have been lost in the Russian invasion of Ukraine.
 
-## KUB-BLA (KUB-E as representative)
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Forpost_UAV_InnovationDay2013part2-03.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 20 August 2013
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/kub-e/kub-e-01.png`
 
-KUB-E loitering munition at IDEX 2023 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "KUB-E loitering munition at IDEX 2023" | Author: Mztourist | Source: https://commons.wikimedia.org/wiki/File:KUB-E_loitering_munition_at_IDEX_2023.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 22 February 2023 | Uploaded: 23 February 2023
+### Geran-2 (Shahed 136)
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-02.png`
 
-## Lancet
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/lancet/lancet-1-01.png`
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Military_equipment_displayed_for_the_44th_Iranian_revolution_anniversary_rally_-_Shahed_136.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 11 February 2023
+- Source 2: https://commons.wikimedia.org/wiki/File:Shahed-136_debris_fragments_from_attack_on_MT_Pacific_Zircon_221122-N-NO146-1003.JPG | License: Public Domain (US federal government work) (https://creativecommons.org/publicdomain/mark/1.0/ ) | Created: 1 November 2022
 
-Army-2020-315 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ZALA Aero UAV Lancet" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:Army-2020-315.JPG
- | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
- | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded: 30 August 2020
 
+### Gerbera
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/lancet/lancet-1-02.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/gerbera/gerbera-01.png`
 
-ZALA Lancet at IDEX 2025 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ZALA Lancet at IDEX 2025" | Author: Mztourist | Source: https://commons.wikimedia.org/wiki/File:ZALA_Lancet_at_IDEX_2025.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 19 February 2025 | Uploaded:
+Model: Gerbera | Type: Kamikaze-type multi-role unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Russian_drone_Gerbera,_downed_in_Ukraine_(2025-01-05).jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Russian_drone_Gerbera,_downed_in_Ukraine_(2025-01-05).jpg
+ | Notes: The source page says Gerbera is extensively used.
 
 
-## Leer-3 (RB-341V)
+### Granat-1
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/leer-3/leer-3-01.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-1/granat-1-01.png`
 
-TB2015ExhibitionP2-49 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "RB-341V Leer-3 ECM system with UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:TB2015ExhibitionP2-49.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 15 August 2015 | Uploaded: 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:БЛА_Гранат-1.png | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 24 June 2016
 
-## Marker (UGV)
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/marker/marker-01.png`
+### Granat-2
 
-Marker combat UGV ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Marker combat unmanned ground vehicle." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Marker_combat_UGV.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded:
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-2/granat-2-01.png`
 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:БЛА_Гранат-2.png | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 25 December 2013
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/marker/marker-02.png`
 
-Marker" robotic platform during the "Armiya 2022" exhibition ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: ""Marker" robotic platform during the "Armiya 2022" exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:"Marker"_robotic_platform_during_the_"Armiya_2022"_exhibition.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded:
+### Granat-4
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-4/granat-4-01.png`
 
-## Nerekhta (UGV)
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Granat-4_UAV_at_Interpolitex-2015.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/nerekhta/nerekhta-01.png`
 
-Army-2018-03 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Nerekhta combat robot" | Author: Alexey Ivanov | Source: https://commons.wikimedia.org/wiki/File:Army-2018-03.jpg
- | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
- | Changes: Resized for in-app display | Created: 21 August 2018 | Uploaded: 22 August 2018
+### Grusha
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/grusha/grusha-01.png`
 
-## Okhotnik (S-70)
+Model: Grusha | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Grusha_Engineering_technologies_international_forum_2010.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Grusha_Engineering_technologies_international_forum_2010.jpg
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/okhotnik-s-70/okhotnik-s-70-01.png`
 
-S-70 takeoff rear view ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Rear view of S-70 during takeoff" | Author: Ministry of Defence of the Russian Federation (mil.ru) | Source: https://commons.wikimedia.org/wiki/File:S-70_takeoff_rear_view.png
- | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg
- | Changes: Resized for in-app display | Created: 16 August 2019 | Uploaded: 5 October 2024
+### KUB-BLA (KUB-E as representative)
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/kub-e/kub-e-01.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/okhotnik-s-70/okhotnik-s-70-02.png`
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:KUB-E_loitering_munition_at_IDEX_2023.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 22 February 2023
 
-S-70 takeoff front view ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Front view of S-70 during takeoff" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:S-70_takeoff_front_view.png  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 16 August 2019 | Uploaded:
 
+### Leer-3 (RB-341V)
 
-## Orion-E (Inokhodets) 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/leer-3/leer-3-01.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/orion-e-inokhodets/orion-e-inokhodets-01.png`
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:TB2015ExhibitionP2-49.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 15 August 2015
 
-Kronstadt Orion-E front right ARMY-2022 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Kronstadt Orion-E UAV on static display at ARMY-2022" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Kronstadt_Orion-E_front_right_ARMY-2022.jpg
- | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC_BY-SA_3.0.png
- | Changes: Resized for in-app display | Created: 18 August 2022 | Uploaded: 1 October 2022
 
+### Luch Korsar
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/orion-e-inokhodets/orion-e-inokhodets-02.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/luch-korsar/luch-korsar-01.png`
 
-Orion UAV Army-2022 2022-08-20 2412 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½-ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­." | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:Orion_UAV_Army-2022_2022-08-20_2412.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 1 September 2022
+Model: Luch Korsar | Type: Unmanned Combat Aerial Vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:VictoryDayParade2018-26.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:VictoryDayParade2018-26.jpg
+ | Notes: The source page says it was tested but not operationally deployed.
 
 
+### Mohajer-6
 
-## Orlan-10
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/mohajer-6/mohajer-6-01.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/orlan-10/orlan-10-01.png`
+Model: Mohajer-6 'M6' | Type: Unmanned Combat Aerial Vehicle | Origin: Iran | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Qods_Mohajer-6_(1).png
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Qods_Mohajer-6_(1).png
+ | Notes: The source page says it was reportedly bought and used by Russia during the 2022 invasion.
 
-Orlan-10 UAV Army-2022 2022-08-20 2290 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½-10" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:Orlan-10_UAV_Army-2022_2022-08-20_2290.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 1 September 2022
 
+### Okhotnik (S-70)
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/orlan-10/orlan-10-02.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-02.png`
 
-Orlan-10 (2) ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Orlan-10 UAV" | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:Orlan-10_(2).jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded:
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:S-70_takeoff_rear_view.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Created: 16 August 2019
+- Source 2: https://commons.wikimedia.org/wiki/File:S-70_takeoff_front_view.png | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 16 August 2019
 
 
-## Orlan-30
+### Orion-E (Inokhodets)
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/orlan-30/orlan-30-01.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-02.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-03.png`
 
-Orlan-30 UAV Army-2022 2022-08-20 2632 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½-30" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:Orlan-30_UAV_Army-2022_2022-08-20_2632.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 1 September 2022
+Model: Kronshtadt Orion 'Inokhodets' | Type: Unmanned Combat Aerial Vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Army-2020-209.JPG
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Army-2020-209.JPG
+ | Notes: The source page notes it was tested over the Ukraine border in December 2021.
 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Kronstadt_Orion-E_front_right_ARMY-2022.jpg | License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) | Created: 18 August 2022
+- Source 2: https://commons.wikimedia.org/wiki/File:Orion_UAV_Army-2022_2022-08-20_2412.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 20 August 2022
 
 
-## Supercam S150
+### Orlan-10
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/supercam-s150/supercam-s150-01.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-02.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-03.png`
 
-SUPERCAM S150 UAV Army-2022 2022-08-20 2222 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â S150" | Author: Mike1979 Russia | Source: https://commons.wikimedia.org/wiki/File:SUPERCAM_S150_UAV_Army-2022_2022-08-20_2222.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 20 August 2022 | Uploaded: 
+Model: Orlan-10 | Type: Unmanned Combat Aerial Vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:UAV_Orlan-10.JPG
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:UAV_Orlan-10.JPG
+ | Notes: The source page lists Orlan-10 under unmanned combat aerial vehicles and states over 1000 in service.
 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Orlan-10_UAV_Army-2022_2022-08-20_2290.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 20 August 2022
+- Source 2: https://commons.wikimedia.org/wiki/File:Orlan-10_(2).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 27 August 2020
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/supercam-s150/supercam-s150-02.png`
 
-Supercam S150 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âµ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Supercam S150 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âµ" | Author: Supercamaero | Source: https://commons.wikimedia.org/wiki/File:Supercam_S150_ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°_ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹_ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âµ.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 23 November 2017 | Uploaded:
+### Orlan-30
 
-## Supercam S350
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-02.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-03.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/supercam-s350/supercam-s350-01.png`
+Model: Orlan-30 | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Integrated_Safety_and_Security_Exhibition_2013_(500-47).jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Integrated_Safety_and_Security_Exhibition_2013_(500-47).jpg
+ | Notes: The source page notes at least 27 losses in Ukraine as of 25 October 2025.
 
-ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ Supercam S350 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ Supercam S350 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂµÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âµ" | Author: Supercamaero | Source: https://commons.wikimedia.org/wiki/File:ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡_Supercam_S350.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 15 August 2019 | Uploaded: 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Orlan-30_UAV_Army-2022_2022-08-20_2632.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 20 August 2022
 
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/supercam-s350/supercam-s350-02.png`
+### Supercam S150
 
-Drone of Russian Ministry of Emergency Situations captured in Ukraine (22 June 2022) ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Drone of Russian Ministry of Emergency Situations captured by Ukrainian forcesÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦" | Author: Dsns.gov.ua | Source: https://commons.wikimedia.org/wiki/File:Drone_of_Russian_Ministry_of_Emergency_Situations_captured_in_Ukraine_(22_June_2022).jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 22 June 2022 | Uploaded:
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-02.png`
 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:SUPERCAM_S150_UAV_Army-2022_2022-08-20_2222.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 20 August 2022
+- Source 2: https://commons.wikimedia.org/wiki/File:Supercam_S150_на_эластичной_катапульте.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 23 November 2017
 
 
-## Takhion
+### Supercam S350
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/takhion/takhion-01.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-02.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-03.png`
 
-Army-2020-265 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Takhion UAV" | Author: Nickel nitride | Source: https://commons.wikimedia.org/wiki/File:Army-2020-265.JPG
- | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC0_button.svg
- | Changes: Resized for in-app display | Created: 27 August 2020 | Uploaded: 30 August 2020
+Model: Supercam S350 | Type: Unmanned reconnaissance aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:%D0%91%D0%92%D0%A1_Supercam_S350.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:%D0%91%D0%92%D0%A1_Supercam_S350.jpg
+ | Notes: The source page notes at least 127 losses in Ukraine as of 25 October 2025.
 
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:%D0%91%D0%92%D0%A1_Supercam_S350.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 15 August 2019
+- Source 2: https://commons.wikimedia.org/wiki/File:Drone_of_Russian_Ministry_of_Emergency_Situations_captured_in_Ukraine_(22_June_2022).jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 22 June 2022
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/takhion/takhion-02.png`
 
-FinalCheck2018-10 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Russian 56th Separate Guards Air Assault Brigade. Takhion UAV." | Author: Mil.ru | Source: https://commons.wikimedia.org/wiki/File:FinalCheck2018-10.jpg  | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY.svg  | Changes: Resized for in-app display | Created: 17 October 2018 | Uploaded: 18 October 2018
+### Takhion
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-02.png`
 
-## Uran-9 (UGV)
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Army-2020-265.JPG | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | Created: 27 August 2020
+- Source 2: https://commons.wikimedia.org/wiki/File:FinalCheck2018-10.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 17 October 2018
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/uran-9/uran-9-01.png`
 
-Uran-9 Army2016 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Uran-9 unmanned combat ground vehicle displayed at Army 2016" | Author: Boevaya mashina | Source: https://commons.wikimedia.org/wiki/File:Uran-9_Army2016.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 7 September 2016 | Uploaded: 
+### Yakovlev Pchela
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/yakovlev-pchela/yakovlev-pchela-01.png`
 
+Model: Yakovlev Pchela | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Yakovlev_Pchela_NTW_2_93_2.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Yakovlev_Pchela_NTW_2_93_2.jpg
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/uran-9/uran-9-02.png`
 
-Multifunctional robotic combat system "Uran-9" during the "Armiya 2021" exhibition (front-left view) ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Multifunctional robotic combat system "Uran-9" during the "Armiya 2021" exhibition." | Author: Kirill Borisenko | Source: https://commons.wikimedia.org/wiki/File:Multifunctional_robotic_combat_system_"Uran-9"_during_the_"Armiya_2021"_exhibition_(front-left_view).jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 26 August 2021 | Uploaded:
+### ZALA 421-08
 
-## ZALA 421-16
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-02.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-03.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/zala-421-16/zala-421-16e-01.png`
+Model: ZALA 421-08 / Strekoza | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:ZALA_421-08_Engineering_technologies_international_forum_2010.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_Engineering_technologies_international_forum_2010.jpg
 
-Interpolitex 2012 (482-17) ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ZALA 421-16" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:Interpolitex_2012_(482-17).jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 23 October 2012 | Uploaded: 25 May 2013
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:ZALA_421-08_Engineering_technologies_international_forum_2010.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 30 June 2010
+- Source 2: https://commons.wikimedia.org/wiki/File:ZALA_421-08_ISSE-2012.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 23 May 2012
 
 
+### ZALA 421-16
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/zala-421-16/zala-421-16e-02.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-02.png`
 
-ZALA 421-16 Engineering technologies international forum 2010 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ZALA 421-16 at Engineering technologies international forum -2010" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-16_Engineering_technologies_international_forum_2010.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 30 June 2010 | Uploaded: 21 September 2012
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Interpolitex_2012_(482-17).jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 23 October 2012
+- Source 2: https://commons.wikimedia.org/wiki/File:ZALA_421-16_Engineering_technologies_international_forum_2010.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 30 June 2010
 
 
-## ZALA 421-08
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/zala-421-08/zala-421-08-01.png`
+### ZALA 421-22
 
-ZALA 421-08 Engineering technologies international forum 2010 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "Unmanned aerial reconnaissance complex Strekoza with ZALA 421-08 UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_Engineering_technologies_international_forum_2010.jpg
- | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg
- | Changes: Resized for in-app display | Created: 30 June 2010 | Uploaded: 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-02.png`
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/zala-421-08/zala-421-08-02.png`
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:ZALA_421-08_ISSE-2012.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 23 May 2012
+- Source 2: https://commons.wikimedia.org/wiki/File:ZALA_421-22_InnovationDay2013part2-17.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 20 August 2013
 
-ZALA 421-08 ISSE-2012 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ZALA 421-08 at Integrated Safety and Security Exhibition 2012" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_ISSE-2012.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 23 May 2012 | Uploaded: 20 July 2012
 
+### Lancet / ZALA Lancet
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-02.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-03.png`
 
-## ZALA 421-22
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/zala-421-22/zala-421-22-01.png`
+Model: ZALA Lancet | Type: Kamikaze-type unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Army-2020-314.JPG
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Army-2020-314.JPG
 
-ZALA 421-08 ISSE-2012 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ZALA 421-08 at Integrated Safety and Security Exhibition 2012" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-08_ISSE-2012.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 23 May 2012 | Uploaded: 20 July 2012
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Army-2020-315.JPG | License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | Created: 27 August 2020
+- Source 2: https://commons.wikimedia.org/wiki/File:ZALA_Lancet_at_IDEX_2025.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 19 February 2025
 
 
+### Zastava
 
-Image file: `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/zala-421-22/zala-421-22-02.png`
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zastava/zastava-01.png`
 
-ZALA 421-22 InnovationDay2013part2-17 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Caption: "ZALA 421-22 UAV" | Author: Vitaly V. Kuzmin | Source: https://commons.wikimedia.org/wiki/File:ZALA_421-22_InnovationDay2013part2-17.jpg  | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | License badge: https://commons.wikimedia.org/wiki/File:CC-BY-SA.svg  | Changes: Resized for in-app display | Created: 20 August 2013 | Uploaded:
+Model: Zastava | Type: Unmanned aerial vehicle | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Bird-Eye_400.jpg
+ | License: See file page
+ | License source: https://commons.wikimedia.org/wiki/File:Bird-Eye_400.jpg
 
 
+## miehittamattomat-maa-ajoneuvot
 
+### Cobra-1600
 
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/cobra-1600/cobra-1600-01.png`
+
+Model: Cobra-1600 | Type: Reconnaissance / Mine clearing | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:EngineerTraining2018-15.jpg
+ | License: CC BY 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:EngineerTraining2018-15.jpg
+
+
+### Kapitan
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/kapitan/kapitan-01.png`
+
+Model: Kapitan | Type: Reconnaissance / Mine clearing | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD_-_%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D0%B5_%D0%90%D0%BB%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE_01.jpg
+ | License: CC BY 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD_-_%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D0%B5_%D0%90%D0%BB%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE_01.jpg
+
+
+### Marker (UGV)
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-02.png`
+
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Marker_combat_UGV.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/ ) | Created: 27 August 2020
+- Source 2: https://commons.wikimedia.org/wiki/File:"Marker"_robotic_platform_during_the_"Armiya_2022"_exhibition.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 20 August 2022
+
+
+### MRK-3
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-3/mrk-3-01.png`
+
+Model: MRK-3 | Type: Combat support / Patrol | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Russia_Arms_Expo_2013_(531-38).jpg
+ | License: CC BY-SA 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:Russia_Arms_Expo_2013_(531-38).jpg
+
+
+### MRK-35MA
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-35ma/mrk-35ma-01.png`
+
+Model: MRK-RKh and MRK-35MA | Type: Chemical reconnaissance and reconnaissance / Mine clearing | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:MRK-RKh_robot_(3).jpg
+ | License: CC BY-SA 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:MRK-RKh_robot_(3).jpg
+ | Notes: The source page states that MRK-RKh is in the photo.
+
+
+### MRK-46
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-46/mrk-46-01.png`
+
+Model: MRK-46 | Type: Reconnaissance / Mine clearing | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:MRK-46_robot_(2).jpg
+ | License: CC BY-SA 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:MRK-46_robot_(2).jpg
+
+
+### Nerekhta (UGV)
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/nerekhta/nerekhta-01.png`
+
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Army-2018-03.jpg | License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | Created: 21 August 2018
+
+
+### Prokhod-1
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/prokhod-1/prokhod-1-01-01.png`
+
+Model: Prokhod-1 | Type: Demining | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:Army2016demo-165.jpg
+ | License: CC BY-SA 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:Army2016demo-165.jpg
+ | Notes: The system includes a robotic BMR-3MA tracked mine clearing vehicle and a Kamaz-based command vehicle.
+
+
+### Uran-14
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-14/uran-14-01.png`
+
+Model: Uran-14 | Type: Multifunction engineering machine | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:%D0%A3%D1%80%D0%B0%D0%BD-14_-_%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%A1%D0%9A%D0%A8%D0%A3_%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80-2015%C2%BB_01.jpg
+ | License: CC BY 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:%D0%A3%D1%80%D0%B0%D0%BD-14_-_%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%A1%D0%9A%D0%A8%D0%A3_%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80-2015%C2%BB_01.jpg
+
+
+### Uran-6
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-6/uran-6-01.png`
+
+Model: Uran-6 | Type: Demining | Origin: Russia | Source page: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#Unmanned_vehicles
+ | Photo source: https://en.wikipedia.org/wiki/List_of_equipment_of_the_Russian_Ground_Forces#/media/File:%D0%A3%D1%80%D0%B0%D0%BD-6_-_%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%A1%D0%9A%D0%A8%D0%A3_%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80-2015%C2%BB_02.jpg
+ | License: CC BY 4.0
+ | License source: https://commons.wikimedia.org/wiki/File:%D0%A3%D1%80%D0%B0%D0%BD-6_-_%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B2_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%A1%D0%9A%D0%A8%D0%A3_%C2%AB%D0%A6%D0%B5%D0%BD%D1%82%D1%80-2015%C2%BB_02.jpg
+ | Notes: The source page notes that at least one has been lost in the Russian invasion of Ukraine.
+
+
+### Uran-9 (UGV)
+
+Image files:
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-01.png`
+- `images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-02.png`
+
+Existing source entries:
+- Source 1: https://commons.wikimedia.org/wiki/File:Uran-9_Army2016.jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) | Created: 7 September 2016
+- Source 2: https://commons.wikimedia.org/wiki/File:Multifunctional_robotic_combat_system_"Uran-9"_during_the_"Armiya_2021"_exhibition_(front-left_view).jpg | License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/ ) | Created: 26 August 2021

@@ -8,9 +8,9 @@ Image file: `images/02-sotilaspiirit/01-leningradin-sotilaspiiri/leningradin-sot
 
 Image file: `images/02-sotilaspiirit/01-leningradin-sotilaspiiri/leningradin-sotilaspiiri-03.png`
 
-Panschin, V. (2023). VenÃ¤jÃ¤n sotilaallinen voima Suomen lÃ¤hialueilla: Pohjoisen operatiivisstrategisen johtoportaan ja LÃ¤ntisen sotilaspiirin joukot sekÃ¤ niiden taistelun kuva (Sotataidon laitos, Julkaisusarja 2: Tutkimusselosteita, No. 24). Maanpuolustuskorkeakoulu. https://www.doria.fi/handle/10024/186542
+Panschin, V. (2023). Venäjän sotilaallinen voima Suomen lähialueilla: Pohjoisen operatiivisstrategisen johtoportaan ja Läntisen sotilaspiirin joukot sekä niiden taistelun kuva (Sotataidon laitos, Julkaisusarja 2: Tutkimusselosteita, No. 24). Maanpuolustuskorkeakoulu. https://www.doria.fi/handle/10024/186542
 
-PÃ¤Ã¤esikunta. (2026). Sotilastiedustelu: Julkinen katsaus 2026. https://puolustusvoimat.fi/documents/1948673/8274776/PV_sotilastiedustelu_2026_FI.pdf/981f2115-4262-d896-5c7c-763925641aa2/PV_sotilastiedustelu_2026_FI.pdf
+Pääesikunta. (2026). Sotilastiedustelu: Julkinen katsaus 2026. https://puolustusvoimat.fi/documents/1948673/8274776/PV_sotilastiedustelu_2026_FI.pdf/981f2115-4262-d896-5c7c-763925641aa2/PV_sotilastiedustelu_2026_FI.pdf
 
 
 

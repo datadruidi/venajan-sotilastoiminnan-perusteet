@@ -1,10 +1,9 @@
-# Kalustokuvasto
+# Kalustokuvasto – miehittämättömät ilma-alukset
 
-## Miehittamattomat ilma-alukset
+Tämä tiedosto kokoaa kunkin annetun järjestelmän osalta tiiviin kuvauksen, suorituskyvyt, analyysihuomiot, operatiiviset rajoitteet ja lähteet. Jos avoin lähdeaineisto on niukkaa tai järjestelmän tunnistus jää epävarmaksi, tietoaukko on merkitty näkyvästi eikä puuttuvaa tietoa ole täydennetty oletuksilla.
+
 
 ### Altius
-#### Kalustokuva
-![altius](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/altius/altius-01.png)
 
 #### Kalustokuvaus
 
@@ -28,10 +27,7 @@ Sarjatuotannosta, määristä ja täysimittaisesta operatiivisesta käytöstä o
 - [ODIN – Sokol Altius-RU](https://odin.tradoc.army.mil/WEG/Asset/2281362bc70d8809bcf0f8c9fae9b8da)
 - [Rostec – Altius/Orion export context](https://rostec.ru/en/media/news/rosoboronexport-to-showcase-advanced-russian-solutions-at-xii-international-meeting-of-high-represen/)
 
-
 ### DJI-Phantom-3
-#### Kalustokuva
-![dji-phantom-3](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dji-phantom-3/dji-phantom-3-01.png)
 
 #### Kalustokuvaus
 
@@ -55,10 +51,7 @@ Alusta on altis elektroniselle häirinnälle, paikannuksen estolle ja fyysiselle
 - [DJI – Phantom 3 specs](https://www.dji.com/phantom-3-pro/info#specs)
 - [DJI – Phantom 3 user resources](https://www.dji.com/phantom-3-pro/downloads)
 
-
 ### Dragonfly
-#### Kalustokuva
-![dragonfly](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/dragonfly/dragonfly-01.png)
 
 #### Kalustokuvaus
 
@@ -82,11 +75,7 @@ Avoin lähdeaineisto ei riitä vahvistamaan tarkkaa valmistajaa, käyttöönotto
 - [TASS – Russia crafting line of 'dragonfly' drones](https://tass.com/defense/902921)
 - [TAdviser – Military drones in Russia (mentions Dragonfly-type projects)](https://tadviser.com/index.php/Article:Military_drones_in_Russia)
 
-
 ### Eleron-10
-#### Kalustokuva
-![eleron-10](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-01.png)
-![eleron-10](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-10/eleron-10-02.png)
 
 #### Kalustokuvaus
 
@@ -110,10 +99,7 @@ Pieni koko, rajallinen hyötykuorma ja suhteellisen lyhyt kesto rajaavat vaikutu
 - [GUR War&Sanctions – Eleron-10](https://war-sanctions.gur.gov.ua/en/uav/451)
 - [ENICS / open-source profile via ODIN-family references](https://odin.tradoc.army.mil/WEG/Asset/91494a1e46f43f3e0f5dbf3e9e39cbe9)
 
-
 ### Eleron-3
-#### Kalustokuva
-![eleron-3](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-3/eleron-3-01.png)
 
 #### Kalustokuvaus
 
@@ -137,10 +123,7 @@ Pieni koko ja sähköinen voimalinja rajoittavat hyötykuormaa sekä huonon sä�
 - [ODIN – Eleron-3](https://odin.tradoc.army.mil/WEG/Asset/91494a1e46f43f3e0f5dbf3e9e39cbe9)
 - [Bard College Drone Databook (referenced by ODIN summary)](https://dronecenter.bard.edu/files/2019/10/CSD-Drone-Databook-Web.pdf)
 
-
 ### Eleron-7
-#### Kalustokuva
-![eleron-7](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/eleron-7/eleron-7-01.png)
 
 #### Kalustokuvaus
 
@@ -164,11 +147,7 @@ Tietopohja ei riitä varmaan arvioon käyttömääriä, alaversioita tai nykyist
 - [Rosoboronexport / industry overview mentioning Eleron family](https://roe.ru/en/media/posts/kategoriya-2/rosoboronexport-to-strengthen-russia-s-position-in-the-global-market-for-unmanned-aircraft-systems-/)
 - [FPRI – Russian Military Drones](https://www.fpri.org/wp-content/uploads/2023/11/russian-military-drones-.pdf)
 
-
 ### Forpost
-#### Kalustokuva
-![forpost](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-01.png)
-![forpost](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/forpost/forpost-02.png)
 
 #### Kalustokuvaus
 
@@ -192,11 +171,7 @@ Järjestelmä on suurempi ja näkyvämpi kuin pienet kenttä-UAV:t, mikä kasvat
 - [ODIN – Forposts Russian Reconnaissance UAV](https://odin.tradoc.army.mil/WEG/Asset/9597f509c7697fc75e141b3fe642f2d6)
 - [IAI Searcher background](https://www.iai.co.il/p/searcher-mk-iii)
 
-
 ### Geran-2
-#### Kalustokuva
-![geran-2](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-01.png)
-![geran-2](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/geran-2/geran-2-02.png)
 
 #### Kalustokuvaus
 
@@ -220,10 +195,7 @@ Alusta on hidas ja melko ennalta-arvattava verrattuna risteilyohjuksiin, minkä 
 - [ODIN – Shahed-136 / Geran context](https://odin.tradoc.army.mil/WEG/Asset/Shahed-136_Iranian_Loitering_Munition_Unmanned_Aerial_Vehicle_%28UAV%29)
 - [ISIS – Analytical review of Russian Shahed-type UAVs](https://isis-online.org/isis-reports/a-comprehensive-analytical-review-of-russian-shahed-type-uavs-deployment-against-ukraine-in-2025)
 
-
 ### Gerbera
-#### Kalustokuva
-![gerbera](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/gerbera/gerbera-01.png)
 
 #### Kalustokuvaus
 
@@ -247,10 +219,7 @@ Avoin tekninen dokumentaatio on niukkaa, ja järjestelmä näyttää kehittyvän
 - [GUR War&Sanctions – Gerbera](https://war-sanctions.gur.gov.ua/en/uav/329)
 - [ISIS – Russian Shahed-type UAV review](https://isis-online.org/isis-reports/a-comprehensive-analytical-review-of-russian-shahed-type-uavs-deployment-against-ukraine-in-2025)
 
-
 ### Granat-1
-#### Kalustokuva
-![granat-1](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-1/granat-1-01.png)
 
 #### Kalustokuvaus
 
@@ -274,10 +243,7 @@ Hyötykuorma, sääsietokyky ja viestikantama ovat kevyen UAV:n tasolla. Elektro
 - [Rosoboronexport – Granat-1](https://roe.ru/en/production/aerospace-forces/complexes-with-uavs/granat-1/?theme=)
 - [GUR War&Sanctions – Granat-1](https://war-sanctions.gur.gov.ua/en/uav/416)
 
-
 ### Granat-2
-#### Kalustokuva
-![granat-2](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-2/granat-2-01.png)
 
 #### Kalustokuvaus
 
@@ -301,10 +267,7 @@ Pieni toimintasäde ja kevyt rakenne rajaavat vaikutuksen lähelle omaa etulinja
 - [GUR War&Sanctions – Granat-2](https://war-sanctions.gur.gov.ua/en/uav/417)
 - [Jamestown – UAV unit structure references](https://jamestown.org/moscows-military-modernization-sets-agenda-for-uav-development/)
 
-
 ### Granat-4
-#### Kalustokuva
-![granat-4](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/granat-4/granat-4-01.png)
 
 #### Kalustokuvaus
 
@@ -328,10 +291,7 @@ Avoin lähdeaineisto ei riitä tarkkaan ja ajantasaiseen versiovertailuun. Täm�
 - [Rosoboronexport – Granat-4E reference](https://roe.ru/en/media/posts/kategoriya-2/rosoboronexport-to-strengthen-russia-s-position-in-the-global-market-for-unmanned-aircraft-systems-/)
 - [FPRI – Russian military drones overview](https://www.fpri.org/wp-content/uploads/2023/11/russian-military-drones-.pdf)
 
-
 ### Grusha
-#### Kalustokuva
-![grusha](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/grusha/grusha-01.png)
 
 #### Kalustokuvaus
 
@@ -355,10 +315,7 @@ Tietopuutteet ovat merkittäviä, eikä järjestelmän nykyisestä operatiivises
 - [Armada International – Russia's rapid UAV expansion](https://www.armadainternational.com/2019/03/russias-rapid-uav-expansion/)
 - [Jamestown – Mission Impossible: Russia's Low-Tech-High-Tech Army](https://jamestown.org/mission-impossible-russias-low-tech-high-tech-army/)
 
-
 ### KUB-E
-#### Kalustokuva
-![kub-e](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/kub-e/kub-e-01.png)
 
 #### Kalustokuvaus
 
@@ -382,10 +339,7 @@ Suorituskyky riippuu voimakkaasti sensoriohjauksesta, linkistä ja maalinetsint�
 - [Kalashnikov Group – KUB-E](https://en.kalashnikovgroup.ru/catalog/bespilotny-letatelnye-apparaty/kompleks-s-upravlyaemymi-boepripasami/kub-e)
 - [Rostec – Lancet/KUB family export references](https://rostec.ru/en/media/news/rosoboronexport-unveils-lancet-e-system-at-army-2024/)
 
-
 ### Leer-3
-#### Kalustokuva
-![leer-3](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/leer-3/leer-3-01.png)
 
 #### Kalustokuvaus
 
@@ -409,10 +363,7 @@ Teho riippuu sähkömagneettisesta ympäristöstä, verkkojen rakenteesta ja UAV
 - [ODIN – Leer-3 EW system](https://odin.tradoc.army.mil/WEG/Asset/Leer-3_Russian_6x6_Mobile_Drone-Based_Electronic_Warfare_%28EW%29_System)
 - [Rosoboronexport / Rostec context for Orlan systems](https://rostec.ru/en/media/news/rosoboronexport-offers-to-organize-production-and-service-of-russian-uavs-abroad-during-umex-2024/)
 
-
 ### Luch-Korsar
-#### Kalustokuva
-![luch-korsar](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/luch-korsar/luch-korsar-01.png)
 
 #### Kalustokuvaus
 
@@ -436,10 +387,7 @@ Ohjelman näkyvyys on ollut suurempi kuin avoimesti vahvistettu kenttävaikutus.
 - [Rostec – Korsar at ARMY-2019](https://rostec.ru/en/media/pressrelease/rostec-demonstrates-korsar-drone-at-army-2019/)
 - [Rostec – Korsar unveiled / upgrade context](https://rostec.ru/en/media/news/rostec-will-unveil-korsar-drone-at-victory-parade/)
 
-
 ### Mohajer-6
-#### Kalustokuva
-![mohajer-6](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/mohajer-6/mohajer-6-01.png)
 
 #### Kalustokuvaus
 
@@ -462,11 +410,7 @@ Avoimissa lähteissä tekniset tiedot vaihtelevat alaversioittain ja lähteittä
 
 - [ODIN – Mohajer-6](https://odin.tradoc.army.mil/WEG/Asset/Mohajer-6_Iranian_Unmanned_Aerial_Vehicle_%28UAV%29)
 
-
 ### Okhotnik-S-70
-#### Kalustokuva
-![okhotnik-s-70](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-01.png)
-![okhotnik-s-70](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/okhotnik-s-70/okhotnik-s-70-02.png)
 
 #### Kalustokuvaus
 
@@ -490,12 +434,7 @@ Tuotantomääristä, kypsyystasosta ja todellisesta palvelusvalmiudesta on edell
 - [ODIN – S-70 Okhotnik-B](https://odin.tradoc.army.mil/WEG/Asset/e294539d6f7c877842a5a8595fc535f5)
 - [Rostec – serial production statement](https://rostec.ru/en/media/pressrelease/rostec-to-start-serial-production-of-okhotnik-heavy-attack-drones-in-2023/)
 
-
 ### Orion-E-Inokhodets
-#### Kalustokuva
-![orion-e-inokhodets](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-01.png)
-![orion-e-inokhodets](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-02.png)
-![orion-e-inokhodets](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orion-e-inokhodets/orion-e-inokhodets-03.png)
 
 #### Kalustokuvaus
 
@@ -519,12 +458,7 @@ Järjestelmä on suurempi ja kalliimpi kuin etulinjan kulutettavat UAV:t, mikä 
 - [Rostec – Orion-E references](https://rostec.ru/en/media/news/rosoboronexport-to-showcase-advanced-russian-solutions-at-xii-international-meeting-of-high-represen/)
 - [Rosoboronexport – Orion-E export/market references](https://rostec.ru/en/media/news/rosoboronexport-offers-to-organize-production-and-service-of-russian-uavs-abroad-during-umex-2024/)
 
-
 ### Orlan-10
-#### Kalustokuva
-![orlan-10](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-01.png)
-![orlan-10](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-02.png)
-![orlan-10](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-10/orlan-10-03.png)
 
 #### Kalustokuvaus
 
@@ -548,12 +482,7 @@ Alusta ei ole erityisen selviytymiskykyinen modernia elektronista sodankäyntiä
 - [ODIN – Orlan-10](https://odin.tradoc.army.mil/WEG/Asset/Orlan-10_Russian_Unmanned_Aerial_Vehicle_%28UAV%29)
 - [Rostec – Orlan export references](https://rostec.ru/en/media/news/rosoboronexport-to-unveil-latest-russian-weapons-and-civilian-equipment-at-sitdef-peru-2025/)
 
-
 ### Orlan-30
-#### Kalustokuva
-![orlan-30](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-01.png)
-![orlan-30](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-02.png)
-![orlan-30](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/orlan-30/orlan-30-03.png)
 
 #### Kalustokuvaus
 
@@ -577,11 +506,7 @@ Järjestelmä on suurempi ja siten näkyvämpi sekä mahdollisesti kalliimpi kui
 - [ODIN – Orlan-30](https://odin.tradoc.army.mil/WEG/Asset/Orlan-30_Russian_Unmanned_Aerial_Vehicle_%28UAV%29)
 - [Rostec – Orlan-30 references](https://rostec.ru/en/media/news/rosoboronexport-to-unveil-latest-russian-weapons-and-civilian-equipment-at-sitdef-peru-2025/)
 
-
 ### Supercam-S150
-#### Kalustokuva
-![supercam-s150](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-01.png)
-![supercam-s150](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s150/supercam-s150-02.png)
 
 #### Kalustokuvaus
 
@@ -605,12 +530,7 @@ Kevyt runko, sähköinen voimalinja ja line-of-sight-riippuvuus rajaavat syvyyss
 - [Supercam – S150](https://en.supercam.aero/catalog/supercams150)
 - [GUR War&Sanctions – Supercam S150](https://war-sanctions.gur.gov.ua/en/uav/335)
 
-
 ### Supercam-S350
-#### Kalustokuva
-![supercam-s350](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-01.png)
-![supercam-s350](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-02.png)
-![supercam-s350](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/supercam-s350/supercam-s350-03.png)
 
 #### Kalustokuvaus
 
@@ -635,11 +555,7 @@ Järjestelmä nojaa yhä datalinkkiin, GNSS:ään ja suhteellisen haavoittuvaan 
 - [ODIN – Supercam S350](https://odin.tradoc.army.mil/WEG/Asset/955834539eadc753a28aa1f7843efa3e)
 - [Rostec – Supercam S350](https://rostec.ru/en/media/news/rostec-showcased-at-idex-an-efficient-guidance-system-of-the-russian-army-the-supercam-drone/)
 
-
 ### Takhion
-#### Kalustokuva
-![takhion](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-01.png)
-![takhion](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/takhion/takhion-02.png)
 
 #### Kalustokuvaus
 
@@ -663,10 +579,7 @@ Järjestelmä nojaa edelleen line-of-sight-ohjaukseen ja suhteellisen haavoittuv
 - [ODIN – Takhion](https://odin.tradoc.army.mil/WEG/Asset/bf3a83b98ecc201632a9895d1f6ee339)
 - [TASS – Takhion in Russian service](https://tass.com/defense/848708)
 
-
 ### Yakovlev-Pchela
-#### Kalustokuva
-![yakovlev-pchela](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/yakovlev-pchela/yakovlev-pchela-01.png)
 
 #### Kalustokuvaus
 
@@ -690,12 +603,7 @@ Järjestelmä on vanhentunut suhteessa nykyisiin EO/IR-, linkki- ja selviytymisk
 - [FPRI – Russian Military Drones](https://www.fpri.org/wp-content/uploads/2023/11/russian-military-drones-.pdf)
 - [CNAS/Facon – Perspective on Russia](https://www.frstrategie.org/sites/default/files/documents/publications/autres/2016/2016-facon-cnas-proliferated-drones.pdf)
 
-
 ### ZALA-421-08
-#### Kalustokuva
-![zala-421-08](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-01.png)
-![zala-421-08](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-02.png)
-![zala-421-08](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-08/zala-421-08-03.png)
 
 #### Kalustokuvaus
 
@@ -719,11 +627,7 @@ Kevyt alusta rajoittaa kantamaa, hyötykuormaa ja huonon sään kestävyyttä. S
 - [ZALA Aero – 421-08M](https://zala-aero.com/en/product/zala-421-08m-legkij-i-besshumnyj-bla/)
 - [ZALA Aero – product family](https://zala-aero.com/en/products/bvs/)
 
-
 ### ZALA-421-16
-#### Kalustokuva
-![zala-421-16](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-01.png)
-![zala-421-16](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-16/zala-421-16e-02.png)
 
 #### Kalustokuvaus
 
@@ -747,11 +651,7 @@ Perhe on teknisesti hajanainen, joten yhden version suorituskykyä ei pidä ylei
 - [ZALA Aero – 421-16 product family](https://zala-aero.com/en/products/bvs/)
 - [ZALA Aero – 421-16E5G](https://zala-aero.com/en/news/the-pervyj-otechestvennyj-bespilotnyj-kompleks-with-gibridnoj-silovoj-instanovkoj-zala-421-16e5g/)
 
-
 ### ZALA-421-22
-#### Kalustokuva
-![zala-421-22](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-01.png)
-![zala-421-22](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-421-22/zala-421-22-02.png)
 
 #### Kalustokuvaus
 
@@ -775,12 +675,7 @@ Roottorialusta on tyypillisesti hitaampi, äänekkäämpi ja lyhytkestoisempi ku
 - [ZALA Aero – 421-22](https://zala-aero.com/en/product/zala-421-22-malogabaritnyj-bpla-vertoletnogo-tipa/)
 - [ZALA Aero – 421-22 usage examples](https://zala-aero.com/en/news/bvs-zala-proshli-ispytanija-v-kazahstane/)
 
-
 ### ZALA-Lancet
-#### Kalustokuva
-![zala-lancet](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-01.png)
-![zala-lancet](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-02.png)
-![zala-lancet](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zala-lancet/lancet-1-03.png)
 
 #### Kalustokuvaus
 
@@ -804,10 +699,7 @@ Kertakäyttöisyys ja suhteellisen kevyt taistelukärki rajoittavat vaikutusta r
 - [Rostec – Lancet-E at ADEX 2024](https://rostec.ru/en/media/news/rosoboronexport-to-exhibit-lancet-e-loitering-munition-system-overseas-for-first-time-at-adex-2024/)
 - [Kalashnikov Group – Lancet/KUB news](https://en.kalashnikovgroup.ru/news/kalashnikov-kub-line-named-golden-idea)
 
-
 ### Zastava
-#### Kalustokuva
-![zastava](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-ilma-alukset/zastava/zastava-01.png)
 
 #### Kalustokuvaus
 
@@ -830,74 +722,3 @@ Kevyen mini-UAV:n tavoin järjestelmä kärsii rajallisesta kantamasta ja hyöty
 
 - [Conflict Armament Research – Drones in Ukraine / Zastava evidence](https://storymaps.arcgis.com/stories/b9b6bca72ee54b0a9c5f683708248b32)
 - [Jamestown – Russia's UAVs and UCAVs](https://jamestown.org/russias-uavs-and-ucavs-isr-and-future-strike-capabilities/)
-
-
-## Miehittamattomat-maa-ajoneuvot
-
-### Cobra-1600
-#### Kalustokuva
-![cobra-1600](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/cobra-1600/cobra-1600-01.png)
-
-#### Kalustotiedot
-
-### Kapitan
-#### Kalustokuva
-![kapitan](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/kapitan/kapitan-01.png)
-
-#### Kalustotiedot
-
-### Marker
-#### Kalustokuva
-![marker](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-01.png)
-![marker](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/marker/marker-02.png)
-
-#### Kalustotiedot
-
-### MRK-3
-#### Kalustokuva
-![mrk-3](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-3/mrk-3-01.png)
-
-#### Kalustotiedot
-
-### MRK-35MA
-#### Kalustokuva
-![mrk-35ma](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-35ma/mrk-35ma-01.png)
-
-#### Kalustotiedot
-
-### MRK-46
-#### Kalustokuva
-![mrk-46](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/mrk-46/mrk-46-01.png)
-
-#### Kalustotiedot
-
-### Nerekhta
-#### Kalustokuva
-![nerekhta](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/nerekhta/nerekhta-01.png)
-
-#### Kalustotiedot
-
-### Prokhod-1
-#### Kalustokuva
-![prokhod-1](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/prokhod-1/prokhod-1-01-01.png)
-
-#### Kalustotiedot
-
-### Uran-14
-#### Kalustokuva
-![uran-14](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-14/uran-14-01.png)
-
-#### Kalustotiedot
-
-### Uran-6
-#### Kalustokuva
-![uran-6](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-6/uran-6-01.png)
-
-#### Kalustotiedot
-
-### Uran-9
-#### Kalustokuva
-![uran-9](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-01.png)
-![uran-9](../../images/01-puolustushaarat/06-miehittamattomat-jarjestelmat/miehittamattomat-maa-ajoneuvot/uran-9/uran-9-02.png)
-
-#### Kalustotiedot
