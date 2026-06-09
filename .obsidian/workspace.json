@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01-puolustushaarat/ilma-avaruusvoimat.md",
+                "file": "docs/01-puolustushaarat/merivoimat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ilma-avaruusvoimat"
+              "title": "merivoimat"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 221.5
   },
   "right": {
     "id": "4b723529d71c7c55",
@@ -185,6 +185,13 @@
   },
   "active": "1635b8498fc29732",
   "lastOpenFiles": [
+    "merivoimat.pdf",
+    "docs/01-puolustushaarat/miehittamattomat-jarjestelmat.md",
+    "docs/01-puolustushaarat/hakemisto.md",
+    "docs/02-sotilaspiirit/01-leningradin-sotilaspiiri.md",
+    "docs/01-puolustushaarat/maavoimat.md",
+    "docs/01-puolustushaarat/merivoimat.md",
+    "docs/01-puolustushaarat/ilma-avaruusvoimat.md",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/tupolev-tu-214/tupolev-tu-214-01.png",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-80/ilyushin-il-80-01.png",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet/ilyushin-il-78/ilyushin-il-78-02.png",
@@ -202,22 +209,17 @@
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/valvonta-johto-ja-erikoiskoneet",
     "sources/01-puolustushaarat-sources.md",
     "russian-active-military-aircraft-categorized.md",
-    "docs/01-puolustushaarat/miehittamattomat-jarjestelmat.md",
-    "docs/01-puolustushaarat/ilma-avaruusvoimat.md",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/erikois-ja-tukikoneet/tupolev-tu-214/tupolev-tu-214-01.png",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/erikois-ja-tukikoneet/tupolev-tu-214",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/erikois-ja-tukikoneet/Uusi kansio",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/erikois-ja-tukikoneet/ilyushin-il-80/ilyushin-il-80-01.png",
     "images/01-puolustushaarat/03-ilma-avaruusvoimat/erikois-ja-tukikoneet/ilyushin-il-80",
-    "images/01-puolustushaarat/03-ilma-avaruusvoimat/erikois-ja-tukikoneet/ilyushin-il-18-20-22/ilyushin-il-18-20-22-01.png",
     "README.md",
     "russian-active-military-aircraft-selected-sources.md",
     "merged_preview.md",
     "ilma_avaruusvoimat_puuttuvat.md",
     "ilma_avaruusvoimat_kalusto_katsaus.md",
     "docs/01-puolustushaarat/maahanlaskujoukot.md",
-    "docs/01-puolustushaarat/maavoimat.md",
-    "docs/01-puolustushaarat/merivoimat.md",
     "docs/01-puolustushaarat/README.md",
     "miehittamattomat_maa_ajoneuvot_katsaus.md",
     "docs/readme.md",
@@ -228,8 +230,6 @@
     "miehittamattomat_ilma_alukset_katsaus.md",
     "Nimetön.md",
     "miehittamattomat-jarjestelmat.md",
-    "tmp_fix_preview.md",
-    "russian-ground-forces-unmanned-ground-vehicles-updated.md",
-    "russian-ground-forces-unmanned-aerial-vehicles.md"
+    "tmp_fix_preview.md"
   ]
 }
